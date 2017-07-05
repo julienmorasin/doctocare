@@ -5,7 +5,8 @@
  */
 body {
   font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+ }
 
 p {
   font-size: 20px; }
@@ -444,3 +445,18 @@ footer {
 .btn:active,
 .btn.active {
   outline: none; }
+
+  /* Ajout classe pour centrer le formulaire de recherche accueil */
+#center_form {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: center;
+}
+
+#bouton_recherche {
+  height: 10%;
+  width: 15%;
+  background-color: #FF5B62;
+  color: white;
+}
