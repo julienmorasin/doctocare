@@ -198,8 +198,7 @@ header.masthead {
       -webkit-transition: all ease .5s;
       -moz-transition: all ease .5s;
       transition: all ease .5s;
-      opacity: 0;
-      background: rgba(24, 188, 156, 0.9); }
+      opacity: 0;}
       #portfolio .portfolio-item .portfolio-link .caption:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -210,7 +209,7 @@ header.masthead {
         height: 20px;
         margin-top: -12px;
         text-align: center;
-        color: white; }
+        color: #4FBDCE; }
         #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
           margin-top: -12px; }
         #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
