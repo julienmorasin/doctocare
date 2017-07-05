@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
   overflow-x: hidden; }
 
 p {
@@ -27,9 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
-  text-transform: uppercase; }
+  font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
+  font-weight: 700; }
 
 hr.star-light,
 hr.star-primary {
@@ -101,7 +100,7 @@ section.success {
       outline: none; }
 
 #mainNav {
-  font-family: 'Open Sans', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
   font-weight: 700;
   border: none;
   background: #fff; }
@@ -110,7 +109,7 @@ section.success {
   #mainNav .navbar-brand {
     color: #4FBDCE; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:active, #mainNav .navbar-brand.active {
-      color: white; }
+      color: #4FBDCE; }
   #mainNav .navbar-nav {
     letter-spacing: 1px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
