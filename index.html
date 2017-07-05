@@ -24,7 +24,7 @@
     .navbar-toggler {
         z-index: 1;
     }
-    
+
     @media (max-width: 576px) {
         nav > .container {
             width: 100%;
@@ -62,12 +62,17 @@
     <!-- Header -->
     <header class="masthead">
         <div class="container">
-            <img class="img-fluid" src="img/profile.png" alt="">
-            <div class="intro-text">
-                <span class="name">doctocare</span>
-                <hr class="star-light">
-                <span class="skills">Connectez votre santé</span>
+          <form class="" id="center_form">
+            <div class="form-group">
+              <label class="sr-only" for="medecin">Nom du médecin</label>
+              <input type="text" class="form-control" id="medecin" placeholder="Nom du médecin">
             </div>
+            <div class="form-group">
+              <label class="sr-only" for="spécialité">Spécialité</label>
+              <input type="text" class="form-control" id="spécialité" placeholder="Spécialité">
+            </div>
+            <button type="submit" class="btn btn-default">Rechercher</button>
+          </form>
         </div>
     </header>
 
@@ -165,7 +170,7 @@
                         </div>
                         <img class="img-fluid" src="img/drop.svg" alt="">
                         <p class="text-center">Thermalisme</p>
-                        
+
                     </div>
                 </div>
             </div>
