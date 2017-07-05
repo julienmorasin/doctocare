@@ -450,7 +450,6 @@ footer {
   display: flex;
   flex-direction: row;
   margin: auto;
-<<<<<<< HEAD
   justify-content: center;
 }
 
@@ -459,8 +458,6 @@ footer {
   width: 15%;
   background-color: #FF5B62;
   color: white;
-=======
   background-color: red;
 
->>>>>>> e122bd1e6c8e65175d630dd6ae88c3cd80c88f42
 }
