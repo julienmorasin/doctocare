@@ -7,7 +7,10 @@ Ce programme a pour but de faciliter l'insertion de données massives dans une b
 
 ##### Définitions #####
 def insertion_colonne (table, nom_colonne, fichier_entree, fichier_sortie, id_start = 1, header = False) :
-    ''' Permet de systématiser l'insertion d'une colonne de données dans une table SQL existante '''
+    ''' 
+    Permet de systématiser l'insertion d'une colonne de données dans une table SQL existante
+    insertion_colonne (table, nom_colonne, fichier_entree, fichier_sortie, id_start = 1, header = False)
+    '''
     data_input = open(fichier_entree, 'r')
     data_output = open (fichier_sortie, 'w')
     
