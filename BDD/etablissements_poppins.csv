@@ -9,7 +9,7 @@ DGC","Aeronat
 dgcampus",523 822 971 00025,RE,RE,2*,Grand Paris ,78210,17 Rue de l'Aérostration Maritime,Aéronat,laeronat.com
 Abricotiers ex Club de Vacances,Argelès-sur-mer,Ophélie Mafray ,"CVA 
 devient --> 
-ABR",abricotiers,523 822 112 00364,RE,CA,2*,Mer et océan,66 701,Chemin de Nèguebous Taxo d'Avall  ,DG Holidays,lesabriscotiers.com
+ABR",abricotiers,523 822 112 00364,RE,CA,2*,Mer et océan,66701,Chemin de Nèguebous Taxo d'Avall  ,DG Holidays,lesabriscotiers.com
 Améthyste ,Dinard,Agnès Cortyl,AME,,799 023 825 00067,RE,HO,2*,Mer et océan,35800,2 Rue des bains-St Enogat,DG Hotels Grand Ouest,amethyste-dinard.com
 Bachat,Chamrousse,Alexandre Néel ,BCH,bachat,523 812 112 00 406,RR,RR,,Montagne et sport,38410,Route de Bachat Bouloud ,DG Holidays,lebachat.com
 Bain Romain,Plombières -les-Bains,Christine Vataire,BRO,bainromain,532 152 287 00019,RE,RE,,Nature et Bien être,88370,4 Place du Bain Romain,NSRN,plombieres-les-bains.com
@@ -19,7 +19,7 @@ Canal Suites,Paris,Shaï Ben-David,CAN,canalsuites,518 126 990 00135,RE,RE,3*,Gr
 Carmin,Vitry -sur-Seine,HNID Mohamed,CRM,carmin,518 126 990 00044,RE,"RE, HO",2*,Grand Paris ,94400,1 Avenue Eugène Pelletan,DG Urbans,lecarmin-vitry.com
 Carré de Soie,Vaux en Velin ,Amel Belkherroubi,CRS,carredesoie,814 920 153 00057,FJT,RE,na,Popinns,69120,25 Av Roger Salengro,Popinns,www.poppins.org
 Castel Albertine,Honfleur,Pascal-Francisco Dorizon,CAS,albertine,799 023 825 00059,RE,HO,3*,,14600,19 Cours Albert Manuel,DG Hotels Grand Ouest,castelalbertine.com
-Chalet de l'Eterlou,Serre -Chevalier,Delphine Guillery ,ETL,eterlou,523 822 112 0307,RE,RE,,Montagne et sport,05 330,"6 rue du centre 
+Chalet de l'Eterlou,Serre -Chevalier,Delphine Guillery ,ETL,eterlou,523 822 112 0307,RE,RE,,Montagne et sport,5330,"6 rue du centre 
 ",DG Holidays,lechaletdeleterlou.com
 Château Golf des Sept Tours,Courcelles -de-Touraine,Thi Thuy NGUYEN ,C7T,chateau7tours,523 822 112 00182,RE,HO,NC,Nature et Bien être,37330,Le Vivier des Landes,DG Holidays,chateaudes7tours.com
 Chateau des Magnans,Jausiers,Noelle BONIN,CDM,chateaumagnans,523 822 112 00034,RE,"HO, RE",3*,Montagne et sport,04850,Route de Nice,DG Holidays,chateaudesmagnans.com
@@ -35,7 +35,7 @@ Eurocéan La Baule Guérande,Guérande,Nathalie Poupard,EUR,eurocean,799 023 825
 Gens de Mer - Boulogne,Boulogne sur mer,Philippe Arnoult,BOU,gdmboulogne,518 126 990  00150,RE,HO,2*,Mer et océan,62200,Quai Chanzy,DG Urbans,
 Gens de Mer - Brest,Brest,Nicolas Duval,BRE,gdmbrest,518 126 990 00226,RE,HO,2*,Mer et océan,29200,44 quai de la douane,DG Urbans,www.gdmbrest.com
 Gens de Mer - Dunkerque,dunkerque,Marianne H.Gosse,DUN,gdmdunkerque,518 126 990 00184,RE,HO,2*,Mer et océan,59140,1 Quai du risban,DG Urbans,www.gdmdunkerque.com
-Gens de Mer - La Rochelle,La Rochelle,Marylise Boulic,ROC,gdmlarochelle,518 126 990 00192,RE,HO,2*,Mer et océan,17 000,20 avenue du Général De Gaulle,DG Urbans,www.gdmlarochelle.com
+Gens de Mer - La Rochelle,La Rochelle,Marylise Boulic,ROC,gdmlarochelle,518 126 990 00192,RE,HO,2*,Mer et océan,17000,20 avenue du Général De Gaulle,DG Urbans,www.gdmlarochelle.com
 Gens de Mer - Le Havre,Le Havre,Helene Houdart,HAV,gdmlehavre,518 126 990 00168,RE,HO,2*,Mer et océan,76600,"44, rue Volttaire",DG Urbans,www.gdmlehavre.com
 Gens de Mer - Lorient,Lorient,Philippe Gouirand,LOR,gdmlorient,518 126 990 00143,RE,HO,2*,Mer et océan,56100,14 boulevard Nail ,DG Urbans,www.gdmlorient.com
 Gens de Mer - Marseille,Marseille,Luc Zwaenepoel,MRS,gdmmarseille,518 126 990 00200,RE,HO,2*,Mer et océan,13002,25 rue de forbin,DG Urbans,www.gdmmarseille.com
@@ -48,7 +48,7 @@ Hôtel d'Angleterre,Vittel,Christian Brunet,ANG,hotelangleterre,523 822 112 0042
 Résidences du Haut Val et Les Sablons,Bellême,Maud Loire,HVL,hautval,,RE,RE,,Nature et Bien être,,Les Résidences du Haut-Val - Les Sablons,Normandy Country Club,www.nccbelleme.com
 Jardins de Ramel,Bagnères de Luchon,Corinne SIllières,JDR,ramel,527 928 022 00039,RE,RE,3*,Montagne et sport,31110,Boulevard Amédée Fontant,La Reine Blanche,jardinsderamel-luchon.com
 Jardins de Saint Benoît,Saint-Laurent -de-la-Cabrerisse,Cheick Cisse,JSB,saintbenoit,523 822 112 00208,RE,RE,4*,Nature et Bien être,11220,Route de Talairan,DG Holidays,jardinsdesaintbenoit.com
-Kangourou,Fréjus,Olivier Seignour,KAN,kangourou,523 822 112 00273,RE,CL,pas classé,Mer et océan,83 600,992 Rue Henri Giraud   ,DG Holidays,lekangourou-frejus.com
+Kangourou,Fréjus,Olivier Seignour,KAN,kangourou,523 822 112 00273,RE,CL,pas classé,Mer et océan,83600,992 Rue Henri Giraud   ,DG Holidays,lekangourou-frejus.com
 Lion de Mer,Saint Raphaël,Anna Pilch,LDM,liondemer,523 822 112 00281,RE,CL,pas classé,Mer et océan,83700,218 Bd St Exupéry ,DG Holidays,leliondemer.com
 Ma Normandie,Bréville les Monts, Jean Claude Chacon,MNO,manormandie,523 822 112 00331,RE,CL,,Nature et Bien être,14860,Le Bas de Bréville ,DG Holidays,"manormandie-breville
 lesmonts.com"
