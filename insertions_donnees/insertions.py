@@ -44,8 +44,7 @@ def insertion_lignes (table, nom_colonnes, fichier_entree, fichier_sortie = 'ins
     
     data_input = open(fichier_entree, 'r')
     data_output = open(fichier_sortie, 'w')
-    
-    
+        
     
     data_output.write("INSERT INTO " + table + " (" + nom_colonnes + ") VALUES\n")
     
@@ -62,12 +61,53 @@ def insertion_lignes (table, nom_colonnes, fichier_entree, fichier_sortie = 'ins
     
     content = content[:-2] + ";"
     
+    if (header) :
+        index = content.find(')')
+        content = content[index + 3:]
+    
+    data_output.write(content)
+    
+    data_input.close()
+    data_output.close()
+    
+def update_collaborateur (header=True) :
+    ''' 
+        Permet de réaliser rapidement l'update de la table des collaborateurs en prenant toujours les memes paramètres.
+    '''
+    
+    fichier_entree = 'collaborateurs_google.csv'
+    data_input = open(fichier_entree, 'r')
+    data_output = open("instructions.sql", 'w')
+    
+    
+    
+    data_output.write("INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, description, titre, departement) VALUES\n")
+    
+    content = ''
+    
+    for ligne in data_input : 
+        # Supprime les " présents de base dans le fichier #
+        ligne = ligne.replace('"', '')
+        ligne = ligne.replace('undefined', 'null')
+        
+        content += "("
+        
+        for x in ligne.split(',') :
+            content += "\"" + x + "\", "
+            
+        content = content[:-2] + "),\n"
+    
+    content = content[:-2] + "\n"
+    content += "ON CONFLICT (mail) DO NOTHING;"
+    
+    if (header) :
+        index = content.find(')')
+        content = content[index + 3:]
+    
+    
     data_output.write(content)
     
     data_input.close()
     data_output.close()
 
 ##### Exploitation #####
-
-#insertion_colonne(table = 'etablissement', nom_colonne = 'structure_juridique', fichier_entree = 'structure_juridique.csv', fichier_sortie = 'instructions.sql')
-insertion_lignes ('ma_table', 'id, nom', 'donnees_entree.csv')
