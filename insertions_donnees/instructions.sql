@@ -243,7 +243,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Alyson', 'Bradley', 'alyson.bradley@amapa.fr', 'null', 'TI JIKOUR', 'null', 'null', 'OPRTS
 '),
-('Amadou', 'Diallo', 'amadou.diallo@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Amadou', 'Diallo', 'amadou.diallo@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction opticien
 '),
 ('Amanda', 'Magnani', 'amanda.magnani@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -501,7 +501,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Anne', 'Andresen', 'anne.andresen@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Anne', 'Becherie', 'anne.becherie@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Anne', 'Becherie', 'anne.becherie@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Anne', 'Berard', 'anne.berard@doctocare.com', 'null', 'APATS', 'null', 'SECRETAIRE MEDICALE', 'secretaire-med
 '),
@@ -633,7 +633,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Anthony', 'Biget', 'anthony.biget@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Anthony', 'Krief', 'anthony.krief@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Anthony', 'Krief', 'anthony.krief@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Anthony', 'Palassi', 'anthony.palassi@popinns.com', 'null', 'DG Urbans', 'null', 'Second de Cuisine', 'OPRTS
 '),
@@ -1029,7 +1029,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Bernard', 'Marpeaux', 'bernard.marpeaux@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ENCADREMENT', 'assistant-direction
 '),
-('Bernard', 'Zanardo', 'bernard.zanardo.exit@dgmail.fr', 'null', 'null', 'null', 'Directeur Administratif', ' Financier et du Système d/Information', 'AMAPA - Siège -Direction Administrative', ' Financière et du Système d/Information
+('Bernard', 'Zanardo', 'bernard.zanardo.exit@dgmail.fr', 'null', 'null', 'null', 'Directeur Administratif  Financier et du Système d/Information', 'AMAPA - Siège -Direction Administrative  Financière et du Système d/Information
 '),
 ('Bernard', 'Bensaid', 'bernard@bensaid.me', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1165,7 +1165,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Bruno', 'Neves', 'bruno.neves@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Bruno', 'Prossomariti', 'bruno.prossomariti.exit@dgmail.fr', 'null', 'null', 'null', 'Responsable Informatique DG Help - Amapa', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d/Information
+('Bruno', 'Prossomariti', 'bruno.prossomariti.exit@dgmail.fr', 'null', 'null', 'null', 'Responsable Informatique DG Help - Amapa', 'AMAPA - Siège - Direction Administrative  Financière et du Système d/Information
 '),
 ('Bruno', 'Vallorani', 'bruno.vallorani@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1517,7 +1517,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Celine', 'Balsamo', 'celine.balsamo@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Celine', 'Brun', 'celine.brun@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Celine', 'Brun', 'celine.brun@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Celine', 'Chapron', 'celine.chapron@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1555,7 +1555,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Celine', 'Ngo Ndoknje', 'celine.ngo-ndoknje@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
-('Celine', 'Pariguet', 'celine.pariguet@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Celine', 'Pariguet', 'celine.pariguet@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Celine', 'Petesic', 'celine.petesic@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1975,7 +1975,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Christophe', 'Chouquet', 'christophe.chouquet@dgmail.fr', 'null', 'null', 'null', 'Technicien Infrastructures et Machines (Clinique Vauban)', 'Informatique
 '),
-('Christophe', 'Gaspais', 'christophe.gaspais@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Christophe', 'Gaspais', 'christophe.gaspais@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Christophe', 'Girousse', 'christophe.girousse@doctocare.com', 'null', 'null', 'null', 'dentiste implantologue', 'null
 '),
@@ -2433,7 +2433,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('David', 'Bretagne', 'david.bretagne@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('David', 'Cocq', 'david.cocq@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('David', 'Cocq', 'david.cocq@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('David', 'COSSIN', 'david.cossin@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -3057,7 +3057,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Eric', 'Bismuth', 'eric.bismuth@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Eric', 'Bourdois', 'eric.bourdois@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Eric', 'Bourdois', 'eric.bourdois@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Eric', 'Ernst', 'eric.ernst@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -3553,7 +3553,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Frédéric', 'Mory', 'frederic.mory@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Frederic', 'Pierron', 'frederic.pierron@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Frederic', 'Pierron', 'frederic.pierron@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Frederique', 'Berard', 'frederique.berard@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -3905,7 +3905,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Hellen', 'Assoygnon', 'hellen.assoygnon@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Henri', 'Miech', 'henri.miech@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Henri', 'Miech', 'henri.miech@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Henriette', 'Caroubi', 'henriette.caroubi@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
@@ -3937,7 +3937,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('hprimnet', 'dlsanté', 'hprimnet@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Hugo', 'Barelly', 'hugo.barelly@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN RESPONSABLE', 'direction', ' opticien
+('Hugo', 'Barelly', 'hugo.barelly@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN RESPONSABLE', 'direction  opticien
 '),
 ('Huguette', 'Jansch', 'huguette.jansch@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4051,7 +4051,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Isabelle', 'Ferrant', 'isabelle.ferrant@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Isabelle', 'Fradet', 'isabelle.fradet@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Isabelle', 'Fradet', 'isabelle.fradet@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Isabelle', 'Frattini', 'isabelle.frattini@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4527,7 +4527,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Josiane', 'Badou', 'josiane.badou@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Josiane', 'Baudry', 'josiane.baudry@doctocare.com', 'null', 'APATS', 'null', 'RESPONSABLE IMAGERIE', 'direction', ' radio
+('Josiane', 'Baudry', 'josiane.baudry@doctocare.com', 'null', 'APATS', 'null', 'RESPONSABLE IMAGERIE', 'direction  radio
 '),
 ('Josiane', 'Bevilacqua', 'josiane.bevilacqua@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4579,7 +4579,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Julie', 'Dias', 'julie.dias@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Julie', 'Fretard', 'julie.fretard@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN - OPTOMÃ‰TRISTE', 'direction', ' opticien
+('Julie', 'Fretard', 'julie.fretard@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN - OPTOMÃ‰TRISTE', 'direction  opticien
 '),
 ('Julie', 'Gauthier', 'julie.gauthier@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -4691,7 +4691,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Karine', 'Jamar', 'karine.jamar@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Karine', 'Lebonnois', 'karine.lebonnois@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Karine', 'Lebonnois', 'karine.lebonnois@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Karine', 'Lechat', 'karine.lechat@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -5105,7 +5105,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Lionel', 'Rozier', 'lionel.rozier@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Lionel', 'Tixier', 'lionel.tixier@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Lionel', 'Tixier', 'lionel.tixier@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Lisa', 'Filipone', 'lisa.filipone@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -6069,7 +6069,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Maryline', 'Lopez', 'maryline.lopez@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Maryline', 'Milici', 'maryline.milici.exit@amapa.fr', 'null', 'null', 'null', 'null', 'Comptabilité', ' Paye', ' Administratif', ' 
+('Maryline', 'Milici', 'maryline.milici.exit@amapa.fr', 'null', 'null', 'null', 'null', 'Comptabilité  Paye  Administratif  
 '),
 ('Marylise', 'Boulic', 'marylise.boulic@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -7865,7 +7865,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Samia', 'Lalmi', 'samia.lalmi@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Samir', 'Bennai', 'samir.bennai@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Samir', 'Bennai', 'samir.bennai@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Samira', 'Guerra', 'samira.guerra@amapa.fr', 'null', 'MONESTIER', 'null', 'null', 'OPRTS
 '),
@@ -8081,7 +8081,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sephora', 'Drillon', 'sephora.drillon@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Serge', 'Bufflier', 'serge.bufflier@amapa.fr', 'null', 'Ehpad Val Montjoie', 'null', 'null', 'Technique', ' Sécurité', ' Entretien', ' Travaux
+('Serge', 'Bufflier', 'serge.bufflier@amapa.fr', 'null', 'Ehpad Val Montjoie', 'null', 'null', 'Technique  Sécurité  Entretien  Travaux
 '),
 ('Serge', 'Chali', 'serge.chali@popinns.com', 'null', 'Popinns', 'null', 'Agent de maintenance', 'OPRTS
 '),
@@ -8547,7 +8547,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sylviane', 'Sadou', 'sylviane.sadou@amapa.fr', 'null', 'TI JIKOUR', 'null', 'null', 'OPRTS
 '),
-('Sylviane', 'Schmitt', 'sylviane.schmitt@amapa.fr', 'null', 'null', 'null', 'Responsable contentieux civil', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d/Information
+('Sylviane', 'Schmitt', 'sylviane.schmitt@amapa.fr', 'null', 'null', 'null', 'Responsable contentieux civil', 'AMAPA - Siège - Direction Administrative  Financière et du Système d/Information
 '),
 ('Sylviane', 'Testolin', 'sylviane.testolin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -8823,7 +8823,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Valerie', 'Avisse', 'valerie.avisse@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Valerie', 'Barbe', 'valerie.barbe@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Valerie', 'Barbe', 'valerie.barbe@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Valerie', 'Baudin', 'valerie.baudin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -8833,7 +8833,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Valerie', 'Champenois', 'valerie.champenois@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Valerie', 'Chauvin', 'valerie.chauvin@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
+('Valerie', 'Chauvin', 'valerie.chauvin@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction  opticien
 '),
 ('Valerie', 'Chaveroche', 'valerie.chaveroche@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -9025,7 +9025,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Veronique', 'Perruchon', 'veronique.perruchon@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Veronique', 'Pillot', 'veronique.pillot.exit@amapa.fr', 'null', 'null', 'null', 'null', 'Facturation', ' Recouvrement', ' Achat
+('Veronique', 'Pillot', 'veronique.pillot.exit@amapa.fr', 'null', 'null', 'null', 'null', 'Facturation  Recouvrement  Achat
 '),
 ('Veronique', 'Portier', 'veronique.portier@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
