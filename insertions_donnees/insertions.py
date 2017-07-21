@@ -59,6 +59,7 @@ def insertion_lignes (table, nom_colonnes, fichier_entree, fichier_sortie = 'ins
             content += "\"" + x + "\", "
         content = content[:-2] + "),\n"
     
+    content = content.replace('""', '"null"')
     content = content[:-2] + ";"
     
     if (header) :
