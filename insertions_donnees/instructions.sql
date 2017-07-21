@@ -21,7 +21,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Adeline", "Fischer", "adeline.fischer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Adeline", "Gardy", "adeline.gardy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Adeline", "Gardy", "adeline.gardy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Adeline", "Jacques", "adeline.jacques@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -51,7 +51,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Agnes", "Ayadi", "agnes.ayadi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Agnes", "Battut", "agnes.battut@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Agnes", "Battut", "agnes.battut@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Agnès", "Berger", "agnes.berger@amapa.fr", "null", "null", "null", "Directrice", "DG HELP
 "),
@@ -71,19 +71,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Agnes", "Krener", "agnes.krener@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Agnes", "Matoux", "agnes.matoux@amapa.fr", "null", "", "null", "", "OPRTS
+("Agnes", "Matoux", "agnes.matoux@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
-("Agnes", "Menardie", "agnes.menardie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Agnes", "Menardie", "agnes.menardie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Agnes", "Pezzana", "agnes.pezzana@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Agnes", "Raymond", "agnes.raymond@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Agnes", "Raymond", "agnes.raymond@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
-("Agnes", "Regner", "agnes.regner@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Agnes", "Regner", "agnes.regner@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Agnes", "Sermadiras", "agnes.sermadiras@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Agnes", "Sermadiras", "agnes.sermadiras@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Agnes", "Vermeesch", "agnes.vermeesch@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Agnes", "Vermeesch", "agnes.vermeesch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Agnieszka", "Peitler", "agnieszka.peitler@doctocare.com", "null", "null", "null", "assistante dentaire", "null
 "),
@@ -141,7 +141,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Alexandra", "Bellazaar", "alexandra.bellazaar@cliniquevauban.com", "null", "null", "null", "Responsable des services administratifs et Oncologie", "Administratifs et Oncologie
 "),
-("Alexandra", "Bertry", "alexandra.bertry@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alexandra", "Bertry", "alexandra.bertry@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alexandra", "Boime", "alexandra.boime@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -159,13 +159,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Alexandra", "Mercier", "alexandra.mercier@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Alexandra", "Morel", "alexandra.morel@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Alexandra", "Morel", "alexandra.morel@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Alexandra", "Petit", "alexandra.petit@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alexandra", "Petit", "alexandra.petit@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alexandra", "Riche", "alexandra.riche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Alexandre", "Chauvet", "alexandre.chauvet@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Alexandre", "Chauvet", "alexandre.chauvet@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Alexandre", "Neel", "alexandre.neel@popinns.com", "null", "null", "null", "Directeur Bachat", "null
 "),
@@ -173,27 +173,27 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Alexandre", "Vidaller", "alexandre.vidaller@popinns.com", "null", "null", "null", "null", "null
 "),
-("Alexandrine", "Dartois", "alexandrine.dartois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alexandrine", "Dartois", "alexandrine.dartois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alexandru", "Tudoran-man", "alexandru.tudoran.exit@popinns.com", "null", "null", "null", "null", "null
 "),
 ("Alexia", "Greco", "alexia.greco@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Alexis", "Baudouin", "alexis.baudouin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alexis", "Baudouin", "alexis.baudouin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ali", "Ben Chelbi", "Ali.BenChelbi@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Alice", "Bellec", "alice.bellec@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alice", "Bellec", "alice.bellec@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alice", "Der Mardirossian", "alice.dermardirossian@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alice", "Drezet", "alice.drezet@doctocare.com", "null", "DG Health", "null", "SecrÃ©taire mÃ©dicale", "secretaire-med
 "),
-("Alice", "Faucher", "alice.faucher@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alice", "Faucher", "alice.faucher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alice", "Laloux", "alice.laloux@popinns.com", "null", "null", "null", "Assistante communication & web", "Marketing Communication
 "),
-("Alice", "Terrassier", "alice.terrassier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Alice", "Terrassier", "alice.terrassier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Alicia", "Brandicourt", "alicia.brandicourt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -241,7 +241,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Almas", "Poundja", "almas.poundja@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Alyson", "Bradley", "alyson.bradley@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Alyson", "Bradley", "alyson.bradley@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Amadou", "Diallo", "amadou.diallo@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE) DIRECTEUR", "direction", " opticien
 "),
@@ -253,13 +253,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Amandine", "Antenucci", "amandine.antenucci@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Amandine", "Comte", "amandine.comte@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Amandine", "Comte", "amandine.comte@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Amandine", "Da-Silva", "amandine.da-silva@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Amandine", "Da-Silva", "amandine.da-silva@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Amandine", "Da Silva", "amandine.dasilva@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Amandine", "Mabboux", "amandine.mabboux@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Amandine", "Mabboux", "amandine.mabboux@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Amandine", "Maloigne", "amandine.maloigne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -267,7 +267,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Amandine", "Perrin", "amandine.perrin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Amandine", "Plantade", "amandine.plantade@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Amandine", "Plantade", "amandine.plantade@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Amandine", "Racon", "amandine.racon@popinns.com", "null", "DG Hotels", "null", "staigiaire paye", "ADMIN
 "),
@@ -319,7 +319,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Anahit", "Gabrielov", "anahit.gabrielov@popinns.com", "null", "Popinns", "null", "assistant comptable", "Finance
 "),
-("Anais", "Bricheux", "anais.bricheux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Anais", "Bricheux", "anais.bricheux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anais", "Candelier", "anais.candelier@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -331,7 +331,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Anais", "Maier", "anais.maier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Anais", "Morim", "anais.morim@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Anais", "Morim", "anais.morim@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anais", "Moyer", "anais.moyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -349,7 +349,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Andreas", "Andreassian", "andreas.andreassian@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Andree", "Porlier", "andree.porlier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Andree", "Porlier", "andree.porlier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Andrei", "Iovu", "andrei.iovu@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -381,7 +381,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Angélique", "Blanchard", "angelique.blanchard@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Angelique", "Brassart", "angelique.brassart@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Angelique", "Brassart", "angelique.brassart@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Angelique", "Daligault", "angelique.daligault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -397,15 +397,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Angelique", "Moitie", "angelique.moitie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Angelique", "Moreira-Gomes", "angelique.moreira-gomes@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Angelique", "Moreira-Gomes", "angelique.moreira-gomes@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Angelique", "Naveau", "angelique.naveau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Angelique", "Pierre", "angelique.pierre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Angelique", "Pierre", "angelique.pierre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Angelique", "Pluquet", "angelique.pluquet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Angelique", "Pluquet", "angelique.pluquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Angelique", "Rechignac", "angelique.rechignac@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Angelique", "Rechignac", "angelique.rechignac@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Anissa", "Beldjellalia", "anissa.beldjellalia@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -413,7 +413,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Anita", "Barthelme", "anita.barthelme@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Anita", "Chable", "anita.chable@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Anita", "Chable", "anita.chable@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anita", "Drexler", "anita.drexler@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -467,15 +467,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Anne-Marie", "Gabriele", "anne-marie.gabriele@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Anne-Marie", "Gadaud", "anne-marie.gadaud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Anne-Marie", "Gadaud", "anne-marie.gadaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Anne-Marie", "Le Guern", "anne-marie.leguern@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Anne-Marie", "Le Guern", "anne-marie.leguern@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Anne-Marie", "Martinet", "anne-marie.martinet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anne-Marie", "Mentzer", "anne-marie.mentzer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Anne-Marie", "Priem", "anne-marie.priem@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Anne-Marie", "Priem", "anne-marie.priem@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anne-Marie", "Schmitt", "anne-marie.schmitt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -523,7 +523,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Anne", "Leininger", "anne.leininger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Anne", "Le Meur", "anne.lemeur@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Anne", "Le Meur", "anne.lemeur@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Anne", "Mortier", "anne.mortier@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -549,11 +549,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Annick", "Anciot", "annick.anciot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annick", "Bobin", "annick.bobin@amapa.fr", "null", "", "null", "", "OPRTS
+("Annick", "Bobin", "annick.bobin@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
-("Annick", "Callu", "annick.callu@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Annick", "Callu", "annick.callu@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Annick", "Canu", "annick.canu@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annick", "Canu", "annick.canu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Annick", "Dumenil", "annick.dumenil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -563,9 +563,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Annick", "Gautier", "annick.gautier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annick", "Grouffal", "annick.grouffal@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annick", "Grouffal", "annick.grouffal@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annick", "Guillerm", "annick.guillerm@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Annick", "Guillerm", "annick.guillerm@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Annick", "Kiener", "annick.kiener@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -585,7 +585,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Annie", "Bordier", "annie.bordier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annie", "Faucher", "annie.faucher@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annie", "Faucher", "annie.faucher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Annie", "Galan", "annie.galan@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -601,15 +601,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Annie", "Le Flahec", "annie.le-flahec@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Annie", "Le Guen", "annie.leguen@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Annie", "Le Guen", "annie.leguen@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Annie", "Mallard", "annie.mallard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annie", "Mialot", "annie.mialot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annie", "Mialot", "annie.mialot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annie", "Picolo", "annie.picolo@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Annie", "Picolo", "annie.picolo@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Annie", "Revenat", "annie.revenat@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annie", "Revenat", "annie.revenat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Annie", "Routier", "annie.routier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -621,7 +621,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Annie", "Torres", "annie.torres@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Annie", "Vieillefond", "annie.vieillefond@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Annie", "Vieillefond", "annie.vieillefond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Anny", "Zaccomer", "anny.zaccomer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -629,7 +629,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Enovacom", "Antares", "antares@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Anthea", "Lhommedet", "anthea.lhommedet@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Anthea", "Lhommedet", "anthea.lhommedet@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Anthony", "Biget", "anthony.biget@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -653,7 +653,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Antonella", "Zuccato", "antonella.zuccato@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Antonia", "Schirra", "antonia.schirra@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Antonia", "Schirra", "antonia.schirra@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Antonis", "Notaras", "antonis.notaras@popinns.com", "null", "null", "null", "Responsable Adjoint secteur socio-Ã©ducatif chargÃ© de l'accompagnement individuel", "ADMIN
 "),
@@ -661,11 +661,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Arielle", "Totet", "arielle.totet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Arisoa-Monia", "Amelie", "arisoa-monia.amelie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Arisoa-Monia", "Amelie", "arisoa-monia.amelie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Arlette", "Devilliers", "arlette.devilliers@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Arlette", "Le Roux", "arlette.leroux@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Arlette", "Le Roux", "arlette.leroux@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Arlette", "Montanavelli", "arlette.montanavelli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -673,7 +673,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Armelle", "Bevilacqua", "armelle.bevilacqua@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Arnaud", "Spagnol", "arnaud.spagnol@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Arnaud", "Spagnol", "arnaud.spagnol@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Artur", "Carvalho", "artur.carvalho@amapa.fr", "null", "SGBSM", "null", "Ouvrier des Services Logistiques", "Technique
 "),
@@ -753,7 +753,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Audrey", "Darsch", "audrey.darsch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Audrey", "Demurtas", "audrey.demurtas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Audrey", "Demurtas", "audrey.demurtas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Audrey", "Graff", "audrey.graff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -787,7 +787,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Audrey", "Queyron", "audrey.queyron@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Audrey", "Riff", "audrey.riff@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Audrey", "Riff", "audrey.riff@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Audrey", "Sanchez", "audrey.sanchez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -805,13 +805,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Aurelie", "Barbier", "aurelie.barbier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Aurelie", "Boubet", "aurelie.boubet@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Aurelie", "Boubet", "aurelie.boubet@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Aurelie", "Boyer", "aurelie.boyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Aurelie", "Chaumeil", "aurelie.chaumeil@doctocare.com", "null", "DG Optique", "null", "MONTEUR VENDEUR", "opticien
 "),
-("Aurelie", "Cossic", "aurelie.cossic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Aurelie", "Cossic", "aurelie.cossic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Aurelie", "Daugenet", "aurelie.daugenet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -827,11 +827,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Aurelie", "Jaffres", "aurelie.jaffres@popinns.com", "null", "null", "null", "null", "null
 "),
-("Aurelie", "Leblond", "aurelie.leblond@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Aurelie", "Leblond", "aurelie.leblond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Aurelie", "Lefebvre", "aurelie.lefebvre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Aurelie", "Lefebvre", "aurelie.lefebvre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Aurelie", "Level", "aurelie.level@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Aurelie", "Level", "aurelie.level@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Aurélie", "Loichot", "aurelie.loichot@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -857,7 +857,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Aurelie", "Thomas", "aurelie.thomas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Aurelie", "Trahand", "aurelie.trahand@amapa.fr", "null", "", "null", "", "OPRTS
+("Aurelie", "Trahand", "aurelie.trahand@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Aurélien", "Monasse", "aurelien.monasse@popinns.com", "null", "null", "null", "Développeur Web - DocteGestio", "null
 "),
@@ -867,7 +867,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Aurore", "Charpentier", "aurore.charpentier@popinns.com", "null", "DG Holidays", "null", "Responsable hébergement", "OPRTS
 "),
-("Aurore", "Clarke Dawn", "aurore.clarkedawn@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Aurore", "Clarke Dawn", "aurore.clarkedawn@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Aurore", "Diebold", "aurore.diebold@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -907,7 +907,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Barbara", "Cuvillier", "barbara.cuvillier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Barbara", "Forest", "barbara.forest@amapa.fr", "null", "", "null", "", "OPRTS
+("Barbara", "Forest", "barbara.forest@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Hebergement", "VB Amboise", "barbara.ivol@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -939,7 +939,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Beatrice", "Cridel", "beatrice.cridel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Beatrice", "Delassise", "beatrice.delassise@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Beatrice", "Delassise", "beatrice.delassise@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Beatrice", "Disidi Saka", "beatrice.disidisaka@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -967,7 +967,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Beatrice", "Pupovac", "beatrice.pupovac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Beatrice", "Tramoy", "beatrice.tramoy@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Beatrice", "Tramoy", "beatrice.tramoy@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Beatrice", "Velvelovich", "beatrice.velvelovich@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -977,7 +977,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Belinda", "Kapajika", "belinda.kapajika@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Benedicte", "Becker", "benedicte.becker@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Benedicte", "Becker", "benedicte.becker@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Bénédicte", "Goncalves", "benedicte.goncalves@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -993,9 +993,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Berengere", "Cadot", "berengere.cadot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Bernadette", "Boutant", "bernadette.boutant@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Bernadette", "Boutant", "bernadette.boutant@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Bernadette", "Chappe", "bernadette.chappe@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Bernadette", "Chappe", "bernadette.chappe@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Bernadette", "Cochereau", "bernadette.cochereau@amapa.fr", "null", "DG Help", "null", "null", "OPRTS
 "),
@@ -1041,7 +1041,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Betania-Maria", "Della Guardia", "betania-maria.dellaguardia@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Betrice", "Houlier", "betrice.houlier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Betrice", "Houlier", "betrice.houlier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Bettina", "Djambad", "bettina.djamba@popinns.com", "null", "Normandy Country Club", "null", "Assistante de direction", "OPRTS
 "),
@@ -1051,9 +1051,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Blandine", "Andre", "blandine.andre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Blandine", "Canivez", "blandine.canivez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Blandine", "Canivez", "blandine.canivez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Blandine", "Peaucellier", "blandine.peaucellier@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Blandine", "Peaucellier", "blandine.peaucellier@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Blandine", "Schneider", "blandine.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1069,7 +1069,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Brice", "Schulz", "brice.schulz@popinns.com", "null", "null", "null", "null", "null
 "),
-("Brigitte", "Baboulene", "brigitte.baboulene@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Baboulene", "brigitte.baboulene@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Bandinu", "brigitte.bandinu@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -1081,17 +1081,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Brigitte", "Bigot", "brigitte.bigot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Blanchard", "brigitte.blanchard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Blanchard", "brigitte.blanchard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Bonelli", "brigitte.bonelli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Bouquet", "brigitte.bouquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Bourgeade", "brigitte.bourgeade@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Bourgeade", "brigitte.bourgeade@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Breiter", "brigitte.breiter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Briden", "brigitte.briden@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Briden", "brigitte.briden@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Buch", "brigitte.buch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1115,7 +1115,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Brigitte", "De Zotti", "brigitte.dezotti@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Flamary", "brigitte.flamary@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Flamary", "brigitte.flamary@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Ghez", "brigitte.ghez@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -1123,13 +1123,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Brigitte", "Isard", "brigitte.isard@cliniquevauban.com", "null", "null", "null", "null", "null
 "),
-("Brigitte", "Jabiol", "brigitte.jabiol@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Jabiol", "brigitte.jabiol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Jurkolow", "brigitte.jurkolow@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Kuczmarski", "brigitte.kuczmarski@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Laberine", "brigitte.laberine@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Laberine", "brigitte.laberine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Laigneau", "brigitte.laigneau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1139,7 +1139,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Brigitte", "Malheude", "brigitte.malheude@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Brigitte", "Meilhac", "brigitte.meilhac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Brigitte", "Meilhac", "brigitte.meilhac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Brigitte", "Plateau", "brigitte.plateau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1203,7 +1203,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Carine", "Delpech", "carine.delpech@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Carine", "Khadraoui", "carine.khadraoui@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Carine", "Khadraoui", "carine.khadraoui@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Carine", "Lukas", "carine.lukas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1249,13 +1249,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Carole", "Lambing", "carole.lambing@amapa.fr", "null", "MONESTIER", "null", "secrétaire", "OPERATIONS - assistant-direction
 "),
-("Carole", "Lamotte", "carole.lamotte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Carole", "Lamotte", "carole.lamotte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Carole", "Landemaine", "carole.landemaine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Carole", "Legouet", "carole.legouet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Carole", "Martinie", "carole.martinie@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Carole", "Martinie", "carole.martinie@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
 ("Carole", "Mopin", "carole.mopin@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -1273,9 +1273,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Caroline", "Boussard", "caroline.boussard@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Caroline", "Brugnaux", "caroline.brugnaux@amapa.fr", "null", "", "null", "", "OPRTS
+("Caroline", "Brugnaux", "caroline.brugnaux@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
-("Caroline", "Chaleil", "caroline.chaleil@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Caroline", "Chaleil", "caroline.chaleil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Caroline", "Decoudu", "caroline.decoudu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1285,13 +1285,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Caroline", "Le Guen", "caroline.le-guen@doctocare.com", "null", "DG Optique", "null", "MONTEUR VENDEUR", "opticien
 "),
-("Caroline", "Le Guilloux", "caroline.leguilloux@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Caroline", "Le Guilloux", "caroline.leguilloux@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Caroline", "Lohmann", "caroline.lohmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Caroline", "Ly", "caroline.ly@dgmail.fr", "null", "directgestion", "null", "gestionnaire", "gestion
 "),
-("Caroline", "Matoux", "caroline.matoux@amapa.fr", "null", "", "null", "", "OPRTS
+("Caroline", "Matoux", "caroline.matoux@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Caroline", "Meyer", "caroline.meyer@popinns.com", "null", "null", "null", "Directrice Domaine de l'Arselle", "null
 "),
@@ -1321,7 +1321,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Baron", "catherine.baron@doctocare.com", "null", "APATS", "null", "MEDECIN GENERALISTE", "medecin
 "),
-("Catherine", "Bazetoux", "catherine.bazetoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Bazetoux", "catherine.bazetoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Bellanger", "catherine.bellanger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1333,17 +1333,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Bodreau", "catherine.bodreau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Bosch", "catherine.bosch@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Bosch", "catherine.bosch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Bossoutrot", "catherine.bossoutrot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Bossoutrot", "catherine.bossoutrot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Boudignon", "catherine.boudignon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Boudignon", "catherine.boudignon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Boulnois", "catherine.boulnois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Boulnois", "catherine.boulnois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Brabant", "catherine.brabant@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Brabant", "catherine.brabant@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Broudic", "catherine.broudic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Catherine", "Broudic", "catherine.broudic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Catherine", "Burckel", "catherine.burckel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1353,7 +1353,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Charpin", "catherine.charpin@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Catherine", "Chevalier", "catherine.chevalier@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Catherine", "Chevalier", "catherine.chevalier@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Catherine", "Clement", "catherine.clement@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1363,9 +1363,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Crevisy", "catherine.crevisy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Delebecq", "catherine.delebecq@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Delebecq", "catherine.delebecq@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Demargne", "catherine.demargne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Demargne", "catherine.demargne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Dervaux", "catherine.dervaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1379,7 +1379,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Faroux", "catherine.faroux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Fougeanet", "catherine.fougeanet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Fougeanet", "catherine.fougeanet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Frambourt", "catherine.frambourt@popinns.com", "null", "null", "null", "Direction DG Campus", "null
 "),
@@ -1391,11 +1391,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Goetschy", "catherine.goetschy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Gransagne", "catherine.gransagne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Gransagne", "catherine.gransagne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Guegan", "catherine.guegan@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Catherine", "Hayma", "catherine.hayma@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Hayma", "catherine.hayma@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Heschung", "catherine.heschung@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1409,19 +1409,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Lacassagne", "catherine.lacassagne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Lamoureux", "catherine.lamoureux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Lamoureux", "catherine.lamoureux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Laneuville", "catherine.laneuville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Lecomte", "catherine.lecomte@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Catherine", "Lenclen", "catherine.lenclen@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Lenclen", "catherine.lenclen@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Lerps", "catherine.lerps@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Marcel", "catherine.marcel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Martin", "catherine.martin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Martin", "catherine.martin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Martini", "catherine.martini@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -1431,15 +1431,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Metayer", "catherine.metayer@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Catherine", "Nouaille", "catherine.nouaille@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Nouaille", "catherine.nouaille@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Nussbaumer", "catherine.nussbaumer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Orio", "catherine.orio@doctocare.com", "null", "APATS", "null", "SECRETAIRE MEDICALE", "secretaire-med
 "),
-("Catherine", "Pataut", "catherine.pataut@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Pataut", "catherine.pataut@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Personne", "catherine.personne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Personne", "catherine.personne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Phalempin", "catherine.phalempin@cliniquevauban.com", "null", "null", "null", "Coordinatrice", "BLOC OPERATOIRE – SSPI
 "),
@@ -1451,9 +1451,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Smouts", "catherine.smouts@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Soulieux", "catherine.soulieux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Soulieux", "catherine.soulieux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Sylvestre", "catherine.sylvestre@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Catherine", "Sylvestre", "catherine.sylvestre@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Catherine", "Thais", "catherine.thais@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -1463,19 +1463,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Catherine", "Valentin", "catherine.valentin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Catherine", "Watiotienne", "catherine.watiotienne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Catherine", "Watiotienne", "catherine.watiotienne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Catherine", "Wolff", "catherine.wolff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cathy", "Collignon", "cathy.collignon@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Cathy", "Desjardin", "cathy.desjardin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cathy", "Desjardin", "cathy.desjardin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cathy", "Kleck", "cathy.kleck@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cathy", "Maire", "cathy.maire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cathy", "Pflaum", "cathy.pflaum@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Cathy", "Pflaum", "cathy.pflaum@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Cathy", "Pigeon", "cathy.pigeon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1499,7 +1499,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Cecile", "Sauren", "cecile.sauren@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cecile", "Wallet", "cecile.wallet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cecile", "Wallet", "cecile.wallet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cecilia", "Briant", "cecilia.briant@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1525,13 +1525,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Céline", "Dages", "celine.dages@popinns.com", "null", "null", "null", "null", "Ressources Humaines
 "),
-("Celine", "Debuire", "celine.debuire@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Celine", "Debuire", "celine.debuire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Celine", "Dey", "celine.dey@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
 ("Celine", "Donne", "celine.donne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Celine", "Ferrier", "celine.ferrier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Celine", "Ferrier", "celine.ferrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Celine", "Garlantezec", "celine.garlantezec@amapa.fr", "null", "TI JIKOUR", "null", "null", "ADMIN
 "),
@@ -1545,11 +1545,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Celine", "Klein", "celine.klein@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Celine", "Le Grand", "celine.legrand@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Celine", "Le Grand", "celine.legrand@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Celine", "Lesieur", "celine.lesieur@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Celine", "Lesieur", "celine.lesieur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Celine", "Leveque", "celine.leveque@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Celine", "Leveque", "celine.leveque@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Celine", "Mengwasser", "celine.mengwasser@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1559,7 +1559,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Celine", "Petesic", "celine.petesic@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Celine", "Petit", "celine.petit@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Celine", "Petit", "celine.petit@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Celine", "Pierre", "celine.pierre@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -1575,7 +1575,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Celine", "Zon", "celine.zon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cendrine", "Piard", "cendrine.piard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cendrine", "Piard", "cendrine.piard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("centre.moulinet.dentaire", "accueil", "centre.moulinet.dentaire@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -1603,9 +1603,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Chantal", "Augustin", "chantal.augustin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Becker", "chantal.becker@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Chantal", "Becker", "chantal.becker@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
-("Chantal", "Blondel", "chantal.blondel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Blondel", "chantal.blondel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Chantal", "Blusson", "chantal.blusson@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1627,9 +1627,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Chantal", "Fiacre", "chantal.fiacre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Fressanges", "chantal.fressanges@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Fressanges", "chantal.fressanges@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Fricotin", "chantal.fricotin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Fricotin", "chantal.fricotin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Chantal", "Gay", "chantal.gay@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1653,7 +1653,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Chantal", "Lecrivain", "chantal.lecrivain@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Le Gros", "chantal.legros@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Chantal", "Le Gros", "chantal.legros@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Chantal", "Londero", "chantal.londero@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1661,15 +1661,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Chantal", "Mauger", "chantal.mauger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Naegele", "chantal.naegele@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Naegele", "chantal.naegele@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Chantal", "Nicoul", "chantal.nicoul@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Poineau", "chantal.poineau@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Chantal", "Poineau", "chantal.poineau@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Chantal", "Prietz", "chantal.prietz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Prigent", "chantal.prigent@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Chantal", "Prigent", "chantal.prigent@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Chantal", "Querry", "chantal.querry.exit@amapa.fr", "null", "DG HELP", "null", "null", "SAAD Grasse
 "),
@@ -1679,11 +1679,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Chantal", "Soares", "chantal.soares@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Tardy", "chantal.tardy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Tardy", "chantal.tardy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Theron", "chantal.theron@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Theron", "chantal.theron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chantal", "Thirifays", "chantal.thirifays@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chantal", "Thirifays", "chantal.thirifays@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Charlaine", "Wolff", "charlaine.wolff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1697,7 +1697,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Charlene", "Marton", "charlene.marton@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Charlene", "Mauduit", "charlene.mauduit@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Charlene", "Mauduit", "charlene.mauduit@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Charles", "Madiot", "charles.madiot@doctocare.com", "null", "DocteGestio", "null", "Stagiaire", "communication
 "),
@@ -1721,11 +1721,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Charlotte", "Doumas", "charlotte.doumas@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Charlotte", "Hardhuin", "charlotte.hardhuin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Charlotte", "Hardhuin", "charlotte.hardhuin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Charlotte", "Hugy Mielle", "charlotte.hugymielle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Charlotte", "Jeannot", "charlotte.jeannot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Charlotte", "Jeannot", "charlotte.jeannot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Charlotte", "Mazzella", "charlotte.mazzella@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -1771,19 +1771,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christelle", "Barbier", "christelle.barbier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christelle", "Bassaler", "christelle.bassaler@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Christelle", "Bassaler", "christelle.bassaler@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
 ("Christelle", "Boudet", "christelle.boudet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Dandrea", "christelle.dandrea@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christelle", "Delattre", "christelle.delattre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Delattre", "christelle.delattre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Duval", "christelle.duval@amapa.fr", "null", "null", "null", "null", "null
 "),
 ("Christelle", "Etheve", "christelle.etheve@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Christelle", "Eyrignoux", "christelle.eyrignoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Eyrignoux", "christelle.eyrignoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Ferreira", "christelle.ferreira@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -1795,7 +1795,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christelle", "Gay", "christelle.gay@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christelle", "Gouabault", "christelle.gouabault@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Gouabault", "christelle.gouabault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Handwerk", "christelle.handwerk@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1811,7 +1811,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christelle", "Lemos", "christelle.lemos@popinns.com", "null", "DG Urbans", "null", "Assistante de direction", "OPRTS
 "),
-("Christelle", "Lescure", "christelle.lescure@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Lescure", "christelle.lescure@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Menetrier", "christelle.menetrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1821,11 +1821,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christelle", "Oder", "christelle.oder@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christelle", "Oger", "christelle.oger@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Oger", "christelle.oger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christelle", "Payraud", "christelle.payraud@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Christelle", "Payraud", "christelle.payraud@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Christelle", "Plihon", "christelle.plihon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christelle", "Plihon", "christelle.plihon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christelle", "Raye", "christelle.raye@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1853,13 +1853,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christiane", "Champion", "christiane.champion@amapa.fr", "null", "null", "null", "Responsable Portage de Repas", "SAAD
 "),
-("Christiane", "Coste", "christiane.coste@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christiane", "Coste", "christiane.coste@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christiane", "Daguenet", "christiane.daguenet@amapa.fr", "null", "null", "null", "Responsable Agence Sens (DG Help)", "SAAD
 "),
 ("Christiane", "Heymann", "christiane.heymann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christiane", "Le Guillou", "christiane.leguillou@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Christiane", "Le Guillou", "christiane.leguillou@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Christiane", "Marchiol", "christiane.marchiol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1867,17 +1867,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christiane", "Matthiss", "christiane.matthiss@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christiane", "Morarau", "christiane.morarau@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Christiane", "Morarau", "christiane.morarau@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Christiane", "Mosele", "christiane.mosele@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christiane", "Peyri", "christiane.peyri@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christiane", "Peyri", "christiane.peyri@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christiane", "Poos", "christiane.poos@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Aderbaz", "christine.aderbaz@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Christine", "Andre", "christine.andre@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Christine", "Andre", "christine.andre@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Christine", "Arhiman", "christine.arhiman@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1889,15 +1889,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Becker", "christine.becker@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Bennaceur", "christine.bennaceur@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christine", "Bennaceur", "christine.bennaceur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Birk", "christine.birk@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Blevennec", "christine.blevennec@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Christine", "Blevennec", "christine.blevennec@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Christine", "Blondel", "christine.blondel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Boclet", "christine.boclet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christine", "Boclet", "christine.boclet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Boehm", "christine.boehm@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1905,7 +1905,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Bravo", "christine.bravo.exit@popinns.com", "null", "DG Hotels", "null", "Directrice Commerciale Groupe Popinns", "VENTE
 "),
-("Christine", "Burlet", "christine.burlet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christine", "Burlet", "christine.burlet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Collet", "christine.collet@cliniquevauban.com", "null", "null", "null", "Pharmacien", "PHARMACIE
 "),
@@ -1923,9 +1923,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Jolivalt", "christine.jolivalt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Labrut", "christine.labrut@amapa.fr", "null", "", "null", "", "OPRTS
+("Christine", "Labrut", "christine.labrut@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
-("Christine", "Le Foll", "christine.lefoll@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Christine", "Le Foll", "christine.lefoll@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Christine", "Maire", "christine.maire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1933,13 +1933,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Maret", "christine.maret@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Marguerez", "christine.marguerez@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Christine", "Marguerez", "christine.marguerez@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Christine", "Meynardie", "christine.meynardie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Montaubric", "christine.montaubric@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Christine", "Monteil", "christine.monteil@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Christine", "Monteil", "christine.monteil@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
 ("Christine", "Muller", "christine.muller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1947,7 +1947,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Perrin", "christine.perrin@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Christine", "Perrot", "christine.perrot@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Christine", "Perrot", "christine.perrot@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Christine", "Podda", "christine.podda@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1955,7 +1955,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Rampon", "christine.rampon@doctocare.com", "null", "APATS", "null", "RESPONSABLE DE CENTRE DENTAIRE", "direction
 "),
-("Christine", "Rey", "christine.rey@amapa.fr", "null", "", "null", "", "OPRTS
+("Christine", "Rey", "christine.rey@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Christine", "Salvemini", "christine.salvemini@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -1963,7 +1963,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christine", "Stopyra", "christine.stopyra@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Christine", "Ternat", "christine.ternat@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Christine", "Ternat", "christine.ternat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Christine", "Vitoux", "christine.vitoux@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -1985,15 +1985,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Christopher", "Swierzynski", "christopher.swierzynski@amapa.fr", "null", "null", "null", "C.A.E.", "Recouvrement
 "),
-("Chrystele", "Malbec", "chrystele.malbec@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chrystele", "Malbec", "chrystele.malbec@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Chrystelle", "Lefetz", "chrystelle.lefetz@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Chrystelle", "Lefetz", "chrystelle.lefetz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Chrystelle", "Schneider", "chrystelle.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Clinique Bonneveine", "chsct", "chsct@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Cindy", "Alix", "cindy.alix@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cindy", "Alix", "cindy.alix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cindy", "Deronzi", "cindy.deronzi.exit@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -2003,7 +2003,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Cindy", "Gross", "cindy.gross@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cindy", "Lebarque", "cindy.lebarque@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Cindy", "Lebarque", "cindy.lebarque@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Cindy", "Lecoeuvre", "cindy.lecoeuvre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2015,7 +2015,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Cindy", "Schmelter", "cindy.schmelter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cindy", "Stadelmann", "cindy.stadelmann@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cindy", "Stadelmann", "cindy.stadelmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cindy", "Stanczyk", "cindy.stanczyk@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -2023,7 +2023,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Claire", "Brays", "claire.brays@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Claire", "Daubech", "claire.daubech@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claire", "Daubech", "claire.daubech@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claire", "Pfaadt", "claire.pfaadt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2031,7 +2031,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Claire", "Raymond", "claire.raymond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claire", "Roussette", "claire.roussette@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Claire", "Roussette", "claire.roussette@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Claire", "Versavel", "claire.versavel@amapa.fr", "null", "null", "null", "Agent d'Imprimerie", "AMAPA - Siège - Imprimerie
 "),
@@ -2083,7 +2083,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Claudia", "Straub", "claudia.straub@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudie", "Poilpre", "claudie.poilpre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudie", "Poilpre", "claudie.poilpre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Beyel", "claudine.beyel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2105,9 +2105,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Claudine", "Croix", "claudine.croix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudine", "Crozel", "claudine.crozel@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Claudine", "Crozel", "claudine.crozel@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
-("Claudine", "Dachez", "claudine.dachez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudine", "Dachez", "claudine.dachez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Depaux", "claudine.depaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2119,23 +2119,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Claudine", "Goujon", "claudine.goujon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudine", "Grandseigne", "claudine.grandseigne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudine", "Grandseigne", "claudine.grandseigne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Jouy", "claudine.jouy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudine", "Le Lay", "claudine.lelay@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Claudine", "Le Lay", "claudine.lelay@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Claudine", "Luttmann", "claudine.luttmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Pereira", "claudine.pereira@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Claudine", "Pigot", "claudine.pigot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudine", "Pigot", "claudine.pigot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudine", "Sanchez", "claudine.sanchez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudine", "Sanchez", "claudine.sanchez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Serbine", "claudine.serbine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Claudine", "Stievenard", "claudine.stievenard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Claudine", "Stievenard", "claudine.stievenard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Claudine", "Thiery", "claudine.thiery@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2147,7 +2147,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Cleidimar", "Blanche", "cleidimar.blanche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Clemence", "Alves", "clemence.alves@amapa.fr", "null", "DG HELP", "null", "", "OPRTS
+("Clemence", "Alves", "clemence.alves@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
 ("Clémentine", "Coleau", "clementine.coleau@popinns.com", "null", "DG Hotels", "null", "Assistante Communication et Marketing", "VENTE
 "),
@@ -2169,11 +2169,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Colette", "Guckert", "colette.guckert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Colette", "Marty", "colette.marty@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Colette", "Marty", "colette.marty@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Colette", "Sebilo", "colette.sebilo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Colette", "Vianne", "colette.vianne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Colette", "Vianne", "colette.vianne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Colline", "Contremoulin", "colline.contremoulin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2211,7 +2211,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Le", "Corneille", "Corneille@popinns.com", "null", "null", "null", "null", "null
 "),
-("Coralie", "Devise", "coralie.devise@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Coralie", "Devise", "coralie.devise@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Coralie", "Dosen", "coralie.dosen@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2219,7 +2219,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corine", "Ferreira", "corine.ferreira@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Babillot", "corinne.babillot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Babillot", "corinne.babillot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Bailleux", "corinne.bailleux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2227,7 +2227,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Baur", "corinne.baur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Brette", "corinne.brette@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Brette", "corinne.brette@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Chardel", "corinne.chardel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2239,7 +2239,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Fayon", "corinne.fayon@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Corinne", "Feuillade", "corinne.feuillade@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Feuillade", "corinne.feuillade@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Fitouri", "corinne.fitouri@doctocare.com", "null", "APATS", "null", "EMPLOYÃ‰ DE GUICHET", "accueil
 "),
@@ -2249,7 +2249,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Gaudin", "corinne.gaudin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Gosselin", "corinne.gosselin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Gosselin", "corinne.gosselin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Grzetic", "corinne.grzetic@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -2263,7 +2263,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Journo", "corinne.journo@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Corinne", "Laurent", "corinne.laurent@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Laurent", "corinne.laurent@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Ledru", "corinne.ledru@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2273,13 +2273,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Marin", "corinne.marin@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Corinne", "Maurin", "corinne.maurin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Maurin", "corinne.maurin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Maury", "corinne.maury@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Maury", "corinne.maury@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Maussion", "corinne.maussion@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Corinne", "Mercier", "corinne.mercier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Mercier", "corinne.mercier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("corinne", "mikaelian", "corinne.mikaelian@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -2291,15 +2291,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Pilon", "corinne.pilon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Pisios", "corinne.pisios@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Pisios", "corinne.pisios@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Reguena", "corinne.reguena@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Robert", "corinne.robert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Robert", "corinne.robert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Roger", "corinne.roger@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Roger", "corinne.roger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Corinne", "Rougerie", "corinne.rougerie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Corinne", "Rougerie", "corinne.rougerie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Corinne", "Sandrolini", "corinne.sandrolini@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2315,11 +2315,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Corinne", "Welsch", "corinne.welsch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cornelia", "Varre", "cornelia.varre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cornelia", "Varre", "cornelia.varre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("relances caisses et mutuelles", ".", "correspondance@cliniquevauban.com", "null", "null", "null", "null", "null
 "),
-("Cosette-Helene", "Tortajada", "cosette-helene.tortajada@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Cosette-Helene", "Tortajada", "cosette-helene.tortajada@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cosette", "Camoes", "cosette.camoes@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2349,7 +2349,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Cyntia", "Quack", "cyntia.quack@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Cyrielle", "Marchand-Arvier", "cyrielle.marchand-arvier@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Cyrielle", "Marchand-Arvier", "cyrielle.marchand-arvier@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Cyril", "Degrilart", "cyril.degrilart@cello.fr", "null", "null", "null", "Expert Comptable", "Compta
 "),
@@ -2381,7 +2381,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Daniel", "Hazan", "daniel.hazan@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Daniel", "Schmitt", "daniel.schmitt@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Daniel", "Schmitt", "daniel.schmitt@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Daniela", "Lopes Correia", "daniela.lopes-correia@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -2389,13 +2389,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Daniele", "Darlas", "daniele.darlas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Daniele", "Gauthier", "daniele.gauthier@amapa.fr", "null", "", "null", "", "OPRTS
+("Daniele", "Gauthier", "daniele.gauthier@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Daniele", "Laigret", "daniele.laigret@doctocare.com", "null", "APATS", "null", "MANIPULATEUR(RICE) EN ELECTRORADIOLOGIE", "radio
 "),
 ("Daniele", "Lorette", "daniele.lorette@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Daniele", "Maillot", "daniele.maillot@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Daniele", "Maillot", "daniele.maillot@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Daniele", "Mangeat", "daniele.mangeat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2405,7 +2405,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Daniele", "Schimpf", "daniele.schimpf@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Danielle", "Chaumeil", "danielle.chaumeil@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Danielle", "Chaumeil", "danielle.chaumeil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Danielle", "Conroy", "danielle.conroy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2461,23 +2461,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Delminha", "Banceline", "delminha.banceline@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Delphine", "Barral", "delphine.barral@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Delphine", "Barral", "delphine.barral@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Delphine", "Bidois", "delphine.bidois@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
 ("Delphine", "Biston", "delphine.biston@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Chatelet", "delphine.chatelet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Chatelet", "delphine.chatelet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Delphine", "Chiappetta", "delphine.chiappetta@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Delvincourt", "delphine.delvincourt@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Delvincourt", "delphine.delvincourt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Demaille", "delphine.demaille.exit@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Demaille", "delphine.demaille.exit@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Delphine", "Faivre", "delphine.faivre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Fleurant-Gianesini", "delphine.fleurant-gianesini@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Delphine", "Fleurant-Gianesini", "delphine.fleurant-gianesini@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Delphine", "Fraval", "delphine.fraval@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -2485,7 +2485,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Delphine", "Gallois", "delphine.gallois@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Delphine", "Gaucher", "delphine.gaucher@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Gaucher", "delphine.gaucher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Delphine", "Giroire", "delphine.giroire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2501,9 +2501,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Delphine", "Langue", "delphine.langue@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Lavieille", "delphine.lavieille@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Lavieille", "delphine.lavieille@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Delphine", "Leclercq", "delphine.leclercq@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Leclercq", "delphine.leclercq@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Delphine", "Marino", "delphine.marino@amapa.fr", "null", "null", "null", "Infirmière coordinatrice", "SSIAD de Chaumont-en-Vexin
 "),
@@ -2513,7 +2513,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Delphine", "Tisler", "delphine.tisler@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Delphine", "Traulet", "delphine.traulet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Delphine", "Traulet", "delphine.traulet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Delphine", "Vincendeau", "delphine.vincendeau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2535,7 +2535,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Denise", "Hufschmitt", "denise.hufschmitt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Denise", "Jarrige", "denise.jarrige@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Denise", "Jarrige", "denise.jarrige@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Denise", "Kolata", "denise.kolata@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2583,7 +2583,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Didier", "Pradelle", "didier.pradelle@doctocare.com", "null", "DG Health", "null", "Chirurgien Dentiste", "dentiste
 "),
-("Didier", "Principato", "didier.principato@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Didier", "Principato", "didier.principato@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Didier", "Pruvost", "didier.pruvost@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -2617,13 +2617,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Djemila", "Abaidia", "djemila.abaidia@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Djenat", "Belgherbia", "djenat.belgherbia@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Djenat", "Belgherbia", "djenat.belgherbia@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Djeneba", "Traore", "djeneba.traore@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "infirmiere
 "),
 ("Djenette", "Touati", "djenette.touati@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Doha", "Naich", "doha.naich@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Doha", "Naich", "doha.naich@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Cabinet", "Dolla-Vial", "dolla-vial@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -2635,7 +2635,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Aubruchet", "dominique.aubruchet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Dominique", "Auger", "dominique.auger@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Auger", "dominique.auger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Bance", "dominique.bance@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2649,7 +2649,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Bertrand", "dominique.bertrand@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Dominique", "Blin", "dominique.blin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Blin", "dominique.blin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Bonneau", "dominique.bonneau@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -2661,7 +2661,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Bourdaud Hui-Limido", "dominique.bourdaudhui-limido@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Dominique", "Brugneaux", "dominique.brugneaux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Brugneaux", "dominique.brugneaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Bugarel", "dominique.bugarel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2669,7 +2669,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Cariou", "dominique.cariou@doctocare.com", "null", "DG Health", "null", "Rhumatologue", "medecin
 "),
-("Dominique", "Cauquot", "dominique.cauquot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Cauquot", "dominique.cauquot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Chapeau", "dominique.chapeau@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -2699,11 +2699,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Metayer", "dominique.metayer@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Dominique", "Petit", "dominique.petit@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Petit", "dominique.petit@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Rausch", "dominique.rausch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Dominique", "Rouanne", "dominique.rouanne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Rouanne", "dominique.rouanne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Roussy", "dominique.roussy@doctocare.com", "null", "DG Health", "null", "SecrÃ©taire", "admin
 "),
@@ -2711,7 +2711,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Dominique", "Spinozzi", "dominique.spinozzi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Dominique", "Veyssiere", "dominique.veyssiere@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Dominique", "Veyssiere", "dominique.veyssiere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Dominique", "Vilbois", "dominique.vilbois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2723,7 +2723,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Doriane", "Yerbe", "doriane.yerbe@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Dorine", "Tuaz-Torchon", "dorine.tuaz-torchon@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Dorine", "Tuaz-Torchon", "dorine.tuaz-torchon@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Doris", "Burger", "doris.burger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2765,7 +2765,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Edith", "Cavaciocchi", "edith.cavaciocchi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Edith", "Fourrier", "edith.fourrier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Edith", "Fourrier", "edith.fourrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Edith", "Gomez", "edith.gomez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2775,13 +2775,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Edith", "Leloup", "edith.leloup@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Edith", "Rebiere", "edith.rebiere@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Edith", "Rebiere", "edith.rebiere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Edith", "Robert", "edith.robert@popinns.com", "null", "null", "null", "Directrice Myrtilles", "null
 "),
 ("Edith", "Turlan", "edith.turlan@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Edwige", "Demouiller", "edwige.demouiller@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Edwige", "Demouiller", "edwige.demouiller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Edwige", "Encaoua", "edwige.encaoua@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -2795,35 +2795,35 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ehpad acacias", "Infirmiere cdd", "ehpad.acacias.infirmiere.cdd@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Ehpad", "Acacias", "ehpad.acacias@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Acacias", "ehpad.acacias@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Alice-Sar", "ehpad.alice-sar@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Alice-Sar", "ehpad.alice-sar@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Andre-Copin", "ehpad.andre-copin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Andre-Copin", "ehpad.andre-copin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ehpad Grange-Aux-Bois", "Infirmiere Cdd", "ehpad.grange-aux-bois.infirmiere.cdd@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Ehpad", "Grange-Aux-Bois", "ehpad.grange-aux-bois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Grange-Aux-Bois", "ehpad.grange-aux-bois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Heureuse", "ehpad.heureuse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Heureuse", "ehpad.heureuse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ehpad Huguette-Henry", "Infirmiere CDD", "ehpad.huguette-henry.infirmiere.cdd@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Huguette-Henry", "ehpad.huguette-henry@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Huguette-Henry", "ehpad.huguette-henry@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Iris", "ehpad.iris@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Iris", "ehpad.iris@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Marie-Noelle", "ehpad.marie-noelle@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Marie-Noelle", "ehpad.marie-noelle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Pepiniere", "ehpad.pepiniere@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Pepiniere", "ehpad.pepiniere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Pre-Vert", "ehpad.pre-vert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Pre-Vert", "ehpad.pre-vert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Tour-De-Heu", "ehpad.tour-de-heu@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Tour-De-Heu", "ehpad.tour-de-heu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ehpad", "Val-Montjoie", "ehpad.val-montjoie@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Ehpad", "Val-Montjoie", "ehpad.val-montjoie@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Ehpad", "Vignelles", "ehpad.vignelles@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ehpad", "Vignelles", "ehpad.vignelles@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ekaterina", "Jellibi", "ekaterina.jellibi@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -2831,11 +2831,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Eliane", "Borga", "eliane.borga@amapa.fr", "null", "Ehpad Val-Montjoie", "null", "Agent d'accueil", "Accueil
 "),
-("Eliane", "Carmier", "eliane.carmier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Eliane", "Carmier", "eliane.carmier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Eliane", "Duchene", "eliane.duchene@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Eliane", "Duchene", "eliane.duchene@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Eliane", "Guiot", "eliane.guiot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Eliane", "Guiot", "eliane.guiot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Eliane", "Haas", "eliane.haas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2847,7 +2847,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Eliane", "Riviere", "eliane.riviere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Eliane", "Roche", "eliane.roche@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Eliane", "Roche", "eliane.roche@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Eliane", "Staehle", "eliane.staehle@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -2859,7 +2859,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elisabeth", "Batjom", "elisabeth.batjom@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Elisabeth", "Boussingault", "elisabeth.boussingault@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elisabeth", "Boussingault", "elisabeth.boussingault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elisabeth", "Carion", "elisabeth.carion@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -2867,13 +2867,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elisabeth", "Dalibard", "elisabeth.dalibard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Degombert", "elisabeth.degombert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elisabeth", "Degombert", "elisabeth.degombert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("elisabeth", "desousa", "elisabeth.desousa@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Elisabeth", "Diallo", "elisabeth.diallo@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elisabeth", "Diallo", "elisabeth.diallo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Dubois", "elisabeth.dubois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elisabeth", "Dubois", "elisabeth.dubois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elisabeth", "Feltin", "elisabeth.feltin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2881,9 +2881,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elisabeth", "Gebauer", "elisabeth.gebauer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Janvier", "elisabeth.janvier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elisabeth", "Janvier", "elisabeth.janvier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Kabalec", "elisabeth.kabalec@amapa.fr", "null", "", "null", "", "OPRTS
+("Elisabeth", "Kabalec", "elisabeth.kabalec@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Elisabeth", "Kemmel", "elisabeth.kemmel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2897,25 +2897,25 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elisabeth", "Petralito", "elisabeth.petralito@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Picco", "elisabeth.picco@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Elisabeth", "Picco", "elisabeth.picco@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Elisabeth", "Stauder", "elisabeth.stauder@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elisabeth", "Teixeira", "elisabeth.teixeira@amapa.fr", "null", "", "null", "", "OPRTS
+("Elisabeth", "Teixeira", "elisabeth.teixeira@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Elisabeth", "Val", "elisabeth.val@amapa.fr", "null", "null", "null", "null", "null
 "),
 ("Elisabeth", "Yon", "elisabeth.yon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elise", "Leroy", "elise.leroy@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Elise", "Leroy", "elise.leroy@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Elizabeth", "Louis", "elizabeth.louis@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Elizabeth", "Louis", "elizabeth.louis@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Elizaveta", "Leu", "elizaveta.leu@popinns.com", "null", "DG Hotels", "null", "Assistante Administrative polyvalente", "OPRTS
 "),
 ("Elma-Cadie", "Bibouti", "elma-cadie.bibouti@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elma-Marie", "Dourlies", "elma-marie.dourlies@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elma-Marie", "Dourlies", "elma-marie.dourlies@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elodie", "Coppin", "elodie.coppin@popinns.com", "null", "DG Urbans", "null", "Assitante de Direction", "OPRTS
 "),
@@ -2929,7 +2929,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elodie", "Paradis", "elodie.paradis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elodie", "Parent", "elodie.parent@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elodie", "Parent", "elodie.parent@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elodie", "Perdek", "elodie.perdek@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2945,23 +2945,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Elsa", "Collombe", "elsa.collombe@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Elsa", "Pedraza", "elsa.pedraza@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elsa", "Pedraza", "elsa.pedraza@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elsia", "Hadj", "elsia.hadj@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elvira", "Beauvois", "elvira.beauvois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Elvire", "Vieira", "elvire.vieira@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Elvire", "Vieira", "elvire.vieira@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Elza", "Gustave", "elza.gustave@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Emeline", "HEIB", "emeline.heib@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Emeline", "Mangeot", "emeline.mangeot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Emeline", "Mangeot", "emeline.mangeot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Emeline", "Morel", "emeline.morel@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Emeline", "Soleilhavoup", "emeline.soleilhavoup@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Emeline", "Soleilhavoup", "emeline.soleilhavoup@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Emilie", "Audin", "emilie.audin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2979,9 +2979,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Emilie", "Dross", "emilie.dross@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Emilie", "Dumont", "emilie.dumont@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Emilie", "Dumont", "emilie.dumont@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Emilie", "Gente", "emilie.gente@amapa.fr", "null", "", "null", "", "OPRTS
+("Emilie", "Gente", "emilie.gente@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Emilie", "Henry", "emilie.henry@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -2995,7 +2995,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Emilie", "Leblanc", "emilie.leblanc@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Emilie", "Lefebvre", "emilie.lefebvre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Emilie", "Lefebvre", "emilie.lefebvre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Emilie", "Lusinier", "emilie.lusinier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3005,7 +3005,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Emilie", "Schoumacher", "emilie.schoumacher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Emilie", "Sellier", "emilie.sellier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Emilie", "Sellier", "emilie.sellier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Emilienne", "Valencia", "emilienne.valencia@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3021,7 +3021,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Emmanuel", "Hounza", "emmanuel.hounza@popinns.com", "null", "Normandy Country Club", "null", "null", "Operations
 "),
-("Emmanuel", "Nardo", "emmanuel.nardo@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Emmanuel", "Nardo", "emmanuel.nardo@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Emmanuel", "Tranvouez", "emmanuel.tranvouez@popinns.com", "null", "DG Holidays", "null", "Responsable de Site", "OPRTS
 "),
@@ -3035,7 +3035,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Emmanuelle", "Mahe", "emmanuelle.mahe@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Emmanuelle", "Meurot", "emmanuelle.meurot@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Emmanuelle", "Meurot", "emmanuelle.meurot@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Emmanuelle", "Van Liefde", "emmanuelle.vanliefde@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3067,7 +3067,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Eric", "Martin", "eric.martin@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Erika", "Poisson", "erika.poisson@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Erika", "Poisson", "erika.poisson@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ernestine", "Klein", "ernestine.klein@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3101,7 +3101,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Le Chalet", "De l'Eterlou", "eterlou@popinns.com", "null", "null", "null", "null", "null
 "),
-("Etienne", "Muller", "etienne.muller@sidonie.fr", "null", "SIDONIE", "null", "", "
+("Etienne", "Muller", "etienne.muller@sidonie.fr", "null", "SIDONIE", "null", "null", "
 "),
 ("Etiennette", "Morgat", "etiennette.morgat@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -3123,9 +3123,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Evelyne", "Bevilacqua", "evelyne.bevilacqua@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Evelyne", "Bugnet-Girod", "evelyne.bugnet-girod@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Evelyne", "Bugnet-Girod", "evelyne.bugnet-girod@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Evelyne", "Chudyba", "evelyne.chudyba@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Evelyne", "Chudyba", "evelyne.chudyba@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Evelyne", "Ciril", "evelyne.ciril@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3139,7 +3139,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Evelyne", "Foure", "evelyne.foure@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Evelyne", "Goigoux", "evelyne.goigoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Evelyne", "Goigoux", "evelyne.goigoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Evelyne", "Hoffmann", "evelyne.hoffmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3183,17 +3183,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Fabienne", "Agria", "fabienne.agria@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Bernard", "fabienne.bernard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Bernard", "fabienne.bernard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fabienne", "Billon", "fabienne.billon@popinns.com", "null", "null", "null", "Directrice Ma Normandie", "null
 "),
 ("Fabienne", "Brouck", "fabienne.brouck@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Buchon", "fabienne.buchon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Buchon", "fabienne.buchon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fabienne", "Desesquelles", "fabienne.desesquelles@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Dufosse", "fabienne.dufosse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Dufosse", "fabienne.dufosse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fabienne", "Feller", "fabienne.feller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3203,13 +3203,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Fabienne", "Gautherot", "fabienne.gautherot@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Fabienne", "Geneix", "fabienne.geneix@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Geneix", "fabienne.geneix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fabienne", "Grimmer", "fabienne.grimmer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Hernandez Szabo", "fabienne.hernandezszabo@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Hernandez Szabo", "fabienne.hernandezszabo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Jond", "fabienne.jond@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Fabienne", "Jond", "fabienne.jond@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Fabienne", "Kremer", "fabienne.kremer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3231,7 +3231,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Fabienne", "Richard", "fabienne.richard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fabienne", "Rose", "fabienne.rose@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fabienne", "Rose", "fabienne.rose@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fabienne", "Schneider", "fabienne.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3277,7 +3277,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Fanny", "El Bouhdidi", "fanny.elbouhdidi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fanny", "Francois", "fanny.francois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fanny", "Francois", "fanny.francois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fanny", "Martin", "fanny.martin@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -3289,7 +3289,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Farida", "Achtiouane", "farida.achtiouane@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Farida", "Djama", "farida.djama@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Farida", "Djama", "farida.djama@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Farida", "Moufek", "farida.moufek@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3303,11 +3303,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Fatiha", "Korchi", "fatiha.korchi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fatiha", "Lamri", "fatiha.lamri@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Fatiha", "Lamri", "fatiha.lamri@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Fatiha", "Nait Maouche", "fatiha.nait-maouche@doctocare.com", "null", "DG Optique", "null", "ASSISTANTE AUDIOPROTHESE", "audioprothesiste
 "),
-("Fatima", "Aakil", "fatima.aakil@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fatima", "Aakil", "fatima.aakil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fatima", "Armengol", "fatima.armengol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3359,7 +3359,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Felisberta", "Lopes Varela", "felisberta.lopesvarela@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Fernande", "Dias", "fernande.dias@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Fernande", "Dias", "fernande.dias@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Fernande", "Georgin", "fernande.georgin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3373,13 +3373,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Florence", "Bouchier", "florence.bouchier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Florence", "Chevillon", "florence.chevillon@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Florence", "Chevillon", "florence.chevillon@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Florence", "Couvert", "florence.couvert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Florence", "D'alexandre", "florence.dalexandre@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Florence", "Degardin", "florence.degardin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Florence", "Degardin", "florence.degardin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Florence", "Desnier", "florence.desnier@popinns.com", "null", "Normandy Country Club", "null", "Responsable de salle", "OPRTS
 "),
@@ -3405,7 +3405,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Florence", "Schieff", "florence.schieff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Florence", "Taillefer", "florence.taillefer@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Florence", "Taillefer", "florence.taillefer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Florence", "Vitry", "florence.vitry@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -3417,7 +3417,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Florian", "Hervo", "florian.hervo@doctocare.com", "null", "DG Optique", "null", "MONTEUR VENDEUR", "opticien
 "),
-("Florian", "Leroux", "florian.leroux@amapa.fr", "null", "DG HELP", "null", "", "OPRTS
+("Florian", "Leroux", "florian.leroux@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
 ("Florian", "Mearini", "florian.mearini@popinns.com", "null", "Popinns", "null", " animateur socio educatif", "OPRTS
 "),
@@ -3445,7 +3445,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francine", "Hauet", "francine.hauet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Francine", "Levasseur", "francine.levasseur@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Francine", "Levasseur", "francine.levasseur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Francine", "Mirguet", "francine.mirguet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3469,7 +3469,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francois", "Vataire", "francois.vataire@popinns.com", "null", "null", "null", "null", "null
 "),
-("Francoise", "Adgie", "francoise.adgie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Francoise", "Adgie", "francoise.adgie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Francoise", "Barrier", "francoise.barrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3477,7 +3477,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francoise", "Bosselut", "francoise.bosselut@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
-("Francoise", "Bourgeois", "francoise.bourgeois@amapa.fr", "null", "", "null", "", "OPRTS
+("Francoise", "Bourgeois", "francoise.bourgeois@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Francoise", "Boyon", "francoise.boyon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3493,7 +3493,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francoise", "Dupond", "francoise.dupond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Françoise", "Eynius", "francoise.eynius@amapa.fr", "null", "", "null", "", "
+("Françoise", "Eynius", "francoise.eynius@amapa.fr", "null", "null", "null", "null", "
 "),
 ("Francoise", "Gorius", "francoise.gorius@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3501,9 +3501,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francoise", "Huffling", "francoise.huffling@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Francoise", "Lagares", "francoise.lagares@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Francoise", "Lagares", "francoise.lagares@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Francoise", "Le Calvez", "francoise.lecalvez@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Francoise", "Le Calvez", "francoise.lecalvez@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Francoise", "Legay Remy", "francoise.legay-remy@doctocare.com", "null", "APATS", "null", "INFIRMIER(E) DIPLOME(E) D' ETAT", "infirmiere
 "),
@@ -3519,11 +3519,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Francoise", "Petex", "francoise.petex@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
-("Francoise", "Philippe", "francoise.philippe@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Francoise", "Philippe", "francoise.philippe@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Francoise", "Pourret", "francoise.pourret@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Francoise", "Pourret", "francoise.pourret@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Francoise", "Rinquin", "francoise.rinquin@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Francoise", "Rinquin", "francoise.rinquin@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Francoise", "Roth", "francoise.roth@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3557,7 +3557,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Frederique", "Berard", "frederique.berard@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Frederique", "Dumouchel", "frederique.dumouchel@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Frederique", "Dumouchel", "frederique.dumouchel@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Frederique", "Francoise", "frederique.francoise@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -3569,13 +3569,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Frederique", "Petitpretre", "frederique.petitpretre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Frederique", "Roiatti", "frederique.roiatti@amapa.fr", "null", "", "null", "", "OPRTS
+("Frederique", "Roiatti", "frederique.roiatti@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Frederique", "Thuru", "frederique.thuru@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Frederique", "Toschi", "frederique.toschi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Frederique", "Vergne", "frederique.vergne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Frederique", "Vergne", "frederique.vergne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Gabriel", "Oiknine", "gabriel.oiknine@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -3587,7 +3587,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Gabrielle", "Karst", "gabrielle.karst@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Gabrielle", "Lo-Giudice", "gabrielle.lo-giudice@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Gabrielle", "Lo-Giudice", "gabrielle.lo-giudice@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Gabrielle", "Scharff", "gabrielle.scharff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3599,13 +3599,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Gaelle", "Failleau", "gaelle.failleau@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Gaelle", "Le Meur", "gaelle.lemeur@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Gaelle", "Le Meur", "gaelle.lemeur@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Gaelle", "Ouvrard", "gaelle.ouvrard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("GaÃ«lle", "Ozanne-kalbfleisch", "gaelle.ozanne-kalbfleisch@doctocare.com", "null", "DG Health", "null", "MÃ©decin GÃ©nÃ©raliste", "medecin
 "),
-("Gaelle", "Quelennec", "gaelle.quelennec@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Gaelle", "Quelennec", "gaelle.quelennec@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Gaelle", "Rousseau", "gaelle.rousseau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3635,17 +3635,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Genevieve", "Chereau", "genevieve.chereau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Genevieve", "Goret", "genevieve.goret@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Genevieve", "Goret", "genevieve.goret@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("GeneviÃ¨ve", "Heinrich", "genevieve.heinrich@doctocare.com", "null", "DG Health", "null", "Ophtalmologue", "medecin
 "),
 ("Geneviève", "Hervieux-julien", "genevieve.hervieux-julien@doctocare.com", "null", "DG Health", "null", "GynÃ©cologue", "medecin
 "),
-("Genevieve", "Lachaud", "genevieve.lachaud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Genevieve", "Lachaud", "genevieve.lachaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Genevieve", "Montaigu", "genevieve.montaigu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Genevieve", "Petit", "genevieve.petit@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Genevieve", "Petit", "genevieve.petit@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("GeneviÃ¨ve", "Poles", "genevieve.poles@doctocare.com", "null", "DG Health", "null", "KinÃ©sithÃ©rapeute", "medecin
 "),
@@ -3653,13 +3653,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Genevieve", "Schneider", "genevieve.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Genevieve", "Vaillot", "genevieve.vaillot@amapa.fr", "null", "", "null", "", "OPRTS
+("Genevieve", "Vaillot", "genevieve.vaillot@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Geneviève", "Weber", "genevieve.weber@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Geoffrey", "Koslowski", "geoffrey.koslowski@dgmail.fr", "null", "null", "null", "null", "MyQRV
 "),
-("Geoffroy", "Desmars", "geoffroy.desmars@amapa.fr", "null", "", "null", "", "
+("Geoffroy", "Desmars", "geoffroy.desmars@amapa.fr", "null", "null", "null", "null", "
 "),
 ("Georgina", "Maute", "georgina.maute@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3697,15 +3697,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ghislaine", "Boniface", "ghislaine.boniface@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ghislaine", "Brochen", "ghislaine.brochen@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Ghislaine", "Brochen", "ghislaine.brochen@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Ghislaine", "Faugere", "ghislaine.faugere@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ghislaine", "Faugere", "ghislaine.faugere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ghislaine", "Kieffer", "ghislaine.kieffer@amapa.fr", "null", "AMAPA", "null", "Animatrice", "OPRTS
 "),
-("Ghislaine", "Laval", "ghislaine.laval@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ghislaine", "Laval", "ghislaine.laval@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ghislaine", "Lherbe", "ghislaine.lherbe@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Ghislaine", "Lherbe", "ghislaine.lherbe@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Ghislaine", "Maczko", "ghislaine.maczko@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -3713,7 +3713,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ghislaine", "Seiller", "ghislaine.seiller@cliniquevauban.com", "null", "null", "null", "ATTACHEE DE DIRECTION - RESSOURCES HUMAINES", "Administratif
 "),
-("Ghislaine", "Villalonga", "ghislaine.villalonga@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ghislaine", "Villalonga", "ghislaine.villalonga@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Grand Hôtel", "De Plombiere", "ghp@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -3729,7 +3729,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ginette", "Brinon", "ginette.brinon@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Ginette", "Couegnas", "ginette.couegnas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ginette", "Couegnas", "ginette.couegnas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ginette", "Ouchache", "ginette.ouchache@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3739,13 +3739,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Giovanna", "Scalise", "giovanna.scalise@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Gisele", "Chanut", "gisele.chanut@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Gisele", "Chanut", "gisele.chanut@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Gisele", "Croce", "gisele.croce@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Gisele", "Croce", "gisele.croce@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Gisele", "Le Bris", "gisele.lebris@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Gisele", "Le Bris", "gisele.lebris@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Gisele", "Montagnac", "gisele.montagnac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Gisele", "Montagnac", "gisele.montagnac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Gisele", "Panek", "gisele.panek@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -3755,7 +3755,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Giuseppina", "Bicanic", "giuseppina.bicanic@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Gladys", "Lepinay", "gladys.lepinay@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Gladys", "Lepinay", "gladys.lepinay@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Gladys", "Manzoli", "gladys.manzoli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3765,7 +3765,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Popinns", "Google My Business", "googlemybusiness@popinns.com", "null", "null", "null", "null", "null
 "),
-("Amapa", "Gournay", "gournay@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Amapa", "Gournay", "gournay@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Anne-Laure", "Boichot", "gouvernante.saintecroix@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -3805,13 +3805,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Guy Noel", "Berthault", "guy-noel.berthault@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Guylaine", "Lefevre", "guylaine.lefevre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Guylaine", "Lefevre", "guylaine.lefevre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Guylaine", "Legardinier", "guylaine.legardinier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Gwenaele", "Saint Leger", "gwenaele.saint-leger@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Gwendoline", "Le Bivic", "gwendoline.lebivic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Gwendoline", "Le Bivic", "gwendoline.lebivic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Gwendolyne", "Martin", "gwendolyne.martin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3847,7 +3847,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Hannah", "Bensaid", "hannah.bensaid@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Hanne", "Boyer", "hanne.boyer@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Hanne", "Boyer", "hanne.boyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Harmonie", "Payen", "harmonie.payen@amapa.fr", "null", "Amapa", "null", "chargé de la planification", "assistant-direction
 "),
@@ -3869,11 +3869,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Hedwige", "Perczow", "hedwige.perczow@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Helene", "Alexandre", "helene.alexandre@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Helene", "Alexandre", "helene.alexandre@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Helene", "Benazet Zakarian", "helene.benazet.zakarian@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Helene", "Blanck", "helene.blanck@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Helene", "Blanck", "helene.blanck@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Helene", "Boible", "helene.boible@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3881,7 +3881,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Helene", "Denos", "helene.denos@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Helene", "Geneste", "helene.geneste@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Helene", "Geneste", "helene.geneste@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Helene", "Glairet", "helene.glairet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3889,9 +3889,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Helene", "Houdart", "helene.houdart@popinns.com", "null", "DG Urbans", "null", "Assistante de direction", "OPRTS
 "),
-("Helene", "Lachaud", "helene.lachaud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Helene", "Lachaud", "helene.lachaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Helene", "Laval", "helene.laval@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Helene", "Laval", "helene.laval@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Helene", "Le Traon", "helene.letraon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3899,7 +3899,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Helene", "Poveda", "helene.poveda@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Helene", "Puyjalon", "helene.puyjalon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Helene", "Puyjalon", "helene.puyjalon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Helene", "Schwob", "helene.schwob@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3971,7 +3971,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ingrid", "Germain", "ingrid.germain@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
-("Ingrid", "Greuet", "ingrid.greuet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ingrid", "Greuet", "ingrid.greuet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ingrid", "Hornech", "ingrid.hornech@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -3991,19 +3991,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabel", "Nzumba", "isabel.nzumba@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Bablet", "isabelle.bablet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Bablet", "isabelle.bablet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Berrezigua", "isabelle.berrezigua@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Blanchard", "isabelle.blanchard@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Isabelle", "Breuil", "isabelle.breuil@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Breuil", "isabelle.breuil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Broquin", "isabelle.broquin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Broquin", "isabelle.broquin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Burte", "isabelle.burte@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Isabelle", "Cassier", "isabelle.cassier@amapa.fr", "null", "", "null", "", "OPRTS
+("Isabelle", "Cassier", "isabelle.cassier@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Isabelle", "Chadal", "isabelle.chadal@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4017,13 +4017,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Cloud", "isabelle.cloud@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Isabelle", "Colve", "isabelle.colve@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Isabelle", "Colve", "isabelle.colve@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Isabelle", "Cordonnier", "isabelle.cordonnier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Cuciz", "isabelle.cuciz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Da Cunha", "isabelle.dacunha@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Da Cunha", "isabelle.dacunha@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Davenel", "isabelle.davenel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4033,9 +4033,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Derumeaux", "isabelle.derumeaux@popinns.com", "null", "null", "null", "null", "Call Center
 "),
-("Isabelle", "Dichamp", "isabelle.dichamp@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Dichamp", "isabelle.dichamp@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Dietrich", "isabelle.dietrich@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Isabelle", "Dietrich", "isabelle.dietrich@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Isabelle", "Domenech", "isabelle.domenech@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4077,17 +4077,17 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Kooij", "isabelle.kooij@popinns.com", "null", "null", "null", "null", "ADV
 "),
-("Isabelle", "Laporte", "isabelle.laporte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Laporte", "isabelle.laporte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Lascombe", "isabelle.lascombe@doctocare.com", "null", "APATS", "null", "SECRETAIRE MEDICALE", "secretaire-med
 "),
 ("Isabelle", "Levif", "isabelle.levif@doctocare.com", "null", "APATS", "null", "RESPONSABLE EPSA", "direction
 "),
-("Isabelle", "Lharidon", "isabelle.lharidon@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Isabelle", "Lharidon", "isabelle.lharidon@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Isabelle", "Maire", "isabelle.maire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Marion", "isabelle.marion@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Isabelle", "Marion", "isabelle.marion@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Masy", "isabelle.masy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4099,7 +4099,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Muller", "isabelle.muller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Ollivier", "isabelle.ollivier@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Isabelle", "Ollivier", "isabelle.ollivier@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Isabelle", "Papillon", "isabelle.papillon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4107,7 +4107,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Pichonnier", "isabelle.pichonnier@doctocare.com", "null", "APATS", "null", "RESPONSABLE DE CENTRE DENTAIRE", "direction
 "),
-("Isabelle", "Prigent", "isabelle.prigent@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Isabelle", "Prigent", "isabelle.prigent@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Isabelle", "Raulin", "isabelle.raulin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4135,7 +4135,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Isabelle", "Vaucher", "isabelle.vaucher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Isabelle", "Vendeville", "isabelle.vendeville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Isabelle", "Vendeville", "isabelle.vendeville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Isabelle", "Vermot Des Roches", "isabelle.vermotdesroches@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4149,11 +4149,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jacqueline", "Abdelkader", "jacqueline.abdelkader@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Jacqueline", "Bergeal", "jacqueline.bergeal@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Jacqueline", "Bergeal", "jacqueline.bergeal@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
 ("Jacqueline", "Bouyer", "jacqueline.bouyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Jacqueline", "Chevalier", "jacqueline.chevalier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jacqueline", "Chevalier", "jacqueline.chevalier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jacqueline", "Elles", "jacqueline.elles@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -4161,7 +4161,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jacqueline", "Hamisultane", "jacqueline.hamisultane@doctocare.com", "null", "DG Health", "null", "MÃ©decin GÃ©nÃ©raliste", "medecin
 "),
-("Jacqueline", "Jaulhac", "jacqueline.jaulhac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jacqueline", "Jaulhac", "jacqueline.jaulhac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jacqueline", "Milcent", "jacqueline.milcent@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4171,7 +4171,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jacqueline", "Voyer", "jacqueline.voyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Jacques", "Klos", "jacques.klos@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jacques", "Klos", "jacques.klos@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jacques", "Rigollot", "jacques.rigollot@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -4181,15 +4181,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jalila", "Mzari", "jalila.mzari@doctocare.com", "null", "null", "null", "prothesiste", "null
 "),
-("Jamila", "Aboulkacem", "jamila.aboulkacem@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Jamila", "Aboulkacem", "jamila.aboulkacem@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Jamila", "Hamdane", "jamila.hamdane@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jamila", "Hamdane", "jamila.hamdane@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jane", "Pasqua", "jane.pasqua@popinns.com", "null", "DG Holidays", "null", "Responsable mÃ©nage", "OPRTS
 "),
 ("Janick", "Debonne", "janick.debonne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Janine", "Ceaux", "janine.ceaux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Janine", "Ceaux", "janine.ceaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jannick", "Caruso", "jannick.caruso@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4239,7 +4239,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jean-Max", "Naguin-Coupin", "jean-max.naguin-coupin@popinns.com", "null", "Popinns", "null", "Agent de maintenance", "OPRTS
 "),
-("Jean-Paul", "Dizier", "jean-paul.dizier@amapa.fr", "null", "AMAPA", "null", "", "INFSI
+("Jean-Paul", "Dizier", "jean-paul.dizier@amapa.fr", "null", "AMAPA", "null", "null", "INFSI
 "),
 ("Jean-Pierre", "Chaunu", "jean-pierre.chaunu@doctocare.com", "null", "DG Health", "null", "PhlÃ©bologue", "medecin
 "),
@@ -4251,13 +4251,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jean Christophe", "Minard", "jeanchristophe.minard@popinns.com", "null", "DG Holidays", "null", "superintendant golf", "OPRTS
 "),
-("Jeanine", "Juillard", "jeanine.juillard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jeanine", "Juillard", "jeanine.juillard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jeanine", "Val", "jeanine.val@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jean Jacques", "Montaubric", "jeanjacques.montaubric@dgmail.fr", "null", "DgHome", "null", "null", "null
 "),
-("Jeanne-Francoise", "Madiamanima", "jeanne-francoise.madiamanima@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Jeanne-Francoise", "Madiamanima", "jeanne-francoise.madiamanima@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Jeanne Geraldine", "Gelie", "jeanne-geraldine.gelie@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
@@ -4275,7 +4275,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jeannette", "Hergott", "jeannette.hergott@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Jeannine", "Baudemont", "jeannine.baudemont@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Jeannine", "Baudemont", "jeannine.baudemont@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Jeannine", "Boudot", "jeannine.boudot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4309,7 +4309,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("jenny", "martinez", "jenny.martinez@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Jenny", "Musquere", "jenny.musquere@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Jenny", "Musquere", "jenny.musquere@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Jeremie", "Sery", "jeremie.sery@dgmail.fr", "null", "null", "null", "ACDP", "null
 "),
@@ -4361,7 +4361,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jitendra", "kumar", "jitendra.kumar@cello.fr", "null", "null", "null", "null", "null
 "),
-("Joan", "Neuhaus", "joan.neuhaus@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Joan", "Neuhaus", "joan.neuhaus@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Joanna", "Jasinski", "joanna.jasinski@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4381,7 +4381,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Jocelyne", "Byrotheau", "jocelyne.byrotheau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Jocelyne", "Caulier", "jocelyne.caulier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Jocelyne", "Caulier", "jocelyne.caulier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Jocelyne", "Chartier", "jocelyne.chartier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4423,7 +4423,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Joel", "Nadal", "joel.nadal@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Joel", "Subra", "joel.subra@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Joel", "Subra", "joel.subra@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Joël", "Vacher", "joel.vacher@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -4439,13 +4439,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Joelle", "Dahlke", "joelle.dahlke@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Joelle", "Dambrine", "joelle.dambrine@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Joelle", "Dambrine", "joelle.dambrine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Joelle", "Galane", "joelle.galane@doctocare.com", "null", "DG Health", "null", "DopplÃ©riste", "medecin
 "),
 ("Joelle", "Graff", "joelle.graff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Joelle", "Joseph", "joelle.joseph@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Joelle", "Joseph", "joelle.joseph@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Joelle", "Jung", "joelle.jung@amapa.fr", "null", "null", "null", "Assistante de secteur", "AMAPA - Pole Messin - Aide à domicile - Secteur 02
 "),
@@ -4459,7 +4459,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Joelle", "Seferian", "joelle.seferian@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Joelle", "Tremel", "joelle.tremel@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Joelle", "Tremel", "joelle.tremel@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Joelle", "Wagner", "joelle.wagner@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4513,19 +4513,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Josette", "Courtin", "josette.courtin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josette", "Eyraud", "josette.eyraud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Josette", "Eyraud", "josette.eyraud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josette", "Eyrignoux", "josette.eyrignoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Josette", "Eyrignoux", "josette.eyrignoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Josette", "Frangi", "josette.frangi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josette", "Pierre", "josette.pierre@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Josette", "Pierre", "josette.pierre@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
-("Josette", "Prigent", "josette.prigent@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Josette", "Prigent", "josette.prigent@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Josette", "Refosco", "josette.refosco@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josiane", "Badou", "josiane.badou@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Josiane", "Badou", "josiane.badou@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Josiane", "Baudry", "josiane.baudry@doctocare.com", "null", "APATS", "null", "RESPONSABLE IMAGERIE", "direction", " radio
 "),
@@ -4541,7 +4541,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Josiane", "Genvo", "josiane.genvo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josiane", "Gorse", "josiane.gorse@amapa.fr", "null", "AMAPA", "null", "", "ADMIN
+("Josiane", "Gorse", "josiane.gorse@amapa.fr", "null", "AMAPA", "null", "null", "ADMIN
 "),
 ("Josiane", "Grosclaude", "josiane.grosclaude@amapa.fr", "null", "null", "null", "Assistante de Formation", "AMAPA - Siège - Service Formation
 "),
@@ -4549,13 +4549,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Josiane", "Lazzaretti", "josiane.lazzaretti@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josiane", "Leriche", "josiane.leriche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Josiane", "Leriche", "josiane.leriche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Josiane", "Payeur", "josiane.payeur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Josiane", "Pfeiffer", "josiane.pfeiffer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Josiane", "Riolino", "josiane.riolino@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Josiane", "Riolino", "josiane.riolino@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Josiane", "Sinteff", "josiane.sinteff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4567,11 +4567,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Julian", "Escriva", "julian.escriva@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Julie", "Anquetil", "julie.anquetil@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Julie", "Anquetil", "julie.anquetil@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Julie", "Backes", "julie.backes@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Julie", "Balavoine", "julie.balavoine@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Julie", "Balavoine", "julie.balavoine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("julie", "blaise", "julie.blaise@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -4583,11 +4583,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Julie", "Gauthier", "julie.gauthier@popinns.com", "null", "null", "null", "null", "null
 "),
-("Julie", "Gibbs", "julie.gibbs@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Julie", "Gibbs", "julie.gibbs@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Julie", "Gouault", "julie.gouault@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Julie", "Le Bescont", "julie.lebescont@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Julie", "Le Bescont", "julie.lebescont@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Julie", "Lecat", "julie.lecat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4623,7 +4623,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Justine", "Muller", "justine.muller@amapa.fr", "null", "Amapa", "null", "Infirmiere", "OPRTS
 "),
-("Justine", "Mvoe", "justine.mvoe@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Justine", "Mvoe", "justine.mvoe@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Justine", "Ochs", "justine.ochs@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -4639,9 +4639,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Le", "Kangourou", "kangourou@popinns.com", "null", "DG Holidays", "null", "Reception", "OPRTS
 "),
-("Karen", "Jacques", "karen.jacques@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karen", "Jacques", "karen.jacques@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Karene", "Arnaud-Brun", "karene.arnaud-brun@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Karene", "Arnaud-Brun", "karene.arnaud-brun@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Karim", "Dahmani", "karim.dahmani@popinns.com", "null", "DG Holidays", "null", "Chef", "OPRTS
 "),
@@ -4653,7 +4653,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Karima", "Bedj Bedj", "karima.bedj-bedj@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Karima", "Derkaoui", "karima.derkaoui@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karima", "Derkaoui", "karima.derkaoui@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karima", "Soukehal", "karima.soukehal@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -4663,7 +4663,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Karine", "Balaine", "karine.balaine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Karine", "Bouchillou", "karine.bouchillou@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karine", "Bouchillou", "karine.bouchillou@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karine", "Bragard", "karine.bragard@amapa.fr", "null", "null", "null", "Assistante de secteur", "null
 "),
@@ -4671,7 +4671,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("karine", "chekmedjian", "karine.chekmedjian@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Karine", "Choffey", "karine.choffey@amapa.fr", "null", "", "null", "", "OPRTS
+("Karine", "Choffey", "karine.choffey@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Karine", "Collet", "karine.collet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4685,11 +4685,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Karine", "Gross", "karine.gross@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Karine", "Guihard", "karine.guihard@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Karine", "Guihard", "karine.guihard@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Karine", "Hamelin", "karine.hamelin.exit@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Karine", "Jamar", "karine.jamar@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karine", "Jamar", "karine.jamar@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karine", "Lebonnois", "karine.lebonnois@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE) DIRECTEUR", "direction", " opticien
 "),
@@ -4697,13 +4697,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Karine", "Lenoir", "karine.lenoir@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Karine", "Letoquart", "karine.letoquart@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karine", "Letoquart", "karine.letoquart@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karine", "Martiny", "karine.martiny@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karine", "Mesange", "karine.mesange@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Karine", "Pedrollo", "karine.pedrollo@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karine", "Pedrollo", "karine.pedrollo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Karine", "Rattaire", "karine.rattaire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4713,7 +4713,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Karine", "Specht", "karine.specht@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Karine", "Vidal", "karine.vidal@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Karine", "Vidal", "karine.vidal@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Katarzyna", "Tiaiba", "katarzyna.tiaiba@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4809,7 +4809,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laetitia", "Maillard", "laetitia.maillard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laetitia", "Mas", "laetitia.mas@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Laetitia", "Mas", "laetitia.mas@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Laetitia", "Migneau", "laetitia.migneau@doctocare.com", "null", "DG Optique", "null", "ASSISTANTE AUDIOPROTHESE", "audioprothesiste
 "),
@@ -4845,7 +4845,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laura", "Baptiste", "laura.baptiste@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laura", "Larguier", "laura.larguier@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Laura", "Larguier", "laura.larguier@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Laura", "Loucif", "laura.loucif@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4885,23 +4885,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laure", "Roulot Nurdin", "laure.roulotnurdin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laureen", "Bienfait", "laureen.bienfait@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Laureen", "Bienfait", "laureen.bienfait@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Lauren", "Limoucin", "lauren.limoucin@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
 ("Laurence", "Almairac", "laurence.almairac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Amafroid-Broisat", "laurence.amafroid-broisat@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Laurence", "Amafroid-Broisat", "laurence.amafroid-broisat@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Laurence", "Bechikh", "laurence.bechikh@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
-("Laurence", "Brondex", "laurence.brondex@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Laurence", "Brondex", "laurence.brondex@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Laurence", "Cherifi", "laurence.cherifi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Laurence", "Decoudu", "laurence.decoudu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Deguerville", "laurence.deguerville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Laurence", "Deguerville", "laurence.deguerville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Laurence", "Della Vedova", "laurence.dellavedova@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4911,7 +4911,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurence", "Fournier", "laurence.fournier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Geffroy", "laurence.geffroy@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Laurence", "Geffroy", "laurence.geffroy@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Laurence", "Giudicelli", "laurence.giudicelli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4927,7 +4927,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurence", "Holtz", "laurence.holtz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Jacobert", "laurence.jacobert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Laurence", "Jacobert", "laurence.jacobert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Laurence", "Lanzenberg", "laurence.lanzenberg@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -4935,7 +4935,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurence", "Lebarbier", "laurence.lebarbier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Le Quere", "laurence.lequere@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Laurence", "Le Quere", "laurence.lequere@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Laurence", "Lopez", "laurence.lopez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4953,7 +4953,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurence", "Parentin", "laurence.parentin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Podeur", "laurence.podeur@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Laurence", "Podeur", "laurence.podeur@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Laurence", "Prim", "laurence.prim@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -4969,7 +4969,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurence", "Sutter", "laurence.sutter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Laurence", "Thisselin", "laurence.thisselin@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Laurence", "Thisselin", "laurence.thisselin@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Laurence", "Vallet", "laurence.vallet@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -4979,7 +4979,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurent", "Buisson", "laurent.buisson@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT MEDICAL", "accueil
 "),
-("Laurent", "Dallongeville", "laurent.dallongeville@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Laurent", "Dallongeville", "laurent.dallongeville@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Laurent", "Lozano", "laurent.lozano@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -4989,7 +4989,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lauriane", "Carvalho", "lauriane.carvalho@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Laurie", "Dercourt", "laurie.dercourt@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Laurie", "Dercourt", "laurie.dercourt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Laurie", "Saurat", "laurie.saurat@dgmail.fr", "null", "DGHome", "null", "Standardiste", "null
 "),
@@ -4997,7 +4997,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Laurine", "Mrnka", "laurine.mrnka@popinns.com", "null", "null", "null", "null", "null
 "),
-("Laurine", "Roussie", "laurine.roussie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Laurine", "Roussie", "laurine.roussie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Lavinia", "Preda", "lavinia.preda@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -5005,7 +5005,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lea", "Bour", "lea.bour@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lea", "Piazzetta", "lea.piazzetta@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Lea", "Piazzetta", "lea.piazzetta@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Lea", "Piccadaci", "lea.piccadaci@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -5025,7 +5025,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lenaik", "Ghraibi", "lenaik.ghraibi@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Leone", "Tertrais", "leone.tertrais@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Leone", "Tertrais", "leone.tertrais@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Leonid", "Konov", "leonid.konov@popinns.com", "null", "null", "null", "Chargée de clientèle résidences", "Commercial
 "),
@@ -5045,15 +5045,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Leslie", "Molins", "leslie.molins@popinns.com", "null", "null", "null", "null", "Ressources Humaines
 "),
-("Amapa", "Levieuxmarche", "levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Amapa", "Levieuxmarche", "levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Leyla", "Atug", "leyla.atug@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lia", "Kreutzelman", "lia.kreutzelman@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Lia", "Kreutzelman", "lia.kreutzelman@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Liana", "Hakobian", "liana.hakobian@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Amapa", "Liberte", "liberte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Amapa", "Liberte", "liberte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Lidwine", "Laigle", "lidwine.laigle@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -5063,7 +5063,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Liliane", "Limosino", "liliane.limosino@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Liliane", "Loeffel", "liliane.loeffel@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Liliane", "Loeffel", "liliane.loeffel@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Liliane", "Pelmar", "liliane.pelmar@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -5097,7 +5097,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lindsay", "Bourgouin", "lindsay.bourgouin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Line", "Schwartzmann", "line.schwartzmann@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Line", "Schwartzmann", "line.schwartzmann@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Line", "Thomas Kaimba", "line.thomas-kaimba@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -5131,7 +5131,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Louisa", "Tajder", "louisa.tajder@popinns.com", "null", "null", "null", "null", "null
 "),
-("Louise", "Chatonnier", "louise.chatonnier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Louise", "Chatonnier", "louise.chatonnier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Louise", "Paulet", "louise.paulet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5141,7 +5141,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lucia", "Calabrese", "lucia.calabrese@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lucie", "Deplanque", "lucie.deplanque@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Lucie", "Deplanque", "lucie.deplanque@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Lucie", "Flavier", "lucie.flavier@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -5151,7 +5151,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lucie", "Pereira", "lucie.pereira@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lucie", "Pindor", "lucie.pindor@amapa.fr", "null", "", "null", "", "OPRTS
+("Lucie", "Pindor", "lucie.pindor@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Lucie", "Springmann", "lucie.springmann@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -5169,11 +5169,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lucile", "Vimbert", "lucile.vimbert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lucinda", "Raher", "lucinda.raher@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Lucinda", "Raher", "lucinda.raher@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Ludivine", "Bertaux", "ludivine.bertaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ludivine", "Beugin", "ludivine.beugin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ludivine", "Beugin", "ludivine.beugin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ludivine", "Lankocz", "ludivine.lankocz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5207,7 +5207,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lydie", "Lorion", "lydie.lorion@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Lydie", "Manuel", "lydie.manuel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Lydie", "Manuel", "lydie.manuel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Lydie", "Rehheiser Oubati", "lydie.rehheiseroubati@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5231,7 +5231,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Lysiane", "Tonnette", "lysiane.tonnette@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Lysiane", "Vassard", "lysiane.vassard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Lysiane", "Vassard", "lysiane.vassard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mabrouka", "Aifaoui", "mabrouka.aifaoui@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5249,11 +5249,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maeva", "Lemaire", "maeva.lemaire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maeva", "Le Saout", "maeva.lesaout@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Maeva", "Le Saout", "maeva.lesaout@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Magali", "Acquaviva", "magali.acquaviva@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Magali", "Chabrerie", "magali.chabrerie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Magali", "Chabrerie", "magali.chabrerie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Magali", "Fouassier", "magali.fouassier@amapa.fr", "null", "null", "null", "Aide Médico Psychologique", "Accueil de jour
 "),
@@ -5277,13 +5277,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Magalie", "Bronner", "magalie.bronner@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Magalie", " Digarcher", "magalie.digarcher@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Magalie", " Digarcher", "magalie.digarcher@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Magalie", "Droumaguet", "magalie.droumaguet@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Magalie", "Droumaguet", "magalie.droumaguet@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Magalie", "Duval", "magalie.duval@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Magalie", "Leclerc", "magalie.leclerc@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Magalie", "Leclerc", "magalie.leclerc@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Magalie", "Martin", "magalie.martin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5339,7 +5339,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Manuel", "Broquin-Lacombe", "manuel.broquin-lacombe@popinns.com", "null", "null", "null", "null", "null
 "),
-("Manuela", "Chopat", "manuela.chopat@sidonie.fr", "null", "SIDONIE", "null", "", "oprts
+("Manuela", "Chopat", "manuela.chopat@sidonie.fr", "null", "SIDONIE", "null", "null", "oprts
 "),
 ("Manuela", "Guisado", "manuela.guisado@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5373,7 +5373,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maria-Carmela", "Crisci", "maria-carmela.crisci@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maria-De-Fatima", "De Moura", "maria-de-fatima.demoura@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Maria-De-Fatima", "De Moura", "maria-de-fatima.demoura@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Maria-Dulce", "Rama", "maria-dulce.rama@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5385,7 +5385,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maria", "Doller", "maria.doller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maria", "Fernandes", "maria.fernandes@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Maria", "Fernandes", "maria.fernandes@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Maria", "Ferreira", "maria.ferreira@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5393,7 +5393,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maria", "Lerond", "maria.lerond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maria", "Luc", "maria.luc@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Maria", "Luc", "maria.luc@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Maria", "Manganaro", "maria.manganaro@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5407,7 +5407,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maria", "Poulain", "maria.poulain@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maria", "Rodrigues Freitas", "maria.rodriguesfreitas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Maria", "Rodrigues Freitas", "maria.rodriguesfreitas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mariam", "Aniashvili", "mariam.aniashvili@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5427,21 +5427,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Anais", "Labouere", "marie-anais.labouere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Ange", "Caron", "marie-ange.caron@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Ange", "Caron", "marie-ange.caron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Ange", "Ingold", "marie-ange.ingold@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Ange", "Leone", "marie-ange.leone@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Ange", "Ropars", "marie-ange.ropars@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Ange", "Ropars", "marie-ange.ropars@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Marie-Ange", "Roumegoux", "marie-ange.roumegoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Ange", "Roumegoux", "marie-ange.roumegoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Anne", "Dominici", "marie-anne.dominici@amapa.fr", "null", "DG Help", "null", "null", "SAAD Grasse
 "),
 ("Marie-Anne", "Karp", "marie-anne.karp@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Annick", "Porte", "marie-annick.porte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Annick", "Porte", "marie-annick.porte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Antoinette", "Datola", "marie-antoinette.datola@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5449,15 +5449,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Aude", "Piquet", "marie-aude.piquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Bernadette", "Chauquet", "marie-bernadette.chauquet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Bernadette", "Chauquet", "marie-bernadette.chauquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Bernadette", "Plaze", "marie-bernadette.plaze@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Bernadette", "Plaze", "marie-bernadette.plaze@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Catherine", "Gilbert", "marie-catherine.gilbert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Catherine", "Petit", "marie-catherine.petit@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Marie-Chantal", "Leymarie", "marie-chantal.leymarie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Chantal", "Leymarie", "marie-chantal.leymarie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Christine", "Bintz", "marie-christine.bintz@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -5465,23 +5465,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Christine", "Desemmery", "marie-christine.desemmery@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Christine", "Durantet", "marie-christine.durantet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Christine", "Durantet", "marie-christine.durantet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Christine", "Eriat", "marie-christine.eriat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Christine", "Fiumara", "marie-christine.fiumara@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Christine", "Fraysse", "marie-christine.fraysse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Christine", "Fraysse", "marie-christine.fraysse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Christine", "Heiderich", "marie-christine.heiderich@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie Christine", "Jaillard Lacour", "marie-christine.jaillard-lacour@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Marie-Christine", "Joncoux", "marie-christine.joncoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Christine", "Joncoux", "marie-christine.joncoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Christine", "Laurichesse", "marie-christine.laurichesse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Christine", "Laurichesse", "marie-christine.laurichesse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Christine", "Le Tout", "marie-christine.letout@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Christine", "Le Tout", "marie-christine.letout@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-christine", "Mallet", "marie-christine.mallet@amapa.fr", "null", "DG Help", "null", "null", "OPRTS
 "),
@@ -5493,7 +5493,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Christine", "Schlincker", "marie-christine.schlincker@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Christine", "Vidalie", "marie-christine.vidalie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Christine", "Vidalie", "marie-christine.vidalie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Claire", "Allegre", "marie-claire.allegre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5501,7 +5501,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Claire", "Huvelin", "marie-claire.huvelin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Claire", "Le Bour", "marie-claire.lebour@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Claire", "Le Bour", "marie-claire.lebour@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Claire", "Rocheron", "marie-claire.rocheron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5527,13 +5527,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Claude", "Mathis", "marie-claude.mathis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Claude", "Merigoux", "marie-claude.merigoux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Claude", "Merigoux", "marie-claude.merigoux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Claude", "Michelet", "marie-claude.michelet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Claude", "Passemard", "marie-claude.passemard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Claude", "Passemard", "marie-claude.passemard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Claudia", "Hanitriniaina", "marie-claudia.hanitriniaina@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Marie-Claudia", "Hanitriniaina", "marie-claudia.hanitriniaina@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Marie-Corinne", "Anstett", "marie-corinne.anstett@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -5545,15 +5545,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Elise", "Hennel", "marie-elise.hennel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-France", "Bauvais", "marie-france.bauvais@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-France", "Bauvais", "marie-france.bauvais@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-France", "Demonchy", "marie-france.demonchy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-France", "Demonchy", "marie-france.demonchy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-France", "Guerin", "marie-france.guerin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-France", "Guerineau", "marie-france.guerineau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-France", "Lemenn Leymarie", "marie-france.lemennleymarie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-France", "Lemenn Leymarie", "marie-france.lemennleymarie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-France", "Mozet", "marie-france.mozet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5563,23 +5563,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-France", "Ruch", "marie-france.ruch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Francoise", "Breuil", "marie-francoise.breuil@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Francoise", "Breuil", "marie-francoise.breuil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Francoise", "Froidefond", "marie-francoise.froidefond@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Francoise", "Froidefond", "marie-francoise.froidefond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Francoise", "Sageaux", "marie-francoise.sageaux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Francoise", "Sageaux", "marie-francoise.sageaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Gerardine", "Christophe", "marie-gerardine.christophe@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Helene", "Antoine", "marie-helene.antoine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Helene", "Lauvernet", "marie-helene.lauvernet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Helene", "Lauvernet", "marie-helene.lauvernet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Helene", "Lelievre", "marie-helene.lelievre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Helene", "Lelievre", "marie-helene.lelievre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie Helene", "Marchand", "marie-helene.marchand@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Marie-Helene", "Riol", "marie-helene.riol@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Helene", "Riol", "marie-helene.riol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Isabelle", "Ciminato", "marie-isabelle.ciminato@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5591,11 +5591,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Jose", "Bolzinger", "marie-jose.bolzinger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Jose", "Dalex", "marie-jose.dalex@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Marie-Jose", "Dalex", "marie-jose.dalex@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
-("Marie-Jose", "De Faria", "marie-jose.defaria@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Jose", "De Faria", "marie-jose.defaria@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Jose", "Fournival", "marie-jose.fournival@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Jose", "Fournival", "marie-jose.fournival@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Josee", "Belin", "marie-josee.belin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5603,13 +5603,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Josee", "Cuenot", "marie-josee.cuenot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Josee", "Ferrier", "marie-josee.ferrier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Josee", "Ferrier", "marie-josee.ferrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Josee", "Libouroux", "marie-josee.libouroux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Josee", "Libouroux", "marie-josee.libouroux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Josee", "Payen", "marie-josee.payen@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Josee", "Payen", "marie-josee.payen@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Josee", "Rambaud", "marie-josee.rambaud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Josee", "Rambaud", "marie-josee.rambaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Josee", "Recorbet", "marie-josee.recorbet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5621,9 +5621,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Josette", "Champagne", "marie-josette.champagne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Laure", "Beguin", "marie-laure.beguin@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Marie-Laure", "Beguin", "marie-laure.beguin@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Marie-Laure", "Deroche", "marie-laure.deroche@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Laure", "Deroche", "marie-laure.deroche@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Laure", "Harlay", "marie-laure.harlay@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5631,7 +5631,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Laure", "Wolff", "marie-laure.wolff@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Marie-Line", "Peyronnet", "marie-line.peyronnet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Line", "Peyronnet", "marie-line.peyronnet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Line", "Stephan", "marie-line.stephan@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5641,13 +5641,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie Madeleine", "Mbienz", "marie-madeleine.mbienz@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Marie-Noelle", "Gestin", "marie-noelle.gestin@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Noelle", "Gestin", "marie-noelle.gestin@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Noelle", "Lecieux", "marie-noelle.lecieux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Noelle", "Lecocq", "marie-noelle.lecocq@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Noelle", "Prat", "marie-noelle.prat@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Noelle", "Prat", "marie-noelle.prat@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Noelle", "Renard", "marie-noelle.renard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5671,7 +5671,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Paule", "Hafner", "marie-paule.hafner@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Paule", "Hamon", "marie-paule.hamon@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie-Paule", "Hamon", "marie-paule.hamon@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie-Paule", "Hanocq", "marie-paule.hanocq@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5691,9 +5691,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Reine", "Kiefer", "marie-reine.kiefer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Renee", "Lavillette", "marie-renee.lavillette@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Renee", "Lavillette", "marie-renee.lavillette@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Renee", "Normand", "marie-renee.normand@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Renee", "Normand", "marie-renee.normand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Rose", "Andre", "marie-rose.andre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5717,7 +5717,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Rose", "Petri", "marie-rose.petri@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Rose", "Salles", "marie-rose.salles@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Rose", "Salles", "marie-rose.salles@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Therese", "Balthazard", "marie-therese.balthazard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5727,7 +5727,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie-Therese", "Chapeau", "marie-therese.chapeau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie-Therese", "Continsouza", "marie-therese.continsouza@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie-Therese", "Continsouza", "marie-therese.continsouza@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie-Therese", "Delhommeau", "marie-therese.delhommeau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5761,7 +5761,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie", "Delucq", "marie.delucq@cliniquevauban.com", "null", "null", "null", "Coordinatrice des suites de couche", "MATERNITE
 "),
-("Marie", "Depardieu", "marie.depardieu@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marie", "Depardieu", "marie.depardieu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marie", "Dosoli", "marie.dosoli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5781,7 +5781,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie", "Kuhn", "marie.kuhn@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marie", "Le Corfec", "marie.lecorfec@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie", "Le Corfec", "marie.lecorfec@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie", "Meloni", "marie.meloni@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5789,7 +5789,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marie", "Pirrello", "marie.pirrello@amapa.fr", "null", "EHACAHB", "null", "Gouvernante", "null
 "),
-("Marie", "Ropars", "marie.ropars@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marie", "Ropars", "marie.ropars@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marie", "Rybczynski", "marie.rybczynski@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5829,7 +5829,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marielle", "Lefevre", "marielle.lefevre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marielle", "Le Scornec", "marielle.lescornec@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Marielle", "Le Scornec", "marielle.lescornec@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Marielle", "Regnier", "marielle.regnier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5869,7 +5869,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marina", "Mangeot", "marina.mangeot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marina", "Marty", "marina.marty@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marina", "Marty", "marina.marty@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marina", "Styczen", "marina.styczen@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -5877,7 +5877,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marine", "Arbogast", "marine.arbogast@amapa.fr", "null", "null", "null", "Assistante de secteur", "AMAPA - Pole Messin - Aide à domicile - Secteur 03
 "),
-("Marine", "Berti", "marine.berti@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Marine", "Berti", "marine.berti@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Marine", "Debauge", "marine.debauge@popinns.com", "null", "Association Popinns", "null", "Educatrice de Jeunes Enfants", "OPRTS
 "),
@@ -5887,7 +5887,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marinelle", "Lopes", "marinelle.lopes@popinns.com", "null", "null", "null", "Responsable Call Center", "Call Center
 "),
-("Marinette", "Fontchastagner", "marinette.fontchastagner@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marinette", "Fontchastagner", "marinette.fontchastagner@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Ladurelle", "Marinette", "marinette.ladurelle@amapa.fr", "null", "EHACAHB", "null", "Animatrice", "null
 "),
@@ -5901,7 +5901,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marion", "Hamoneau", "marion.hamoneau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marion", "Launois", "marion.launois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marion", "Launois", "marion.launois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marion", "Le Saint", "marion.lesaint@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5911,13 +5911,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Marjorie", "Arlandis", "marjorie.arlandis@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Marjorie", "Deprez", "marjorie.deprez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marjorie", "Deprez", "marjorie.deprez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marjorie", "Garcia", "marjorie.garcia@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marjorie", "Kihl", "marjorie.kihl@amapa.fr", "null", "null", "null", "Secrétaire ", "AMAPA -Siège - Service Mandataire
 "),
-("Marjorie", "Lenfant", "marjorie.lenfant@sidonie.fr", "null", "SIDONIE", "null", "", "oprts
+("Marjorie", "Lenfant", "marjorie.lenfant@sidonie.fr", "null", "SIDONIE", "null", "null", "oprts
 "),
 ("Marlene", "Aboucaya", "marlene.aboucaya@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -5949,7 +5949,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Martine", "Bapst", "martine.bapst@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Martine", "Baudet", "martine.baudet@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Martine", "Baudet", "martine.baudet@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Martine", "Beauchet", "martine.beauchet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5957,21 +5957,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Martine", "Bourcier", "martine.bourcier@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Martine", "Bourroux", "martine.bourroux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Bourroux", "martine.bourroux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Busutil", "martine.busutil@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
 ("Martine", "Cesca", "martine.cesca@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Chevrier", "martine.chevrier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Chevrier", "martine.chevrier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Dadoun", "martine.dadoun@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Martine", "Daniel", "martine.daniel@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Martine", "Daniel", "martine.daniel@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Martine", "Deneux", "martine.deneux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Doumesche", "martine.doumesche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Doumesche", "martine.doumesche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Etienne", "martine.etienne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -5985,13 +5985,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Martine", "Jung", "martine.jung@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Kalbfleisch", "martine.kalbfleisch@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Kalbfleisch", "martine.kalbfleisch@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Kohn", "martine.kohn@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Lebouil", "martine.lebouil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Le Rolland", "martine.lerolland@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Martine", "Le Rolland", "martine.lerolland@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Martine", "Linguenheld", "martine.linguenheld@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6011,7 +6011,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Martine", "Pellier", "martine.pellier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Pietruszewski", "martine.pietruszewski@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Pietruszewski", "martine.pietruszewski@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Poirson", "martine.poirson@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6025,13 +6025,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Martine", "Seingnert", "martine.seingnert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Senut", "martine.senut@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Senut", "martine.senut@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Thomas", "martine.thomas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Martine", "Thomas", "martine.thomas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Martine", "Torloting", "martine.torloting@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Martine", "Touboulic", "martine.touboulic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Martine", "Touboulic", "martine.touboulic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Martine", "Valentin", "martine.valentin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6047,7 +6047,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maryam", "Qsiyer", "maryam.qsiyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Marylene", "Astier", "marylene.astier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Marylene", "Astier", "marylene.astier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Marylene", "De Oliveira", "marylene.deoliveira@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
@@ -6089,13 +6089,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maryse", "Herault", "maryse.herault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Maryse", "Martin", "maryse.martin@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Maryse", "Martin", "maryse.martin@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Maryse", "Pitiot", "maryse.pitiot@popinns.com", "null", "Popinns", "null", "Agent administratif", "OPRTS
 "),
 ("Maryse", "Rameau", "maryse.rameau@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Maryse", "Rousseaux", "maryse.rousseaux@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Maryse", "Rousseaux", "maryse.rousseaux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Maryse", "Sauren", "maryse.sauren@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6143,7 +6143,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Mathieu", "Hitz", "mathieu.hitz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Mathilde", "Boubet", "mathilde.boubet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Mathilde", "Boubet", "mathilde.boubet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mathilde", "Chauvet", "mathilde.chauvet@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -6155,7 +6155,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Mathilde", "Rouffignac", "mathilde.rouffignac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Mathilde", "Roussel", "mathilde.roussel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Mathilde", "Roussel", "mathilde.roussel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mathilde", "Sergent", "mathilde.sergent@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6181,21 +6181,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Maximina", "Barroso", "maximina.barroso@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Megane", "Rousset", "megane.rousset@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Megane", "Rousset", "megane.rousset@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mehran", "Hamedani", "mehran.hamedani@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Melanie", "Becart", "melanie.becart@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Melanie", "Becart", "melanie.becart@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Melanie", "Cade", "melanie.cade@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Melanie", "Cailly", "melanie.cailly@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Melanie", "Cailly", "melanie.cailly@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mélanie", "Cousin", "melanie.cousin@amapa.fr", "null", "null", "null", "null", "null
 "),
 ("Melanie", "Freywald", "melanie.freywald@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Melanie", "Guillou", "melanie.guillou@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Melanie", "Guillou", "melanie.guillou@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Melanie", "Houpert", "melanie.houpert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6207,7 +6207,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Melanie", "Poirier", "melanie.poirier@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Melanie", "Remu", "melanie.remu@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Melanie", "Remu", "melanie.remu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Melanie", "Richard", "melanie.richard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6219,7 +6219,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Melanie", "Tritz", "melanie.tritz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Melia", "Hemonic", "melia.hemonic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Melia", "Hemonic", "melia.hemonic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Melina", "Cosson", "melina.cosson@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6243,7 +6243,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Melita", "Mirzoeva", "melita.mirzoeva@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Melody", "Duchaussoy", "melody.duchaussoy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Melody", "Duchaussoy", "melody.duchaussoy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Merima Naima", "Kouachi", "merimanaima.kouachi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6273,7 +6273,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Michele", "Buron", "michele.buron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Michele", "Cochard", "michele.cochard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Michele", "Cochard", "michele.cochard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Michele", "Delesse", "michele.delesse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6281,7 +6281,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Michele", "Ecker", "michele.ecker@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Michele", "Goas", "michele.goas@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Michele", "Goas", "michele.goas@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Michele", "Graczyk", "michele.graczyk@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -6331,9 +6331,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Michelle", "Guillou", "michelle.guillou@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Michelle", "Lapierre", "michelle.lapierre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Michelle", "Lapierre", "michelle.lapierre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Michelle", "Le Calvez", "michelle.lecalvez@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Michelle", "Le Calvez", "michelle.lecalvez@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Michelle", "Moreau", "michelle.moreau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6367,7 +6367,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Mireille", "Beccherle", "mireille.beccherle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Mireille", "Carte", "mireille.carte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Mireille", "Carte", "mireille.carte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mireille", "Clamont", "mireille.clamont@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6387,7 +6387,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Mireille", "Mederic", "mireille.mederic@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Mireille", "Mourieras", "mireille.mourieras@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Mireille", "Mourieras", "mireille.mourieras@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Mireille", "Moy", "mireille.moy@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -6411,7 +6411,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Mohamed", "Ramdani", "mohamed.ramdani@popinns.com", "null", "null", "null", "null", "null
 "),
-("Mohamemed", "Seklaoui", "mohamemed.seklaoui@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Mohamemed", "Seklaoui", "mohamemed.seklaoui@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Mohammed", "Abu Ziad", "mohammed.abu-ziad@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -6423,7 +6423,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Monia", "Mafoua", "monia.mafoua@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Banner", "monique.banner@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Monique", "Banner", "monique.banner@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Monique", "Blanchin", "monique.blanchin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6431,19 +6431,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Monique", "Cresp", "monique.cresp@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Croce", "monique.croce@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Croce", "monique.croce@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Didier", "monique.didier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Dorisse", "monique.dorisse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Dufour", "monique.dufour@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Dufour", "monique.dufour@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Gaoua", "monique.gaoua@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Geyer", "monique.geyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Grognet", "monique.grognet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Grognet", "monique.grognet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Hermand", "monique.hermand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6455,27 +6455,27 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Monique", "Lorek", "monique.lorek@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Maisonnade", "monique.maisonnade@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Maisonnade", "monique.maisonnade@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Neu", "monique.neu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Periat", "monique.periat@amapa.fr", "null", "null", "null", "téléassistance", "AMAPA- Siège - Pôle clientèle
 "),
-("Monique", "Rateau", "monique.rateau@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Rateau", "monique.rateau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Ravet", "monique.ravet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Ravet", "monique.ravet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Richard", "monique.richard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Saugeras", "monique.saugeras@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Saugeras", "monique.saugeras@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Monique", "Serres", "monique.serres@popinns.com", "null", "null", "null", "null", "null
 "),
 ("Monique", "Sikora", "monique.sikora@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monique", "Vieillemaringe Tronche", "monique.vieillemaringetronche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monique", "Vieillemaringe Tronche", "monique.vieillemaringetronche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Monson", "Leleu", "monson.leleu@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Monson", "Leleu", "monson.leleu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Popinns", "Montreuil", "montreuil@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -6517,15 +6517,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Muriel", "Le Jeune", "muriel.lejeune@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Muriel", "Mandier", "muriel.mandier@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Muriel", "Mandier", "muriel.mandier@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Muriel", "Mattiroli", "muriel.mattiroli@amapa.fr", "null", "Amapa", "null", "Assistant de secteur", "OPRTS
 "),
-("Muriel", "Michalak", "muriel.michalak@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Muriel", "Michalak", "muriel.michalak@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Muriel", "Pett", "muriel.pett@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Muriel", "Pimont", "muriel.pimont@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Muriel", "Pimont", "muriel.pimont@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Muriel", "Roeder", "muriel.roeder@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6535,11 +6535,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Murielle", "Guerinaud", "murielle.guerinaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Murielle", "Leger", "murielle.leger@amapa.fr", "null", "", "null", "", "OPRTS
+("Murielle", "Leger", "murielle.leger@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Murielle", "Schmitt", "murielle.schmitt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("My-Hanh", "Tran", "my-hanh.tran@amapa.fr", "null", "DG HELP", "null", "", "OPRTS
+("My-Hanh", "Tran", "my-hanh.tran@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
 ("Mylene", "Deutsch", "mylene.deutsch@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -6549,13 +6549,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Myriam", "DEGABRIEL", "myriam.degabriel@popinns.com", "null", "Association Popinns", "null", "agent de centrale de reservation", "DVLPT
 "),
-("Myriam", "Dengler", "myriam.dengler@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Myriam", "Dengler", "myriam.dengler@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Myriam", "Kihal", "myriam.kihal@popinns.com", "null", "DG Holidays", "null", "Direction", "OPRTS
 "),
 ("Myriam", "Kuhlemeier", "myriam.kuhlemeier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Myriam", "Kusmierski", "myriam.kusmierski@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Myriam", "Kusmierski", "myriam.kusmierski@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Myriam", "Lahoussa", "myriam.lahoussa@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -6597,7 +6597,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadège", "Namane", "nadege.namane@amapa.fr", "null", "Amapa", "null", "Assistant de secteur", "Saad Freyming Merlebach
 "),
-("Nadege", "Nicou", "nadege.nicou@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadege", "Nicou", "nadege.nicou@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadege", "Paradis", "nadege.paradis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6619,7 +6619,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadia", "Koellner", "nadia.koellner@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadia", "Le Balch", "nadia.lebalch@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Nadia", "Le Balch", "nadia.lebalch@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Nadia", "Leonardis", "nadia.leonardis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6631,9 +6631,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadia", "Piquet", "nadia.piquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadia", "Ponchol", "nadia.ponchol@doctocare.com", "null", "", "null", "", "
+("Nadia", "Ponchol", "nadia.ponchol@doctocare.com", "null", "null", "null", "null", "
 "),
-("Nadia", "Rouzies", "nadia.rouzies@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadia", "Rouzies", "nadia.rouzies@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadia", "Sabri", "nadia.sabri@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6643,11 +6643,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadia", "Ziane", "nadia.ziane@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Arrestier", "nadine.arrestier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Arrestier", "nadine.arrestier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Bechet", "nadine.bechet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Brun", "nadine.brun@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Brun", "nadine.brun@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Cellier", "nadine.cellier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6655,25 +6655,25 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadine", "Clement", "nadine.clement@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Comte", "nadine.comte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Comte", "nadine.comte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Derrien ", "nadine.derrien@amapa.fr", "null", "TI JIKOUR", "null", "", "ADMIN
+("Nadine", "Derrien ", "nadine.derrien@amapa.fr", "null", "TI JIKOUR", "null", "null", "ADMIN
 "),
 ("Nadine", "De Souza", "nadine.desouza@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Nadine", "Deveix", "nadine.deveix@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Deveix", "nadine.deveix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Dore", "nadine.dore@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Ferro", "nadine.ferro@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Ferro", "nadine.ferro@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Fischer", "nadine.fischer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Laravoir", "nadine.laravoir@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Laravoir", "nadine.laravoir@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Lauer", "nadine.lauer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Losciuto", "nadine.losciuto@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Losciuto", "nadine.losciuto@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Medjadi", "nadine.medjadi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6685,7 +6685,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadine", "Reichling", "nadine.reichling@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Roche", "nadine.roche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Roche", "nadine.roche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadine", "Rondeau", "nadine.rondeau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6699,7 +6699,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nadine", "Walczak Zimni", "nadine.walczakzimni@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nadine", "Wartelle", "nadine.wartelle@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nadine", "Wartelle", "nadine.wartelle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nadir", "Mati", "nadir.mati@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -6711,7 +6711,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nahima", "Capone", "nahima.capone@amapa.fr", "null", "null", "null", "Responsable de pôle", "AMAPA - Pôle Messin - Aide à domicile
 "),
-("Najat", "Oumani", "najat.oumani@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Najat", "Oumani", "najat.oumani@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Najhia", "Mokhless", "najhia.mokhless@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6725,7 +6725,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nassim", "Boussadia", "nassim.boussadia@popinns.com", "null", "null", "null", "null", "null
 "),
-("Natacha", "Audubert", "natacha.audubert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Natacha", "Audubert", "natacha.audubert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Andre", "nathalie.andre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6733,13 +6733,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Arnaud", "nathalie.arnaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Auger", "nathalie.auger@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Auger", "nathalie.auger@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Badoc", "nathalie.badoc@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Barre", "nathalie.barre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Blondin", "nathalie.blondin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Blondin", "nathalie.blondin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Bolufer", "nathalie.bolufer@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -6751,15 +6751,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Castreau", "nathalie.castreau@doctocare.com", "null", "DG Health", "null", "GynÃ©cologue", "medecin
 "),
-("Nathalie", "Charbonnel", "nathalie.charbonnel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Charbonnel", "nathalie.charbonnel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Chazalviel", "nathalie.chazalviel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Chazalviel", "nathalie.chazalviel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Clesse", "nathalie.clesse@amapa.fr", "null", "null", "null", "Assistante de secteur", "AMAPA - Pole Messin - Aide à domicile - Secteur 01
 "),
 ("Nathalie", "Collemiche", "nathalie.collemiche@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Nathalie", "Corre", "nathalie.corre@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Nathalie", "Corre", "nathalie.corre@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Nathalie", "Decourbe", "nathalie.decourbe@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6769,7 +6769,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Devisscher", "nathalie.devisscher@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Druart", "nathalie.druart@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Nathalie", "Druart", "nathalie.druart@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Nathalie", "Durand", "nathalie.durand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6811,7 +6811,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Koin", "nathalie.koin@doctocare.com", "null", "DG Health", "null", "Ophtalmologue", "medecin
 "),
-("Nathalie", "Lachaud", "nathalie.lachaud@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Lachaud", "nathalie.lachaud@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Lebesle", "nathalie.lebesle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6819,15 +6819,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Lefevre Lemoine", "nathalie.lefevrelemoine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Le Moullec", "nathalie.lemoullec@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Nathalie", "Le Moullec", "nathalie.lemoullec@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Nathalie", "Le Roux", "nathalie.leroux@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Nathalie", "Le Roux", "nathalie.leroux@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Nathalie", "Leroy", "nathalie.leroy@dgmail.fr", "null", "DG Home", "null", "comptable", "comptabilité
 "),
-("Nathalie", "Lofficial", "nathalie.lofficial@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Lofficial", "nathalie.lofficial@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Lorson", "nathalie.lorson@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Lorson", "nathalie.lorson@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Luquet", "nathalie.luquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6835,21 +6835,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Malheude", "nathalie.malheude@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Manaranche", "nathalie.manaranche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Manaranche", "nathalie.manaranche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Mautaint Morin", "nathalie.mautaint-morin@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
 ("Nathalie", "Mayeur", "nathalie.mayeur@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Nathalie", "Mazan", "nathalie.mazan@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Nathalie", "Mazan", "nathalie.mazan@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Merigot", "nathalie.merigot@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
 ("Nathalie", "Michet De Varine", "nathalie.michet-de-varine@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
-("Nathalie", "Moine", "nathalie.moine@amapa.fr", "null", "", "null", "", "OPRTS
+("Nathalie", "Moine", "nathalie.moine@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
-("Nathalie", "Morel", "nathalie.morel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Morel", "nathalie.morel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Moritz", "nathalie.moritz@amapa.fr", "null", "null", "null", "Référente du service mandataire", "AMAPA  -  Siège  -  Service mandataire
 "),
@@ -6895,11 +6895,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nathalie", "Roques", "nathalie.roques@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Rosine", "nathalie.rosine@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Nathalie", "Rosine", "nathalie.rosine@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Nathalie", "Roth", "nathalie.roth@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nathalie", "Salesse", "nathalie.salesse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nathalie", "Salesse", "nathalie.salesse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nathalie", "Salmon", "nathalie.salmon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6943,7 +6943,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nelly", "Leboulleux", "nelly.leboulleux@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nelly", "Ropital", "nelly.ropital@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nelly", "Ropital", "nelly.ropital@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nelly", "Saudubray", "nelly.saudubray@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -6967,15 +6967,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nicole", "Ameller", "nicole.ameller@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nicole", "Arrestier", "nicole.arrestier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Arrestier", "nicole.arrestier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nicole", "Bourdon", "nicole.bourdon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nicole", "Chretien", "nicole.chretien@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Nicole", "Courtine", "nicole.courtine@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Courtine", "nicole.courtine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nicole", "Duchateau", "nicole.duchateau@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Duchateau", "nicole.duchateau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nicole", "Dumas", "nicole.dumas@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -7009,13 +7009,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Nicole", "Plais", "nicole.plais@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nicole", "Poumier", "nicole.poumier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Poumier", "nicole.poumier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Nicole", "Ray", "nicole.ray@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Ray", "nicole.ray@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nicole", "Rott", "nicole.rott@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Nicole", "Sanchez", "nicole.sanchez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Nicole", "Sanchez", "nicole.sanchez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nicole", "Schneider", "nicole.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7055,7 +7055,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Noémie", "Masliah", "noemie.masliah@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Noemie", "Wittmann", "noemie.wittmann@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Noemie", "Wittmann", "noemie.wittmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Nora", "Debiane", "nora.debiane@popinns.com", "null", "DG Hotels", "null", "Responsable Paye", "null
 "),
@@ -7091,7 +7091,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Odile", "Berton", "odile.berton@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Odile", "Briquet", "odile.briquet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Odile", "Briquet", "odile.briquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Odile", "Delabarre", "odile.delabarre@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -7099,9 +7099,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Odile", "Hennequin Bigand", "odile.hennequinbigand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Odile", "Meyrignac", "odile.meyrignac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Odile", "Meyrignac", "odile.meyrignac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Odile", "Payen", "odile.payen@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Odile", "Payen", "odile.payen@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Olfa", "Mahjoubi", "olfa.mahjoubi@amapa.fr", "null", "DG HELP", "null", "null", "SAAD Grasse
 "),
@@ -7135,7 +7135,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ophélie", "Mafray", "ophelie.mafray@popinns.com", "null", "null", "null", "Directrice Club Vacances", "null
 "),
-("Ophelie", "Perillat", "ophelie.perillat@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Ophelie", "Perillat", "ophelie.perillat@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Ophélie", "Venot", "ophelie.venot@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -7169,7 +7169,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Orianne", "Kieny", "orianne.kieny@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Orlane", "Gengembre", "orlane.gengembre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Orlane", "Gengembre", "orlane.gengembre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Orsiris", "De Jong", "orsiris.dejong@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -7247,11 +7247,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Pascale", "Rebussi", "pascale.rebussi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Pascale", "Roldan", "pascale.roldan@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Pascale", "Roldan", "pascale.roldan@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Pascale", "Spies", "pascale.spies@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Pascale", "Tueur", "pascale.tueur@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Pascale", "Tueur", "pascale.tueur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Pascaline", "Bayeul", "pascaline.bayeul@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7267,19 +7267,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patricia", "Comune", "patricia.comune@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Patricia", "Corre", "patricia.corre@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Patricia", "Corre", "patricia.corre@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Patricia", "Cotinaut", "patricia.cotinaut@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Da Silva", "patricia.dasilva@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Patricia", "Dehedin", "patricia.dehedin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Dehedin", "patricia.dehedin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Di Marco", "patricia.dimarco@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Doerr", "patricia.doerr@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Patricia", "Farges", "patricia.farges@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Farges", "patricia.farges@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Favaretto", "patricia.favaretto@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7289,9 +7289,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patricia", "Gregoire", "patricia.gregoire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Patricia", "Grosset-Bourbange", "patricia.grosset-bourbange@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Patricia", "Grosset-Bourbange", "patricia.grosset-bourbange@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Patricia", "Jullian", "patricia.jullian@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Jullian", "patricia.jullian@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Kins", "patricia.kins@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7301,7 +7301,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patricia", "Madziara", "patricia.madziara@amapa.fr", "null", "null", "null", "Secrétaire", "AMAPA - Siège - Service mandataire
 "),
-("Patricia", "Manivel", "patricia.manivel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Manivel", "patricia.manivel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Martini", "patricia.martini@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7311,11 +7311,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patricia", "Oulmann", "patricia.oulmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Patricia", "Paquin", "patricia.paquin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Paquin", "patricia.paquin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Piaulet", "patricia.piaulet@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Patricia", "Poupard", "patricia.poupard@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Poupard", "patricia.poupard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Reiser", "patricia.reiser@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7331,7 +7331,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patricia", "Silvy", "patricia.silvy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Patricia", "Teillac", "patricia.teillac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Patricia", "Teillac", "patricia.teillac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Patricia", "Thiriat", "patricia.thiriat@amapa.fr", "null", "null", "null", "Secrétaire de Direction", "AMAPA -Siège - DG
 "),
@@ -7351,7 +7351,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Patrick", "Chrétien", "patrick.chretien@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Patrick", "Darbois", "patrick.darbois@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Patrick", "Darbois", "patrick.darbois@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Patrick", "Declercq", "patrick.declercq@doctocare.com", "null", "APATS", "null", "CHIRURGIEN DENTISTE", "dentiste
 "),
@@ -7393,19 +7393,19 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Pauline", "Bidault", "pauline.bidault@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Pauline", "Camus", "pauline.camus@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Pauline", "Camus", "pauline.camus@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Pauline", "CAROFF", "pauline.caroff@dgmail.fr", "null", "DG Home", "null", "Gestionnaire habitation", "immo (Gestion)
 "),
-("Pauline", "Keromnes", "pauline.keromnes@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Pauline", "Keromnes", "pauline.keromnes@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Pauline", "Merville", "pauline.merville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Pauline", "Merville", "pauline.merville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Pauline", "Richard", "pauline.richard@amapa.fr", "null", "null", "null", "null", "null
 "),
 ("Pauline", "Royer", "pauline.royer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Pauline", "Tournant", "pauline.tournant@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Pauline", "Tournant", "pauline.tournant@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Cliniquebonneveine", "paye", "paye@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -7451,7 +7451,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Philippe", "Ropers", "philippe.ropers@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Philippe", "Veyrat", "philippe.veyrat@amapa.fr", "null", "", "null", "", "OPRTS
+("Philippe", "Veyrat", "philippe.veyrat@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Philomene", "Agnello", "philomene.agnello@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7509,11 +7509,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Prune", "Aupic", "prune.aupic@popinns.com", "null", "null", "null", "Assistante marketing communication", "Marketing Communication
 "),
-("Prycilia", "Robin", "prycilia.robin@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Prycilia", "Robin", "prycilia.robin@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Bonneveine", "Qualité", "qualite@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Quentin", "Berti", "quentin.berti@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Quentin", "Berti", "quentin.berti@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Rabea", "Kabiche", "rabea.kabiche@doctocare.com", "null", "APATS", "null", "RESPONSABLE DE CENTRE DENTAIRE", "direction
 "),
@@ -7579,7 +7579,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Regine", "Eyler", "regine.eyler@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Regine", "Papon", "regine.papon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Regine", "Papon", "regine.papon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Regine", "Poizot", "regine.poizot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7589,7 +7589,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Rejane", "Kusiak", "rejane.kusiak@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Rejane", "Niquet", "rejane.niquet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Rejane", "Niquet", "rejane.niquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Relances", "Contentieux", "relances@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -7603,11 +7603,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Renee-Catherine", "Weyrath", "renee-catherine.weyrath@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Renee", "Bydlon ", "renee.bydlon@amapa.fr", "null", "TI JIKOUR", "null", "", "ADMIN
+("Renee", "Bydlon ", "renee.bydlon@amapa.fr", "null", "TI JIKOUR", "null", "null", "ADMIN
 "),
 ("Renee", "Dziezuk", "renee.dziezuk@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Renee", "Lauthelier", "renee.lauthelier@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Renee", "Lauthelier", "renee.lauthelier@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Renee", "Maeder", "renee.maeder@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7639,7 +7639,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Rocca", "Rigolet", "rocca.rigolet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Roland", "Schell", "roland.schell@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Roland", "Schell", "roland.schell@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Rolande", "Kerner", "rolande.kerner@doctocare.com", "null", "DG Health", "null", "Dermatologue", "medecin
 "),
@@ -7689,7 +7689,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Roselyne", "Moussounda", "roselyne.moussounda@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Roselyne", "Pigne", "roselyne.pigne@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Roselyne", "Pigne", "roselyne.pigne@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Rosette", "Campana", "rosette.campana@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7703,61 +7703,61 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ruth", "Kiefer", "ruth.kiefer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Amiens", "saad.amiens@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Amiens", "saad.amiens@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Beaumetz-Les-Loges", "saad.beaumetz-les-loges@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Beaumetz-Les-Loges", "saad.beaumetz-les-loges@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Blois", "saad.blois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Blois", "saad.blois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Bourg-Les-Valence", "saad.bourg-les-valence@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Saad", "Bourg-Les-Valence", "saad.bourg-les-valence@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
-("Saad", "Chateau-Salins", "saad.chateau-salins@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Chateau-Salins", "saad.chateau-salins@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Chepy", "saad.chepy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Chepy", "saad.chepy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Fontainebleau", "saad.fontainebleau@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Fontainebleau", "saad.fontainebleau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Freyming-Merlebach", "saad.freyming-merlebach@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Freyming-Merlebach", "saad.freyming-merlebach@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Froissy", "saad.froissy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Froissy", "saad.froissy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Grandvilliers", "saad.grandvilliers@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Grandvilliers", "saad.grandvilliers@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Grasse", "saad.grasse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Grasse", "saad.grasse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Lafleche", "saad.lafleche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Lafleche", "saad.lafleche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Lassigny", "saad.lassigny@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Lassigny", "saad.lassigny@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Lemans", "saad.lemans@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Lemans", "saad.lemans@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Levieuxmarche", "saad.levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Saad", "Levieuxmarche", "saad.levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Saad", "Longlaville", "saad.longlaville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Longlaville", "saad.longlaville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Metz", "saad.metz@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Metz", "saad.metz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Orleans", "saad.orleans@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Orleans", "saad.orleans@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Saint-Memmie", "saad.saint-memmie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Saint-Memmie", "saad.saint-memmie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Sainte-Menehould", "saad.sainte-menehould@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Sainte-Menehould", "saad.sainte-menehould@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Sarrebourg", "saad.sarrebourg@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Sarrebourg", "saad.sarrebourg@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Sarreguemines", "saad.sarreguemines@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Sarreguemines", "saad.sarreguemines@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Sens", "saad.sens@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Sens", "saad.sens@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Sermaize-Les-Bains", "saad.sermaize-les-bains@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Sermaize-Les-Bains", "saad.sermaize-les-bains@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Thionville", "saad.thionville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Thionville", "saad.thionville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Tulle", "saad.tulle@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Tulle", "saad.tulle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Ussel", "saad.ussel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Ussel", "saad.ussel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Saad", "Villeurbanne", "saad.villeurbanne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Saad", "Villeurbanne", "saad.villeurbanne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Saandia", "Salim", "saandia.salim@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7769,11 +7769,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sabine", "Come", "sabine.come@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sabine", "Coursolles", "sabine.coursolles@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sabine", "Coursolles", "sabine.coursolles@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sabine", "Courteix", "sabine.courteix@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sabine", "Courteix", "sabine.courteix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sabine", "Fesselet", "sabine.fesselet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sabine", "Fesselet", "sabine.fesselet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sabine", "Filippi", "sabine.filippi@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -7801,7 +7801,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sabine", "Ronflet", "sabine.ronflet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sabine", "Soleilhavoup", "sabine.soleilhavoup@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sabine", "Soleilhavoup", "sabine.soleilhavoup@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sabine", "Welcomme", "sabine.welcomme@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
@@ -7809,7 +7809,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sabrina", "Attouche", "sabrina.attouche@doctocare.com", "null", "null", "null", "null", "null
 "),
-("Sabrina", "Bailly", "sabrina.bailly@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sabrina", "Bailly", "sabrina.bailly@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sabrina", "Balourd", "sabrina.balourd@doctocare.com", "null", "null", "null", "null", "null
 "),
@@ -7825,7 +7825,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sabrina", "Matouk", "sabrina.matouk@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sabrina", "Millard", "sabrina.millard@amapa.fr", "null", "", "null", "", "OPRTS
+("Sabrina", "Millard", "sabrina.millard@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Sabrina", "Montagne", "sabrina.montagne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7867,7 +7867,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Samir", "Bennai", "samir.bennai@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE) DIRECTEUR", "direction", " opticien
 "),
-("Samira", "Guerra", "samira.guerra@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Samira", "Guerra", "samira.guerra@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Samira", "Meslem", "samira.meslem@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -7889,13 +7889,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandra", "Deve", "sandra.deve@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Sandra", "Dichamp", "sandra.dichamp@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandra", "Dichamp", "sandra.dichamp@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandra", "Di Nocera", "sandra.dinocera@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
 ("Sandra", "Fuhrmann", "sandra.fuhrmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandra", "Gerdil-Margueron", "sandra.gerdil-margueron@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Sandra", "Gerdil-Margueron", "sandra.gerdil-margueron@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Sandra", "Goin", "sandra.goin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7905,7 +7905,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandra", "Kouka Bemba", "sandra.kouka-bemba@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
-("Sandra", "Lallement", "sandra.lallement@amapa.fr", "null", "ASTL", "null", "", "OPRTS
+("Sandra", "Lallement", "sandra.lallement@amapa.fr", "null", "ASTL", "null", "null", "OPRTS
 "),
 ("Sandra", "Lanois", "sandra.lanois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7915,7 +7915,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandra", "Masserand", "sandra.masserand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandra", "Moffa", "sandra.moffa@amapa.fr", "null", "", "null", "", "OPRTS
+("Sandra", "Moffa", "sandra.moffa@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Sandra", "Monnehay", "sandra.monnehay@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7943,9 +7943,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandrine", "Bellon", "sandrine.bellon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Bordas", "sandrine.bordas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Bordas", "sandrine.bordas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Bouchnag", "sandrine.bouchnag@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Bouchnag", "sandrine.bouchnag@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Brambilla", "sandrine.brambilla@doctocare.com", "null", "DG Health", "null", "Endocrinologue-DiabÃ©tologue", "medecin
 "),
@@ -7957,7 +7957,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandrine", "Cornil", "sandrine.cornil@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Couillard", "sandrine.couillard@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sandrine", "Couillard", "sandrine.couillard@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Sandrine", "Da Cunha", "sandrine.dacunha@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -7985,7 +7985,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandrine", "Kromolka", "sandrine.kromolka@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Lagoutte", "sandrine.lagoutte@amapa.fr", "null", "", "null", "", "OPRTS
+("Sandrine", "Lagoutte", "sandrine.lagoutte@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Sandrine", "Lapierre", "sandrine.lapierre@popinns.com", "null", "null", "null", "ChargÃ©e de Ressources humaines", "ADMIN
 "),
@@ -8001,29 +8001,29 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sandrine", "Matt", "sandrine.matt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Maury", "sandrine.maury@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Maury", "sandrine.maury@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Meyer", "sandrine.meyer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Milo", "sandrine.milo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Monnereau", "sandrine.monnereau@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Monnereau", "sandrine.monnereau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Moreau", "sandrine.moreau@popinns.com", "null", "null", "null", "null", "null
 "),
 ("Sandrine", "Nieddu", "sandrine.nieddu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Pinet", "sandrine.pinet@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Sandrine", "Pinet", "sandrine.pinet@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Riethe", "sandrine.riethe@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Rotonda", "sandrine.rotonda@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Sandrine", "Soudeille", "sandrine.soudeille@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Soudeille", "sandrine.soudeille@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Strapazzon", "sandrine.strapazzon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sandrine", "Vazquez", "sandrine.vazquez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sandrine", "Vazquez", "sandrine.vazquez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sandrine", "Vernet", "sandrine.vernet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8039,9 +8039,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("contact", "dépot de sang", "sang@cliniquevauban.com", "null", "null", "null", "null", "null
 "),
-("Sara", "Lekesiz", "sara.lekesiz@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Sara", "Lekesiz", "sara.lekesiz@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
-("Sarah", "Chatellard", "sarah.chatellard@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Sarah", "Chatellard", "sarah.chatellard@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Sarah", "Kratochwill", "sarah.kratochwill@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8093,9 +8093,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Severine", "Bronner", "severine.bronner@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Severine", "Canal", "severine.canal@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Canal", "severine.canal@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Severine", "Defalco", "severine.defalco@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Defalco", "severine.defalco@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Séverine", "Deladeriere", "severine.deladeriere@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -8107,15 +8107,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Severine", "Heintz", "severine.heintz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Severine", "Hemery", "severine.hemery@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Hemery", "severine.hemery@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Severine", "Laborie", "severine.laborie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Laborie", "severine.laborie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Severine", "Lemaitre", "severine.lemaitre@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Lemaitre", "severine.lemaitre@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Severine", "Lomanto", "severine.lomanto@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Severine", "Quennehen", "severine.quennehen@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Severine", "Quennehen", "severine.quennehen@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Severine", "Quint", "severine.quint@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8147,7 +8147,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Simona", "Schiop", "simona.schiop@popinns.com", "null", "null", "null", "null", "null
 "),
-("Simone", "Brunie", "simone.brunie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Simone", "Brunie", "simone.brunie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Simone", "Cholet", "simone.cholet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8181,7 +8181,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Solange", "Beck", "solange.beck@cliniquebonneveine.com", "null", "null", "null", "null", "null
 "),
-("Solange", "Couturas", "solange.couturas@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Solange", "Couturas", "solange.couturas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Solange", "Fegel", "solange.fegel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8233,13 +8233,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sonia", "Santos", "sonia.santos@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sonia", "Sarges", "sonia.sarges@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sonia", "Sarges", "sonia.sarges@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sonia", "Sierputowicz", "sonia.sierputowicz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sonia", "Zefizef", "sonia.zefizef@cello.fr", "null", "null", "null", "Assitante de Direction / Gestion Facturation", "Administratif
 "),
-("Sophia", "Zioun", "sophia.zioun@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophia", "Zioun", "sophia.zioun@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sophie", "Adam", "sophie.adam@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8263,13 +8263,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sophie", "Dromain", "sophie.dromain@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Duflot", "sophie.duflot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Duflot", "sophie.duflot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Duval", "sophie.duval@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sophie", "Duval", "sophie.duval@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Sophie", "Gbetro", "sophie.gbetro@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Sophie", "Guermeur", "sophie.guermeur@amapa.fr", "null", "", "null", "", "OPRTS
+("Sophie", "Guermeur", "sophie.guermeur@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Sophie", "Happ", "sophie.happ@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8277,29 +8277,29 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sophie", "Krau", "sophie.krau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Le Caer", "sophie.lecaer@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sophie", "Le Caer", "sophie.lecaer@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Sophie", "Lecoeur", "sophie.lecoeur@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Lecoeur", "sophie.lecoeur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sophie", "Lecourt", "sophie.lecourt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Le Faou", "sophie.lefaou@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sophie", "Le Faou", "sophie.lefaou@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Sophie", "Le Guillou", "sophie.leguillou@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sophie", "Le Guillou", "sophie.leguillou@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Sophie", "Leroy", "sophie.leroy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sophie", "Leroyer", "sophie.leroyer@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Sophie", "Leudiere", "sophie.leudiere@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Leudiere", "sophie.leudiere@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Magne", "sophie.magne@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Magne", "sophie.magne@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sophie", "Militello", "sophie.militello@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Morvan", "sophie.morvan@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sophie", "Morvan", "sophie.morvan@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Sophie", "Mykytiw", "sophie.mykytiw@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Mykytiw", "sophie.mykytiw@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sophie", "Nativel", "sophie.nativel@amapa.fr", "null", "null", "null", "null", "null
 "),
@@ -8311,7 +8311,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sophie", "Schneider", "sophie.schneider@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sophie", "Vallee", "sophie.vallee@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sophie", "Vallee", "sophie.vallee@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Soraya", "Azeddine", "soraya.azeddine@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8331,35 +8331,35 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Le", "Splendid", "splendid@popinns.com", "null", "null", "null", "null", "null
 "),
-("Ssiad", "Cattenom", "ssiad.cattenom@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Cattenom", "ssiad.cattenom@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Chateau-Salins", "ssiad.chateau-salins@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Chateau-Salins", "ssiad.chateau-salins@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Chaumont-En-Vexin", "ssiad.chaumont-en-vexin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Chaumont-En-Vexin", "ssiad.chaumont-en-vexin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Chepy", "ssiad.chepy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Chepy", "ssiad.chepy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Florange", "ssiad.florange@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Florange", "ssiad.florange@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Freyming-Merlebach", "ssiad.freyming-merlebach@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Freyming-Merlebach", "ssiad.freyming-merlebach@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Froissy", "ssiad.froissy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Froissy", "ssiad.froissy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Grandvilliers", "ssiad.grandvilliers@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Grandvilliers", "ssiad.grandvilliers@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Lassigny", "ssiad.lassigny@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Lassigny", "ssiad.lassigny@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Levieuxmarche", "ssiad.levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Ssiad", "Levieuxmarche", "ssiad.levieuxmarche@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Ssiad", "Marseille-en-Beauvaisis", "ssiad.marseille-en-beauvaisis@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Marseille-en-Beauvaisis", "ssiad.marseille-en-beauvaisis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Metz", "ssiad.metz@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Metz", "ssiad.metz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Ressons-Sur-Matz", "ssiad.ressons-sur-matz@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Ressons-Sur-Matz", "ssiad.ressons-sur-matz@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Sarrebourg", "ssiad.sarrebourg@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Sarrebourg", "ssiad.sarrebourg@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Ssiad", "Sarreguemines", "ssiad.sarreguemines@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Ssiad", "Sarreguemines", "ssiad.sarreguemines@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stacy", "Pace", "stacy.pace@amapa.fr", "null", "null", "null", "null", "SAAD
 "),
@@ -8367,13 +8367,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Status", "Report", "status.report@cliniquevauban.com", "null", "null", "null", "null", "null
 "),
-("Stefanny", "Houplain", "stefanny.houplain@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stefanny", "Houplain", "stefanny.houplain@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stella-Virginie", "Hoff", "stella-virginie.hoff@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephan", "Perrin", "stephan.perrin@popinns.com", "null", "null", "null", "null", "null
 "),
-("Stephane", "Celisse", "stephane.celisse@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Stephane", "Celisse", "stephane.celisse@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Stephane", "Goncalves", "stephane.goncalves@popinns.com", "null", "DG Holidays", "null", "Chef", "OPRTS
 "),
@@ -8391,11 +8391,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Stephanie", "Ahouandjinou", "stephanie.ahouandjinou@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Amardeilh", "stephanie.amardeilh@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Amardeilh", "stephanie.amardeilh@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephanie", "Babin", "stephanie.babin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Beccari", "stephanie.beccari@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Beccari", "stephanie.beccari@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephanie", "Beck", "stephanie.beck@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8409,9 +8409,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Stephanie", "Brunel", "stephanie.brunel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Burbure", "stephanie.burbure@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Burbure", "stephanie.burbure@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Carette", "stephanie.carette@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Carette", "stephanie.carette@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephanie", "Caron", "stephanie.caron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8423,7 +8423,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Stephanie", "Debeauvais", "stephanie.debeauvais@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Demailly", "stephanie.demailly@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Demailly", "stephanie.demailly@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephanie", "Ducreux", "stephanie.ducreux@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE)", "opticien
 "),
@@ -8445,15 +8445,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Stephanie", "Kraemer", "stephanie.kraemer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Lamotte", "stephanie.lamotte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Lamotte", "stephanie.lamotte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Laumond", "stephanie.laumond@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Laumond", "stephanie.laumond@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Stephanie", "Le Bivic", "stephanie.lebivic@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Stephanie", "Le Bivic", "stephanie.lebivic@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Stephanie", "Le Louarn", "stephanie.lelouarn@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Stephanie", "Le Louarn", "stephanie.lelouarn@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Stephanie", "Lemaire", "stephanie.lemaire@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Stephanie", "Lemaire", "stephanie.lemaire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Stephanie", "Lewandowski", "stephanie.lewandowski@amapa.fr", "null", "AMAPA", "null", "Infirmi├¿re coordinatrice", "OPRTS
 "),
@@ -8511,11 +8511,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Suzanne", "Caps", "suzanne.caps@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Suzanne", "Day", "suzanne.day@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Suzanne", "Day", "suzanne.day@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Suzanne", "Eyupoglu", "suzanne.eyupoglu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Suzanne", "Moullec", "suzanne.moullec@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Suzanne", "Moullec", "suzanne.moullec@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Sylvain", "Monaco", "sylvain.monaco@dgmail.fr", "null", "null", "null", "null", "null
 "),
@@ -8527,7 +8527,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvette", "Klein", "sylvette.klein@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvette", "Martins", "sylvette.martins@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvette", "Martins", "sylvette.martins@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvette", "Ramier", "sylvette.ramier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8537,15 +8537,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvia", "Krüger", "sylvia.kruger@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Sylvia", "Pagnon", "sylvia.pagnon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvia", "Pagnon", "sylvia.pagnon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylviane", "Bizzari", "sylviane.bizzari@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylviane", "Faurie", "sylviane.faurie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylviane", "Faurie", "sylviane.faurie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylviane", "Frauli", "sylviane.frauli@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylviane", "Sadou", "sylviane.sadou@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sylviane", "Sadou", "sylviane.sadou@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Sylviane", "Schmitt", "sylviane.schmitt@amapa.fr", "null", "null", "null", "Responsable contentieux civil", "AMAPA - Siège - Direction Administrative", " Financière et du Système d'Information
 "),
@@ -8583,7 +8583,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Bur", "sylvie.bur@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Chancy", "sylvie.chancy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Chancy", "sylvie.chancy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Charry Subra", "sylvie.charry-subra@popinns.com", "null", "null", "null", "null", "null
 "),
@@ -8593,15 +8593,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Clement", "sylvie.clement@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Crozat", "sylvie.crozat@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Crozat", "sylvie.crozat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Cyprien", "sylvie.cyprien@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Cyprien", "sylvie.cyprien@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Da Silva", "sylvie.dasilva@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Denais", "sylvie.denais@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Sylvie", "Douillet", "sylvie.douillet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Douillet", "sylvie.douillet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Dufour", "sylvie.dufour@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8617,7 +8617,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Feidt", "sylvie.feidt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Feydel", "sylvie.feydel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Feydel", "sylvie.feydel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Foppa", "sylvie.foppa@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8641,13 +8641,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Kieffer", "sylvie.kieffer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Lamey", "sylvie.lamey@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Lamey", "sylvie.lamey@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Langeron", "sylvie.langeron@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Lastor", "sylvie.lastor@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Le Gall", "sylvie.legall@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sylvie", "Le Gall", "sylvie.legall@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Syvie", "Le Prado", "sylvie.leprado@doctocare.com", "null", "Apats PLM - Centre Viala", "null", "Assistante Administration ", "ADMIN
 "),
@@ -8657,13 +8657,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Macel", "sylvie.macel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Manzagol", "sylvie.manzagol@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Manzagol", "sylvie.manzagol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Maquaire", "sylvie.maquaire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Messauchie", "sylvie.messauchie@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Messauchie", "sylvie.messauchie@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Mielcarek", "sylvie.mielcarek@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Mielcarek", "sylvie.mielcarek@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Mittelbronn", "sylvie.mittelbronn@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8687,21 +8687,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Sylvie", "Pouzet", "sylvie.pouzet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Prigent", "sylvie.prigent@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Sylvie", "Prigent", "sylvie.prigent@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Sylvie", "Quedeville", "sylvie.quedeville@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Quedeville", "sylvie.quedeville@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Rapicault", "sylvie.rapicault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Salagnac", "sylvie.salagnac@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Salagnac", "sylvie.salagnac@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Scappaticci", "sylvie.scappaticci@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Tanachian", "sylvie.tanachian@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Sylvie", "Tanachian", "sylvie.tanachian@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Voll", "sylvie.voll@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Sylvie", "Vrillault", "sylvie.vrillault@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Sylvie", "Vrillault", "sylvie.vrillault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Sylvie", "Walter", "sylvie.walter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8719,7 +8719,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Taramatee", "Daumoo", "taramatee.daumoo@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Tatiana", "Nevendel", "tatiana.nevendel@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Tatiana", "Nevendel", "tatiana.nevendel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Tatiana", "Pigerre", "tatiana.pigerre@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
@@ -8727,7 +8727,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Telegestion", "Amapa", "telegestion.amapa@cello.fr", "null", "null", "null", "Outil de synchro EMM TA", "null
 "),
-("Teresa", "Da Rocha-Pires-Toste", "teresa.darocha-pires-toste@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Teresa", "Da Rocha-Pires-Toste", "teresa.darocha-pires-toste@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Theresa", "Ines", "teresa.ines@doctocare.com", "null", "DG Health", "null", "ChargÃ© d'animation Accueil mÃ©dical", "animation
 "),
@@ -8763,7 +8763,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Thi Diem Le", "Nguyen", "thi-diem-le.nguyen@doctocare.com", "null", "APATS", "null", "ADJOINT(E) DE RESPONSABLE DE CENTRE DENTAIRE", "assistant-direction
 "),
-("Thi-My", "Loyer", "thi-my.loyer@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Thi-My", "Loyer", "thi-my.loyer@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Thi-Ngoc-Thanh", "Pham", "thi-ngoc-thanh.pham@doctocare.com", "null", "DG Health", "null", "Gastro-entÃ©rologue", "medecin
 "),
@@ -8789,7 +8789,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Tifanie", "Chehet", "tifanie.chehet@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Tiffany", "Stramba", "tiffany.stramba@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Tiffany", "Stramba", "tiffany.stramba@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Tiphaine", "Allin", "tiphaine.allin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8805,23 +8805,23 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Touria", "Haidousse", "touria.haidousse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Amapa - Centre support", "Tulle", "tulle@amapa.fr", "null", "DG HELP", "null", "", "OPRTS
+("Amapa - Centre support", "Tulle", "tulle@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
 ("Ummahan", "Bastug", "ummahan.bastug@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Urban", "Lodge", "urbanlodge@popinns.com", "null", "null", "null", "Adresse reception", "Reception
 "),
-("Ursula", "Gregoire", "ursula.gregoire@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Ursula", "Gregoire", "ursula.gregoire@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Utmif", "Ce", "utmif.ce@doctocare.com", "null", "null", "null", "null", "null
 "),
 ("Compte Virtuel", "Administration", "vadmin@dgmail.fr", "null", "null", "null", "null", "null
 "),
-("Valentine", "Dubois", "valentine.dubois@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valentine", "Dubois", "valentine.dubois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Aucante", "valerie.aucante@doctocare.com", "null", "APATS", "null", "MEDECIN GENERALISTE", "medecin
 "),
-("Valerie", "Avisse", "valerie.avisse@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Avisse", "valerie.avisse@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Barbe", "valerie.barbe@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE) DIRECTEUR", "direction", " opticien
 "),
@@ -8835,21 +8835,21 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Valerie", "Chauvin", "valerie.chauvin@doctocare.com", "null", "DG Optique", "null", "OPTICIEN(NE) DIRECTEUR", "direction", " opticien
 "),
-("Valerie", "Chaveroche", "valerie.chaveroche@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Chaveroche", "valerie.chaveroche@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Colle", "valerie.colle@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Colomba", "valerie.colomba@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Dauchy", "valerie.dauchy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Dauchy", "valerie.dauchy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "David", "valerie.david@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Delaire", "valerie.delaire@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Delaire", "valerie.delaire@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Drha", "valerie.drha@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Dubourg", "valerie.dubourg@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Valerie", "Dubourg", "valerie.dubourg@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Valérie", "Dujeux", "valerie.dujeux@dgmail.fr", "null", "null", "null", "Directrice Plombières les Bains", "null
 "),
@@ -8859,15 +8859,15 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Valerie", "Filippone", "valerie.filippone@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Floch", "valerie.floch@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Valerie", "Floch", "valerie.floch@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Valerie", "Forestier", "valerie.forestier@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Forestier", "valerie.forestier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Franck", "valerie.franck@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Francois-Jille", "valerie.francois-jille@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Grandjacques", "valerie.grandjacques@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Valerie", "Grandjacques", "valerie.grandjacques@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Valérie", "Grispino", "valerie.grispino@amapa.fr", "null", "null", "null", "Secrétaire facturation", "AMAPA - Siège - Service facturation
 "),
@@ -8879,13 +8879,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Valerie", "Laurent", "valerie.laurent@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Valerie", "Leclercq", "valerie.leclercq@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Leclercq", "valerie.leclercq@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Legardinier", "valerie.legardinier@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Linares", "valerie.linares@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Valerie", "Loctin", "valerie.loctin@amapa.fr", "null", "", "null", "", "OPRTS
+("Valerie", "Loctin", "valerie.loctin@amapa.fr", "null", "null", "null", "null", "OPRTS
 "),
 ("Valerie", "Maugez", "valerie.maugez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8897,29 +8897,29 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Valerie", "Philippi", "valerie.philippi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Pons", "valerie.pons@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Pons", "valerie.pons@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Reiter", "valerie.reiter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Rondot", "valerie.rondot@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Valerie", "Rosant", "valerie.rosant@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Valerie", "Rosant", "valerie.rosant@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Valerie", "Schaeffer", "valerie.schaeffer@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Schmitt", "valerie.schmitt@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Valerie", "Schmitt", "valerie.schmitt@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Valerie", "Stock", "valerie.stock@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Valerie", "Treunet", "valerie.treunet@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Valerie", "Treunet", "valerie.treunet@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
-("Valerie", "Turpin", "valerie.turpin@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Valerie", "Turpin", "valerie.turpin@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Valerie", "Vallet", "valerie.vallet@amapa.fr", "null", "null", "null", "null", "null
 "),
 ("Valerie", "Westermann", "valerie.westermann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Vanessa", "Alcock", "vanessa.alcock@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Vanessa", "Alcock", "vanessa.alcock@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Vanessa", "Arrar", "vanessa.arrar@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8927,9 +8927,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Vanessa", "Chevereau", "vanessa.chevereau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Vanessa", "Comte", "vanessa.comte@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Vanessa", "Comte", "vanessa.comte@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Vanessa", "Dachez", "vanessa.dachez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Vanessa", "Dachez", "vanessa.dachez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Vanessa", "Darmon", "vanessa.darmon@amapa.fr", "null", "null", "null", "Assistante de secteur", "AMAPA - Pole Messin - Aide à domicile - Secteur 02
 "),
@@ -8973,7 +8973,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Caron", "veronique.caron@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Veronique", "Chastagnol", "veronique.chastagnol@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Chastagnol", "veronique.chastagnol@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Denis", "veronique.denis@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8981,7 +8981,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Francois", "veronique.francois@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Fresillon", "veronique.fresillon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Fresillon", "veronique.fresillon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Gavend", "veronique.gavend@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -8995,11 +8995,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Hossann", "veronique.hossann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Humez", "veronique.humez@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Humez", "veronique.humez@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Jean", "veronique.jean@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Jubert", "veronique.jubert@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Jubert", "veronique.jubert@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Karn", "veronique.karn@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9009,7 +9009,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Laurent", "veronique.laurent@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Le Crenn", "veronique.lecrenn@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Veronique", "Le Crenn", "veronique.lecrenn@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Veronique", "Lefait", "veronique.lefait@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9017,13 +9017,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Legrand", "veronique.legrand@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Le Sehan", "veronique.lesehan@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Veronique", "Le Sehan", "veronique.lesehan@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
 ("Véronique", "Llavall", "veronique.llavall@cliniquevauban.com", "null", "null", "null", "PMSI", "SERVICE FINANCIER
 "),
 ("Veronique", "Molteni", "veronique.molteni@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Perruchon", "veronique.perruchon@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Perruchon", "veronique.perruchon@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Pillot", "veronique.pillot.exit@amapa.fr", "null", "null", "null", "null", "Facturation", " Recouvrement", " Achat
 "),
@@ -9045,7 +9045,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Veronique", "Thebault", "veronique.thebault@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Veronique", "Trotereau", "veronique.trotereau@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Veronique", "Trotereau", "veronique.trotereau@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Veronique", "Valla", "veronique.valla@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9091,7 +9091,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Virginie", "Almonecil", "virginie.almonecil@doctocare.com", "null", "APATS", "null", "AGENT D' ACCUEIL POLYVALENT DENTAIRE", "accueil
 "),
-("Virginie", "Bacquet", "virginie.bacquet@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Virginie", "Bacquet", "virginie.bacquet@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Virginie", "Balczesak", "virginie.balczesak@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9123,7 +9123,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Virginie", "Narsimoulou", "virginie.narsimoulou@amapa.fr", "null", "null", "null", "null", "null
 "),
-("Virginie", "Pascual", "virginie.pascual@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Virginie", "Pascual", "virginie.pascual@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Virginie", "Perard", "virginie.perard@doctocare.com", "null", "APATS", "null", "CORRESPONDANT INFORMATIQUE", "accueil
 "),
@@ -9137,7 +9137,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Virginie", "Rychter", "virginie.rychter@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Virginie", "Simonot", "virginie.simonot@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Virginie", "Simonot", "virginie.simonot@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Virginie", "Tetu", "virginie.tetu@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9169,7 +9169,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Viviane", "Lainel", "viviane.lainel@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Viviane", "Martin", "viviane.martin@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Viviane", "Martin", "viviane.martin@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Viviane", "Nicolas", "viviane.nicolas@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9189,7 +9189,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Wael", "Harrathi", "wael.harrathi@doctocare.com", "null", "APATS", "null", "ASSISTANT(E) DENTAIRE", "assistant-dentaire
 "),
-("Wahiba", "Bencheikh", "wahiba.bencheikh@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Wahiba", "Bencheikh", "wahiba.bencheikh@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Wassila", "Chlouk", "wassila.chlouk@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9225,7 +9225,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Yannick", "Sicard", "yannick.sicard@amapa.fr", "null", "DG HELP", "null", "null", "OPRTS
 "),
-("Yannick", "Vichy", "yannick.vichy@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Yannick", "Vichy", "yannick.vichy@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
 ("Yasmina", "Benali", "yasmina.benali@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9263,9 +9263,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Ysabel", "Collard", "ysabel.collard@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Yveline", "Toupin", "yveline.toupin@amapa.fr", "null", "TI JIKOUR", "null", "", "OPRTS
+("Yveline", "Toupin", "yveline.toupin@amapa.fr", "null", "TI JIKOUR", "null", "null", "OPRTS
 "),
-("Yveline", "Vincent", "yveline.vincent@amapa.fr", "null", "MONESTIER", "null", "", "OPRTS
+("Yveline", "Vincent", "yveline.vincent@amapa.fr", "null", "MONESTIER", "null", "null", "OPRTS
 "),
 ("Yvelise", "Fialeix", "yvelise.fialeix@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9287,9 +9287,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Yvette", "Kulpmann", "yvette.kulpmann@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Yvette", "Leyrat", "yvette.leyrat@amapa.fr", "null", "AMAPA", "null", "", "OPRTS
+("Yvette", "Leyrat", "yvette.leyrat@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Yvette", "Magnere", "yvette.magnere@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Yvette", "Magnere", "yvette.magnere@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Yvette", "Posselt", "yvette.posselt@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
@@ -9309,7 +9309,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 "),
 ("Zohra", "Belmadi", "zohra.belmadi@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),
-("Zohra", "Garde", "zohra.garde@amapa.fr", "null", "BSA", "null", "", "OPRTS
+("Zohra", "Garde", "zohra.garde@amapa.fr", "null", "BSA", "null", "null", "OPRTS
 "),
 ("Zohra", "Hitana", "zohra.hitana@amapa.fr", "null", "AMAPA", "null", "null", "OPRTS
 "),

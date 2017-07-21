@@ -98,6 +98,7 @@ def update_collaborateur (header=True) :
             
         content = content[:-2] + "),\n"
     
+    content = content.replace('""', '"null"')
     content = content[:-2] + "\n"
     content += "ON CONFLICT (mail) DO NOTHING;"
     
