@@ -47,7 +47,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Adriennne', 'Baltus', 'adriennne.baltus@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('L'Aéronat', '.', 'aeronat@popinns.com', 'null', 'null', 'null', 'null', 'null
+('L/Aéronat', '.', 'aeronat@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
 ('Agnes', 'Ayadi', 'agnes.ayadi@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -55,7 +55,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Agnès', 'Berger', 'agnes.berger@amapa.fr', 'null', 'null', 'null', 'Directrice', 'DG HELP
 '),
-('Agnès', 'Bouvet', 'agnes.bouvet@amapa.fr', 'null', 'null', 'null', 'Agent de soins à l'accueil de jour', 'Accueil de jour
+('Agnès', 'Bouvet', 'agnes.bouvet@amapa.fr', 'null', 'null', 'null', 'Agent de soins à l/accueil de jour', 'Accueil de jour
 '),
 ('Agnes', 'Bulter', 'agnes.bulter@doctocare.com', 'null', 'APATS', 'null', 'GYNECOLOGUE', 'medecin
 '),
@@ -95,7 +95,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Aicha', 'ElHarchiche', 'aicha.elharchiche@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Aie Aissata', 'Minthe', 'aie-aissata.minthe@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Aie Aissata', 'Minthe', 'aie-aissata.minthe@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Aimed', 'Badereddine', 'aimed.badereddine.exit@popinns.com', 'null', 'DG Hotels', 'null', 'DIRECTEUR DES OPERATIONS', 'OPRTS
 '),
@@ -439,7 +439,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Annabelle', 'Douat Heraud', 'annabelle.douat-heraud@doctocare.com', 'null', 'APATS', 'null', 'ASSISTANT(E) DENTAIRE', 'assistant-dentaire
 '),
-('Anne-Claire', 'Pouillon', 'anne-claire.pouillon@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d'Etat', 'Infirmerie
+('Anne-Claire', 'Pouillon', 'anne-claire.pouillon@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d/Etat', 'Infirmerie
 '),
 ('Anne-Elisabeth', 'Lavallee', 'anne-elisabeth.lavallee@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -655,7 +655,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Antonia', 'Schirra', 'antonia.schirra@amapa.fr', 'null', 'ASTL', 'null', 'null', 'OPRTS
 '),
-('Antonis', 'Notaras', 'antonis.notaras@popinns.com', 'null', 'null', 'null', 'Responsable Adjoint secteur socio-Ã©ducatif chargÃ© de l'accompagnement individuel', 'ADMIN
+('Antonis', 'Notaras', 'antonis.notaras@popinns.com', 'null', 'null', 'null', 'Responsable Adjoint secteur socio-Ã©ducatif chargÃ© de l/accompagnement individuel', 'ADMIN
 '),
 ('Arabelle', 'Mouzon', 'arabelle.mouzon@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -679,9 +679,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Arzu', 'Gungor', 'arzu.gungor@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Assa', 'Gassama', 'assa.gassama@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Assa', 'Gassama', 'assa.gassama@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
-('Assa', 'Traore', 'assa.traore@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'assistant-dentaire
+('Assa', 'Traore', 'assa.traore@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'assistant-dentaire
 '),
 ('Bonneveine', 'Assistante-Sociale', 'assistante-sociale@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1027,9 +1027,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Bernard', 'Dassonville', 'bernard.dassonville@doctocare.com', 'null', 'APATS', 'null', 'CARDIOLOGUE', 'medecin
 '),
-('Bernard', 'Marpeaux', 'bernard.marpeaux@doctocare.com', 'null', 'APATS', 'null', 'AGENT D'ENCADREMENT', 'assistant-direction
+('Bernard', 'Marpeaux', 'bernard.marpeaux@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ENCADREMENT', 'assistant-direction
 '),
-('Bernard', 'Zanardo', 'bernard.zanardo.exit@dgmail.fr', 'null', 'null', 'null', 'Directeur Administratif', ' Financier et du Système d'Information', 'AMAPA - Siège -Direction Administrative', ' Financière et du Système d'Information
+('Bernard', 'Zanardo', 'bernard.zanardo.exit@dgmail.fr', 'null', 'null', 'null', 'Directeur Administratif', ' Financier et du Système d/Information', 'AMAPA - Siège -Direction Administrative', ' Financière et du Système d/Information
 '),
 ('Bernard', 'Bensaid', 'bernard@bensaid.me', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1165,7 +1165,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Bruno', 'Neves', 'bruno.neves@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Bruno', 'Prossomariti', 'bruno.prossomariti.exit@dgmail.fr', 'null', 'null', 'null', 'Responsable Informatique DG Help - Amapa', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d'Information
+('Bruno', 'Prossomariti', 'bruno.prossomariti.exit@dgmail.fr', 'null', 'null', 'null', 'Responsable Informatique DG Help - Amapa', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d/Information
 '),
 ('Bruno', 'Vallorani', 'bruno.vallorani@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1213,7 +1213,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Carla Cristina', 'Poussin', 'carlacristina.poussin@amapa.fr', 'null', 'DG HELP', 'null', 'null', 'OPRTS
 '),
-('Carlene', 'Moreira Gomes', 'carlene.moreira-gomes-@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Carlene', 'Moreira Gomes', 'carlene.moreira-gomes-@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Carlos', 'Ferreira', 'carlos.ferreira@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -1293,7 +1293,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Caroline', 'Matoux', 'caroline.matoux@amapa.fr', 'null', 'null', 'null', 'null', 'OPRTS
 '),
-('Caroline', 'Meyer', 'caroline.meyer@popinns.com', 'null', 'null', 'null', 'Directrice Domaine de l'Arselle', 'null
+('Caroline', 'Meyer', 'caroline.meyer@popinns.com', 'null', 'null', 'null', 'Directrice Domaine de l/Arselle', 'null
 '),
 ('Caroline', 'Mocquot', 'caroline.mocquot@doctocare.com', 'null', 'DG Health', 'null', 'Chirurgien Dentiste', 'dentiste
 '),
@@ -1393,7 +1393,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Catherine', 'Gransagne', 'catherine.gransagne@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Catherine', 'Guegan', 'catherine.guegan@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Catherine', 'Guegan', 'catherine.guegan@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Catherine', 'Hayma', 'catherine.hayma@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -1443,7 +1443,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Catherine', 'Phalempin', 'catherine.phalempin@cliniquevauban.com', 'null', 'null', 'null', 'Coordinatrice', 'BLOC OPERATOIRE – SSPI
 '),
-('Catherine', 'Remy', 'catherine.remy@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Catherine', 'Remy', 'catherine.remy@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Catherine', 'Sezille De Mazancourt', 'catherine.sezilledemazancourt@cliniquevauban.com', 'null', 'null', 'null', 'Préparation programme opératoire', 'BLOC OPERATOIRE – SSPI
 '),
@@ -1553,7 +1553,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Celine', 'Mengwasser', 'celine.mengwasser@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Celine', 'Ngo Ndoknje', 'celine.ngo-ndoknje@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Celine', 'Ngo Ndoknje', 'celine.ngo-ndoknje@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Celine', 'Pariguet', 'celine.pariguet@doctocare.com', 'null', 'DG Optique', 'null', 'OPTICIEN(NE) DIRECTEUR', 'direction', ' opticien
 '),
@@ -1909,7 +1909,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Christine', 'Collet', 'christine.collet@cliniquevauban.com', 'null', 'null', 'null', 'Pharmacien', 'PHARMACIE
 '),
-('Christine', 'Depagne', 'christine.depagne@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Christine', 'Depagne', 'christine.depagne@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Christine', 'Dubois', 'christine.dubois@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -2033,7 +2033,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Claire', 'Roussette', 'claire.roussette@amapa.fr', 'null', 'TI JIKOUR', 'null', 'null', 'OPRTS
 '),
-('Claire', 'Versavel', 'claire.versavel@amapa.fr', 'null', 'null', 'null', 'Agent d'Imprimerie', 'AMAPA - Siège - Imprimerie
+('Claire', 'Versavel', 'claire.versavel@amapa.fr', 'null', 'null', 'null', 'Agent d/Imprimerie', 'AMAPA - Siège - Imprimerie
 '),
 ('Clara', 'Merrad', 'clara.merrad@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -2077,7 +2077,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Claudia', 'Demelo', 'claudia.demelo@doctocare.com', 'null', 'null', 'null', 'dentiste', 'null
 '),
-('Claudia', 'Descharmes', 'claudia.descharmes@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d'Etat', 'Infirmerie
+('Claudia', 'Descharmes', 'claudia.descharmes@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d/Etat', 'Infirmerie
 '),
 ('Claudia', 'Neuhaus', 'claudia.neuhaus@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -2259,7 +2259,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Corinne', 'Herve', 'corinne.herve@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Corinne', 'Heurtaut', 'corinne.heurtaut@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Corinne', 'Heurtaut', 'corinne.heurtaut@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Corinne', 'Journo', 'corinne.journo@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -2271,7 +2271,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Corinne', 'Mangin', 'corinne.mangin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Corinne', 'Marin', 'corinne.marin@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Corinne', 'Marin', 'corinne.marin@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Corinne', 'Maurin', 'corinne.maurin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -2323,7 +2323,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Cosette', 'Camoes', 'cosette.camoes@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Couvent', 'd'Hérépian', 'couventherepian@popinns.com', 'null', 'null', 'null', 'null', 'null
+('Couvent', 'd/Hérépian', 'couventherepian@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
 ('Réception', 'Cristallines', 'cristallines@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -2489,7 +2489,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Delphine', 'Giroire', 'delphine.giroire@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Delphine', 'Guillery', 'delphine.guillery@popinns.com', 'null', 'null', 'null', 'Directrice Chalet de l'Eterlou', 'null
+('Delphine', 'Guillery', 'delphine.guillery@popinns.com', 'null', 'null', 'null', 'Directrice Chalet de l/Eterlou', 'null
 '),
 ('Delphine', 'Gutierrez', 'delphine.gutierrez@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -2791,7 +2791,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Egg Hôtel', 'Sevran', 'EggHotel.Sevran@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Egis', 'Bureau d'étude', 'egis@dgmail.fr', 'null', 'null', 'null', 'null', 'null
+('Egis', 'Bureau d/étude', 'egis@dgmail.fr', 'null', 'null', 'null', 'null', 'null
 '),
 ('Ehpad acacias', 'Infirmiere cdd', 'ehpad.acacias.infirmiere.cdd@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
@@ -2829,7 +2829,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Elena', 'Gestel', 'elena.gestel@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Eliane', 'Borga', 'eliane.borga@amapa.fr', 'null', 'Ehpad Val-Montjoie', 'null', 'Agent d'accueil', 'Accueil
+('Eliane', 'Borga', 'eliane.borga@amapa.fr', 'null', 'Ehpad Val-Montjoie', 'null', 'Agent d/accueil', 'Accueil
 '),
 ('Eliane', 'Carmier', 'eliane.carmier@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -3009,7 +3009,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Emilienne', 'Valencia', 'emilienne.valencia@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Eminence', 'M'boussa', 'eminence.mboussa@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
+('Eminence', 'M/boussa', 'eminence.mboussa@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
 ('Emma', 'Olszakowski', 'emma.olszakowski@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -3029,7 +3029,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Emmanuelle', 'Faure', 'emmanuelle.faure@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Emmanuelle', 'Fily', 'emmanuelle.fily@amapa.fr', 'null', 'null', 'null', 'Responsable d'agence', 'AMAPA - SAINT JEAN DE BRAYE
+('Emmanuelle', 'Fily', 'emmanuelle.fily@amapa.fr', 'null', 'null', 'null', 'Responsable d/agence', 'AMAPA - SAINT JEAN DE BRAYE
 '),
 ('Emmanuelle', 'Herault', 'emmanuelle.herault@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -3099,7 +3099,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Esther', 'Poser', 'esther.poser@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Le Chalet', 'De l'Eterlou', 'eterlou@popinns.com', 'null', 'null', 'null', 'null', 'null
+('Le Chalet', 'De l/Eterlou', 'eterlou@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
 ('Etienne', 'Muller', 'etienne.muller@sidonie.fr', 'null', 'SIDONIE', 'null', 'null', '
 '),
@@ -3241,7 +3241,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Fabienne', 'Stengel', 'fabienne.stengel@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Fabienne', 'Theuriot', 'fabienne.theuriot@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Fabienne', 'Theuriot', 'fabienne.theuriot@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Fabienne', 'Thevenin', 'fabienne.thevenin@doctocare.com', 'null', 'APATS', 'null', 'ASSISTANT(E) DENTAIRE', 'assistant-dentaire
 '),
@@ -3377,7 +3377,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Florence', 'Couvert', 'florence.couvert@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Florence', 'D'alexandre', 'florence.dalexandre@amapa.fr', 'null', 'null', 'null', 'null', 'null
+('Florence', 'D/alexandre', 'florence.dalexandre@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
 ('Florence', 'Degardin', 'florence.degardin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -3439,7 +3439,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Franciane', 'Jungers', 'franciane.jungers@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Francine', 'Bakri', 'francine.bakri@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Francine', 'Bakri', 'francine.bakri@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Francine', 'Barone', 'francine.barone@cliniquebonneveine.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -3505,7 +3505,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Francoise', 'Le Calvez', 'francoise.lecalvez@amapa.fr', 'null', 'TI JIKOUR', 'null', 'null', 'OPRTS
 '),
-('Francoise', 'Legay Remy', 'francoise.legay-remy@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Francoise', 'Legay Remy', 'francoise.legay-remy@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Francoise', 'Louisia', 'francoise.louisia@doctocare.com', 'null', 'APATS', 'null', 'ASSISTANT(E) DENTAIRE', 'assistant-dentaire
 '),
@@ -3781,7 +3781,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Gregory', 'Badach', 'gregory.badach@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
-('Gregory', 'Bousselin', 'gregory.bousselin@doctocare.com', 'null', 'null', 'null', 'Responsable des Sytèmes d'Informations', 'null
+('Gregory', 'Bousselin', 'gregory.bousselin@doctocare.com', 'null', 'null', 'null', 'Responsable des Sytèmes d/Informations', 'null
 '),
 ('Gregory', 'Lamarque', 'gregory.lamarque@popinns.com', 'null', 'DG Holidays', 'null', 'Directeur', 'OPRTS
 '),
@@ -3815,7 +3815,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Gwendolyne', 'Martin', 'gwendolyne.martin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Habib', 'M Jamri', 'habib.m-jamri@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Habib', 'M Jamri', 'habib.m-jamri@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Habiba', 'Bouzid', 'habiba.bouzid@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -3929,9 +3929,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Hortense', 'Franquet', 'hortense.franquet@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
-('Hotel', 'D'Angleterre', 'hotelangleterre@popinns.com', 'null', 'DG Holidays', 'null', 'Reception', 'OPRTS
+('Hotel', 'D/Angleterre', 'hotelangleterre@popinns.com', 'null', 'DG Holidays', 'null', 'Reception', 'OPRTS
 '),
-('Houria', 'Haffar', 'houria.haffar@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Houria', 'Haffar', 'houria.haffar@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Houria', 'Slah', 'houria.slah@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4259,7 +4259,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Jeanne-Francoise', 'Madiamanima', 'jeanne-francoise.madiamanima@amapa.fr', 'null', 'MONESTIER', 'null', 'null', 'OPRTS
 '),
-('Jeanne Geraldine', 'Gelie', 'jeanne-geraldine.gelie@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Jeanne Geraldine', 'Gelie', 'jeanne-geraldine.gelie@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Jeanne-Marie', 'Launay', 'jeanne-marie.launay@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4267,7 +4267,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Jeanne', 'Masson', 'jeanne.masson@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Jeanne', 'Pernet', 'jeanne.pernet@amapa.fr', 'null', 'null', 'null', 'Infirmière diplômée d'état', 'Infirmerie
+('Jeanne', 'Pernet', 'jeanne.pernet@amapa.fr', 'null', 'null', 'null', 'Infirmière diplômée d/état', 'Infirmerie
 '),
 ('Jeanne', 'Theuillon', 'jeanne.theuillon@popinns.com', 'null', 'Association Popinns', 'null', 'Animatrice', 'OPRTS
 '),
@@ -4495,7 +4495,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Jose', 'Leal', 'jose.leal@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Josefa', 'Cousso', 'josefa.cousso@doctocare.com', 'null', 'DG Health', 'null', 'ChargÃ© d'animation Accueil dentaire', 'animation
+('Josefa', 'Cousso', 'josefa.cousso@doctocare.com', 'null', 'DG Health', 'null', 'ChargÃ© d/animation Accueil dentaire', 'animation
 '),
 ('Joseph', 'Fallone', 'joseph.fallone@doctocare.com', 'null', 'DG Optique', 'null', 'MONTEUR VENDEUR', 'opticien
 '),
@@ -4651,7 +4651,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Karim', 'Youssef', 'karim.youssef.exit@popinns.com', 'null', 'DG Hotels', 'null', 'stagiaire comptable paye', 'ADMIN
 '),
-('Karima', 'Bedj Bedj', 'karima.bedj-bedj@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Karima', 'Bedj Bedj', 'karima.bedj-bedj@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Karima', 'Derkaoui', 'karima.derkaoui@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -4939,7 +4939,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Laurence', 'Lopez', 'laurence.lopez@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Laurence', 'Lorillec', 'laurence.lorillec@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Laurence', 'Lorillec', 'laurence.lorillec@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Laurence', 'Maarek Bismuth', 'laurence.maarek-bismuth@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
@@ -4977,7 +4977,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Laurene', 'Ah Sing', 'laurene.ahsing@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
-('Laurent', 'Buisson', 'laurent.buisson@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Laurent', 'Buisson', 'laurent.buisson@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Laurent', 'Dallongeville', 'laurent.dallongeville@amapa.fr', 'null', 'BSA', 'null', 'null', 'OPRTS
 '),
@@ -5013,7 +5013,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Leïla', 'Boumenad', 'leila.boumenad@cliniquevauban.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Leila', 'Crochet', 'leila.crochet@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Leila', 'Crochet', 'leila.crochet@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Leila', 'Ghoubali', 'leila.ghoubali@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -5215,7 +5215,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Lydie', 'Tomczak', 'lydie.tomczak@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Lynda', 'Babou', 'lynda.babou@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Lynda', 'Babou', 'lynda.babou@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Lynda', 'Belaidi', 'lynda.belaidi.exit@popinns.com', 'null', 'Popinns', 'null', 'Animateur socio-éducatif', 'OPRTS
 '),
@@ -5303,7 +5303,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Malgorzata', 'Chevet', 'malgorzata.chevet@doctocare.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Malgorzata', 'Michalak', 'malgorzata.michalak@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Malgorzata', 'Michalak', 'malgorzata.michalak@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Malihe', 'Vossoughi Fasham', 'malihe.vossoughi-fasham@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
@@ -5377,7 +5377,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Maria-Dulce', 'Rama', 'maria-dulce.rama@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Maria Emilia', 'Teixeira', 'maria-emilia.teixeira@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Maria Emilia', 'Teixeira', 'maria-emilia.teixeira@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Maria-Helena', 'Rauner', 'maria-helena.rauner@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -5521,7 +5521,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Marie-Claude', 'Gromangin', 'marie-claude.gromangin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Marie Claude', 'Hautecoeur', 'marie-claude.hautecoeur@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Marie Claude', 'Hautecoeur', 'marie-claude.hautecoeur@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Marie-Claude', 'Maetz-Loeffler', 'marie-claude.maetz-loeffler@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -5883,7 +5883,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Marine', 'Devigne', 'marine.devigne@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Marine', 'Vernais', 'marine.vernais@popinns.com', 'null', 'Popinns', 'null', 'Agent d'accueil', 'OPRTS
+('Marine', 'Vernais', 'marine.vernais@popinns.com', 'null', 'Popinns', 'null', 'Agent d/accueil', 'OPRTS
 '),
 ('Marinelle', 'Lopes', 'marinelle.lopes@popinns.com', 'null', 'null', 'null', 'Responsable Call Center', 'Call Center
 '),
@@ -5895,7 +5895,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Marion', 'Deparois', 'marion.deparois@dgmail.fr', 'null', 'dghome', 'null', 'gestionnaire habitation', 'gestion
 '),
-('Marion', 'Fix', 'marion.fix@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d'Etat', 'Infirmerie
+('Marion', 'Fix', 'marion.fix@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d/Etat', 'Infirmerie
 '),
 ('Marion', 'Gargowitsch', 'marion.gargowitsch@popinns.com', 'null', 'null', 'null', 'Directrice', 'null
 '),
@@ -5921,7 +5921,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Marlene', 'Aboucaya', 'marlene.aboucaya@doctocare.com', 'null', 'APATS', 'null', 'CHIRURGIEN DENTISTE', 'dentiste
 '),
-('Marlene', 'Goncalves', 'marlene.goncalves@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Marlene', 'Goncalves', 'marlene.goncalves@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Marlene', 'Gross', 'marlene.gross@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -5955,7 +5955,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Martine', 'Blanquier', 'martine.blanquier@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Martine', 'Bourcier', 'martine.bourcier@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Martine', 'Bourcier', 'martine.bourcier@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Martine', 'Bourroux', 'martine.bourroux@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6073,7 +6073,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Marylise', 'Boulic', 'marylise.boulic@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Maryse', 'Bonnard', 'maryse.bonnard@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Maryse', 'Bonnard', 'maryse.bonnard@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Maryse', 'Bore', 'maryse.bore@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6293,7 +6293,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Michele', 'Marques', 'michele.marques@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Michele', 'Marseille', 'michele.marseille@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Michele', 'Marseille', 'michele.marseille@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Michele', 'Metz', 'michele.metz@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6613,7 +6613,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Nadia', 'Denos', 'nadia.denos@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Nadia', 'Do Nascimento', 'nadia.donascimento@amapa.fr', 'null', 'EHACAHB', 'null', 'Infirmière Diplômée d'Etat', 'EHPAD
+('Nadia', 'Do Nascimento', 'nadia.donascimento@amapa.fr', 'null', 'EHACAHB', 'null', 'Infirmière Diplômée d/Etat', 'EHPAD
 '),
 ('Nadia', 'Jimenez', 'nadia.jimenez@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6625,7 +6625,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Nadia', 'Mauny', 'nadia.mauny@amapa.fr', 'null', 'DG Help', 'null', 'null', 'OPRTS
 '),
-('Nadia', 'Mouchene', 'nadia.mouchene@popinns.com', 'null', 'Popinns', 'null', 'Agent d'accueil', 'OPRTS
+('Nadia', 'Mouchene', 'nadia.mouchene@popinns.com', 'null', 'Popinns', 'null', 'Agent d/accueil', 'OPRTS
 '),
 ('Nadia', 'Ott', 'nadia.ott@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6717,7 +6717,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Nalou', 'Boscariol', 'nalou.boscariol@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Naouel', 'Mohabeddine', 'naouel.mohabeddine@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Naouel', 'Mohabeddine', 'naouel.mohabeddine@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Naouel', 'Zeoid', 'naouel.zeoid@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -6889,7 +6889,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Nathalie', 'Robert', 'nathalie.robert@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Nathalie', 'Romain', 'nathalie.romain@doctocare.com', 'null', 'APATS', 'null', 'AGENT D'ENCADREMENT', 'assistant-direction
+('Nathalie', 'Romain', 'nathalie.romain@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ENCADREMENT', 'assistant-direction
 '),
 ('Nathalie', 'Romoli', 'nathalie.romoli@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7067,7 +7067,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Noumidia', 'Bouakkaz', 'noumidia.bouakkaz@doctocare.com', 'null', 'APATS', 'null', 'ASSISTANT(E) DENTAIRE', 'assistant-dentaire
 '),
-('Noura', 'Boufadane', 'noura.boufadane@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Noura', 'Boufadane', 'noura.boufadane@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Nouzha', 'Laayoune', 'nouzha.laayoune@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7313,7 +7313,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Patricia', 'Paquin', 'patricia.paquin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Patricia', 'Piaulet', 'patricia.piaulet@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Patricia', 'Piaulet', 'patricia.piaulet@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Patricia', 'Poupard', 'patricia.poupard@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7473,7 +7473,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Pierre', 'Rostaing', 'pierre.rostaing@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Pierre', 'Sireau', 'pierre.sireau@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Pierre', 'Sireau', 'pierre.sireau@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Pierre', 'Valensi', 'pierre.valensi@doctocare.com', 'null', 'APATS', 'null', 'GYNECOLOGUE', 'medecin
 '),
@@ -7499,7 +7499,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Prescilia', 'Da Silva', 'prescilia.dasilva@amapa.fr', 'null', 'null', 'null', 'null', 'null
 '),
-('Presqu'', 'ile', 'presquile@popinns.com', 'null', 'Popinns', 'null', 'null', 'null
+('Presqu/', 'ile', 'presquile@popinns.com', 'null', 'Popinns', 'null', 'null', 'null
 '),
 ('Priscilla', 'Solyga', 'priscilla.solyga@amapa.fr', 'null', 'null', 'null', 'Secrétaire facturation', 'AMAPA - Siège - Service facturation
 '),
@@ -7669,7 +7669,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Rose', 'DA SILVA', 'rose.dasilva@popinns.com', 'null', 'DG Holidays', 'null', 'Responsable Salle', 'OPRTS
 '),
-('Rose', 'Golinelli', 'rose.golinelli@amapa.fr', 'null', 'null', 'null', 'Agent d'Imprimerie', 'AMAPA -Siège - Imprimerie
+('Rose', 'Golinelli', 'rose.golinelli@amapa.fr', 'null', 'null', 'null', 'Agent d/Imprimerie', 'AMAPA -Siège - Imprimerie
 '),
 ('Rose', 'Pumo', 'rose.pumo@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7679,7 +7679,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Roseline', 'Gaidry', 'roseline.gaidry@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Rosella', 'N'doli', 'rosella.ndoli@dgmail.fr', 'null', 'Popinns', 'null', 'animatrice socio Ã©ducative', 'OPRTS
+('Rosella', 'N/doli', 'rosella.ndoli@dgmail.fr', 'null', 'Popinns', 'null', 'animatrice socio Ã©ducative', 'OPRTS
 '),
 ('Roselyne', 'Faure Brac', 'roselyne.faurebrac@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7821,7 +7821,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sabrina', 'Larcher', 'sabrina.larcher@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Sabrina', 'Martinez', 'sabrina.martinez@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Sabrina', 'Martinez', 'sabrina.martinez@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Sabrina', 'Matouk', 'sabrina.matouk@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7855,7 +7855,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Salvatorica', 'Abreder', 'salvatorica.abreder@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Samia', 'Adjed', 'samia.adjed@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT MEDICAL', 'accueil
+('Samia', 'Adjed', 'samia.adjed@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT MEDICAL', 'accueil
 '),
 ('Samia', 'Dahdouh', 'samia.dahdouh@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -7997,7 +7997,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sandrine', 'Loose', 'sandrine.loose@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Sandrine', 'Louis', 'sandrine.louis@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d'Etat', 'Infirmerie
+('Sandrine', 'Louis', 'sandrine.louis@amapa.fr', 'null', 'null', 'null', 'Infirmière Diplômée d/Etat', 'Infirmerie
 '),
 ('Sandrine', 'Matt', 'sandrine.matt@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -8547,7 +8547,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sylviane', 'Sadou', 'sylviane.sadou@amapa.fr', 'null', 'TI JIKOUR', 'null', 'null', 'OPRTS
 '),
-('Sylviane', 'Schmitt', 'sylviane.schmitt@amapa.fr', 'null', 'null', 'null', 'Responsable contentieux civil', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d'Information
+('Sylviane', 'Schmitt', 'sylviane.schmitt@amapa.fr', 'null', 'null', 'null', 'Responsable contentieux civil', 'AMAPA - Siège - Direction Administrative', ' Financière et du Système d/Information
 '),
 ('Sylviane', 'Testolin', 'sylviane.testolin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -8599,7 +8599,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Sylvie', 'Da Silva', 'sylvie.dasilva@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Sylvie', 'Denais', 'sylvie.denais@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Sylvie', 'Denais', 'sylvie.denais@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Sylvie', 'Douillet', 'sylvie.douillet@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -8729,11 +8729,11 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Teresa', 'Da Rocha-Pires-Toste', 'teresa.darocha-pires-toste@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Theresa', 'Ines', 'teresa.ines@doctocare.com', 'null', 'DG Health', 'null', 'ChargÃ© d'animation Accueil mÃ©dical', 'animation
+('Theresa', 'Ines', 'teresa.ines@doctocare.com', 'null', 'DG Health', 'null', 'ChargÃ© d/animation Accueil mÃ©dical', 'animation
 '),
 ('Teresa', 'Magalhaes', 'teresa.magalhaes@amapa.fr', 'null', 'DG HELP', 'null', 'null', 'OPRTS
 '),
-('Tereza', 'Fonte', 'tereza.fonte@popinns.com', 'null', 'Popinns', 'null', 'Agent d'accuel', 'OPRTS
+('Tereza', 'Fonte', 'tereza.fonte@popinns.com', 'null', 'Popinns', 'null', 'Agent d/accuel', 'OPRTS
 '),
 ('Signature', 'Test', 'test.test@doctocare.com', 'null', 'APATS', 'null', 'Médecin généraliste', 'Medecin
 '),
@@ -9061,13 +9061,13 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('victoria', 'dabramo', 'victoria.dabramo@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Victoria', 'Davidian', 'victoria.davidian@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Victoria', 'Davidian', 'victoria.davidian@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Victoria', 'Vadala', 'victoria.vadala@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
 ('Viktoria', 'Dziatko', 'viktoria.dziatko@popinns.com', 'null', 'DG Hotels', 'null', 'assistante comptable', 'ADMIN
 '),
-('Village', 'D'Oc', 'villagedoc@popinns.com', 'null', 'null', 'null', 'null', 'null
+('Village', 'D/Oc', 'villagedoc@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
 ('Villa', 'Mariale', 'villamariale@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
@@ -9089,7 +9089,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Reception', 'Virginia', 'virginia@popinns.com', 'null', 'null', 'null', 'null', 'null
 '),
-('Virginie', 'Almonecil', 'virginie.almonecil@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Virginie', 'Almonecil', 'virginie.almonecil@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
 ('Virginie', 'Bacquet', 'virginie.bacquet@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
@@ -9129,7 +9129,7 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Virginie', 'Pereira', 'virginie.pereira@doctocare.com', 'null', 'APATS', 'null', 'MONTEUR VENDEUR', 'assistant-dentaire
 '),
-('Virginie', 'Pichard', 'virginie.pichard@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D' ETAT', 'infirmiere
+('Virginie', 'Pichard', 'virginie.pichard@doctocare.com', 'null', 'APATS', 'null', 'INFIRMIER(E) DIPLOME(E) D/ ETAT', 'infirmiere
 '),
 ('Virginie', 'Picot', 'virginie.picot@doctocare.com', 'null', 'APATS', 'null', 'RESPONSABLE DE CENTRE DENTAIRE', 'direction
 '),
@@ -9251,9 +9251,9 @@ INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, descr
 '),
 ('Yolande', 'Perin', 'yolande.perin@amapa.fr', 'null', 'AMAPA', 'null', 'null', 'OPRTS
 '),
-('Yolene', 'Verstraete', 'yolene.verstraete@doctocare.com', 'null', 'APATS', 'null', 'AGENT D' ACCUEIL POLYVALENT DENTAIRE', 'accueil
+('Yolene', 'Verstraete', 'yolene.verstraete@doctocare.com', 'null', 'APATS', 'null', 'AGENT D/ ACCUEIL POLYVALENT DENTAIRE', 'accueil
 '),
-('Youcef', 'Kamed', 'youcef.kamed@dgmail.fr', 'null', 'null', 'null', 'Chef de projets Informatiques', 'Système d'information
+('Youcef', 'Kamed', 'youcef.kamed@dgmail.fr', 'null', 'null', 'null', 'Chef de projets Informatiques', 'Système d/information
 '),
 ('Yousra', 'Benhammadi', 'yousra.benhammadi@doctocare.com', 'null', 'APATS', 'null', 'ASSISTANT(E) DENTAIRE', 'assistant-dentaire
 '),
