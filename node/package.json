@@ -1,0 +1,11 @@
+{
+    "name": "userUpdate",
+    "version": "0.1.0",
+    "description": "Allow to automatically update doctocare-database with new Google User",
+    "dependencies": {
+        "@google-cloud/pubsub": "^0.13.2",
+        "google-auth-library": "^0.10.0",
+        "google-spreadsheet": "^2.0.4",
+        "googleapis": "^20.1.0"
+    }
+}
