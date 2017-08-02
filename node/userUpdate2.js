@@ -8,6 +8,9 @@ var googleAuth = require('google-auth-library');
 var googleSpreadsheet = require('google-spreadsheet');
 var service = google.admin('directory_v1');
 var retreivedUsers = [];
+var spreadSheetUrl = '1Vc5SufRGZVo0OVhrp_hsPt67UfQbdrkH_mRCcWksHs8';
+var EventEmitter = require('events').EventEmitter;
+var eventRetriever = new EventEmitter();
 
 // If modifying these scopes, delete your previously saved credentials
 // at ~/.credentials/admin-directory_v1-nodejs-quickstart.json
@@ -104,7 +107,7 @@ function storeToken(token) {
 function retreiveUsers(auth, pageToken = ''){
     var listObject = {
             customer: 'my_customer',
-            maxResults: 500,
+            maxResults: 20,
             auth: auth,
             orderBy: 'email',
             pageToken: pageToken
@@ -134,22 +137,80 @@ function retreiveUsers(auth, pageToken = ''){
 
         if (nextPageToken && nextPageToken !== '') {
           listObject.pageToken = nextPageToken;
-          retreiveUsers(auth, nextPageToken);
+          //retreiveUsers(auth, nextPageToken);
           console.log('running..');
       }else{
           console.log('All users retreived !');
-          retreivedUsers = listUsers;
-
+          //retreivedUsers = listUsers;
       }
+
+      console.log('Test sample retreived');
+      retreivedUsers = listUsers;
+      eventRetriever.emit('usersRetrieved', 'All users have been retrieved, and the event emitted..');
 
     });
 
 }
 
-function writeToSpreadsheet(){
-    console.log(retreivedUsers);
-}
-function sendMessage (topicName, data) {
+eventRetriever.on('usersRetrieved', function(message){
+
+    var doc = new googleSpreadsheet(spreadSheetUrl),
+        sheet = [],
+        values = [];
+
+    console.log(message);
+
+    doc.getInfo(function(err, info) {
+      console.log('Loaded doc: '+info.title+' by '+info.author.email);
+      sheet = info.worksheets[0];
+      console.log('sheet 1: '+sheet.title+' '+sheet.rowCount+'x'+sheet.colCount);
+
+      // Select and treat Data
+    for (i = 0; i < retreivedUsers.length; i += 1) {
+      var user = retreivedUsers[i];
+      var organization = retreivedUsers.organizations;
+
+      if (organization != undefined){
+        var costCenter = organization[0].costCenter,
+            description = organization[0].decription,
+            title = organization[0].title,
+            department = organization[0].department;
+
+      }else {
+        var costCenter = undefined,
+            description = undefined,
+            title = undefined,
+            department = undefined;
+      }
+
+      values.push([user.name.givenName, user.name.familyName, user.primaryEmail, user.phone, costCenter, description, title, department, user.kind]);
+
+    }
+
+    console.log(values);
+
+    var body = {
+      values: values
+    };
+
+    sheet.getRows({
+        offset: 1,
+        limit: 200
+      }, function( err, rows ){
+        console.log('Read '+rows.length+' rows');
+
+        // the row is an object with keys set by the column headers
+        rows[0].colname = 'Bisou <3';
+        rows[0].save(); // this is async
+
+        // deleting a row
+        rows[0].del();  // this is async
+      });
+    });
+
+});
+
+/** function sendMessage (topicName, data) {
   // Instantiates a client
   const pubsub = PubSub();
 
@@ -191,3 +252,4 @@ function receiveMessages (subscriptionName) {
       return subscription.ack(messages.map((message) => message.ackId));
     });
 }
+**/

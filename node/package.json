@@ -4,6 +4,8 @@
     "description": "Allow to automatically update doctocare-database with new Google User",
     "dependencies": {
         "@google-cloud/pubsub": "^0.13.2",
+        "EventEmitter": "^1.0.0",
+        "events": "^1.1.1",
         "google-auth-library": "^0.10.0",
         "google-spreadsheet": "^2.0.4",
         "googleapis": "^20.1.0"

@@ -104,7 +104,7 @@ function storeToken(token) {
 function retreiveUsers(auth, pageToken = ''){
     var listObject = {
             customer: 'my_customer',
-            maxResults: 500,
+            maxResults: 20,
             auth: auth,
             orderBy: 'email',
             pageToken: pageToken
@@ -134,21 +134,22 @@ function retreiveUsers(auth, pageToken = ''){
 
         if (nextPageToken && nextPageToken !== '') {
           listObject.pageToken = nextPageToken;
-          retreiveUsers(auth, nextPageToken);
+          //retreiveUsers(auth, nextPageToken);
           console.log('running..');
       }else{
           console.log('All users retreived !');
-          retreivedUsers = listUsers;
-
+          //retreivedUsers = listUsers;
       }
+
+      console.log('Test sample retreived');
+      retreivedUsers = listUsers;
 
     });
 
 }
 
-function writeToSpreadsheet(){
-    console.log(retreivedUsers);
-}
+function writeToSpreadsheet(){;}
+
 function sendMessage (topicName, data) {
   // Instantiates a client
   const pubsub = PubSub();
