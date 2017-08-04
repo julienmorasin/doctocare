@@ -76,13 +76,8 @@ def retreive_users():
 
     if not values:
         print('No data found.')
-    else:
-        print('Prenom, structure_juridique:')
-        for row in values:
-            # Print columns A and E, which correspond to indices 0 and 4.
-            print('%s, %s' % (row[0], row[4]))
-            
-    return values
+    else:        
+        return values
 
 def update_collaborateur (data, header=True) :
     ''' 
@@ -97,11 +92,12 @@ def update_collaborateur (data, header=True) :
     content = ''
     
     for row in data : 
-        # Suppresses all the annoying " characters #
         
         content += "("
         
         for cell in row :
+            cell = cell.replace('"', '')
+            print(cell)
             content += "\"" + cell + "\", "
             
         content = content[:-2] + "),\n"
