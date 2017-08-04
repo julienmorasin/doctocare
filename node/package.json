@@ -8,6 +8,7 @@
         "events": "^1.1.1",
         "google-auth-library": "^0.10.0",
         "google-spreadsheet": "^2.0.4",
-        "googleapis": "^20.1.0"
+        "googleapis": "^20.1.0",
+        "pg": "^7.0.2"
     }
 }
