@@ -79,47 +79,10 @@ def retreive_users():
     if not data:
         print('No data found.')
     else:
-        print(data[0:2])        
         return data
         
-def update_users(data, header = True):
-    ''' 
-        OUTDATED, Updates the database with the newly provided informations from the spreadsheet.
-    '''
-    
-    #"INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, description, titre, departement) VALUES\n")
-    
-    content = ''
-    
-    if (header == False) :
         
-        for row in data : 
-            
-            content = ''
-            
-            for cell in row :
-                cell = cell.replace('"', '')
-                content += '"' + cell + '", '
-                
-            content = content[:-2] + "),\n"
-            
-            content = content.replace('"', '')
-            content = content.replace('undefined', 'null')
-        
-        content = content.replace('""', '"null"')
-        content = content.replace("'", "/")
-        content = content.replace('"', "'")
-        content = content[:-2] + "\n"
-        content += "ON CONFLICT (mail) DO NOTHING;"
-        
-        
-        content = content.encode("UTF-8")
-        
-        data_output.write(content)
-        
-        data_output.close()
-        
-def direct_update (data, header = True) :
+def direct_update (data, table = "collaborateur", fields = ("prenom", "nom", "mail", "mobile", "structure_juridique", "description", "titre", "departement"), header = True) :
     '''
         Updates the doctocare-database with new data.
         
@@ -129,14 +92,27 @@ def direct_update (data, header = True) :
     '''
     
     # Generate the postgreSQL instructions from the data provided #    
-    instruction = "INSERT INTO collaborateur (prenom, nom, mail, mobile, structure_juridique, description, titre, departement) VALUES\n"
+    instruction = "INSERT INTO " + table + " (prenom, nom, mail, mobile, structure_juridique, description, titre, departement) VALUES\n"
     
-    for row in data : 
+    if (header) :
+        start = 1
+    else :
+        start = 0
+    
+    
+    for row in data[start:] : 
+        
+        while len(row) < len(fields) :
+            row.append("undefined")
         
         instruction += "("
         
         for cell in row :
             cell = cell.replace('"', '')
+            
+            if (cell == "") : 
+                cell = "undefined"
+                
             instruction += '"' + cell + '", '
             
         instruction = instruction[:-2] + "),\n"
@@ -148,13 +124,10 @@ def direct_update (data, header = True) :
     instruction = instruction[:-2] + "\n"
     instruction += "ON CONFLICT (mail) DO NOTHING;"
     
-    if (header) :
-        index = instruction.find(')')
-        instruction = instruction[index + 3:]
     
     instruction = instruction.encode("UTF-8")
     
-    print("Generated instruction : \n" + instruction)
+    print("Generated instruction : \n" + instruction + "...")
     
     # Update the data directly in the database #
     conn = psycopg2.connect(user='postgres', password='doctocare2049',
@@ -167,7 +140,7 @@ def direct_update (data, header = True) :
         print(e.pgerror)
         
     # Confirm the instruction #
-    confirm = raw_input("Are you sure you want to commit this instruction ? (y or n)")
+    confirm = raw_input("Are you sure you want to commit this instruction ? (y or n)  ")
     if (confirm == "y") :
         conn.commit()
         print("Database updated !")
